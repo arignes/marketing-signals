@@ -1,0 +1,214 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.com/signals.schema.json",
+  "title": "X Signals Schema",
+  "description": "Schema for daily X (Twitter) signals about card packs and digital collectibles",
+  "type": "object",
+  "required": [
+    "generated_at",
+    "date",
+    "status",
+    "window_hours",
+    "summary",
+    "top_posts",
+    "competitor_news",
+    "solflare_mentions",
+    "new_creators",
+    "post_ideas",
+    "sources_note"
+  ],
+  "properties": {
+    "generated_at": {
+      "type": "string",
+      "description": "ISO 8601 timestamp with timezone offset",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}[+-]\\d{2}:\\d{2}$"
+    },
+    "date": {
+      "type": "string",
+      "description": "Date in YYYY-MM-DD format (Europe/Madrid timezone)",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    },
+    "status": {
+      "type": "string",
+      "enum": ["ok", "quiet", "placeholder"],
+      "description": "Status of the signals collection"
+    },
+    "window_hours": {
+      "type": "integer",
+      "minimum": 0,
+      "description": "Number of hours covered in this signals report"
+    },
+    "summary": {
+      "type": "string",
+      "description": "Executive summary of the day's signals"
+    },
+    "top_posts": {
+      "type": "array",
+      "description": "Most significant posts from X",
+      "items": {
+        "type": "object",
+        "required": [
+          "url",
+          "author_handle",
+          "text",
+          "created_at",
+          "likes",
+          "reposts",
+          "replies",
+          "topic",
+          "why_it_matters"
+        ],
+        "properties": {
+          "url": {
+            "type": "string",
+            "format": "uri"
+          },
+          "author_handle": {
+            "type": "string"
+          },
+          "text": {
+            "type": "string"
+          },
+          "created_at": {
+            "type": "string",
+            "description": "ISO 8601 timestamp"
+          },
+          "likes": {
+            "type": ["integer", "null"],
+            "minimum": 0
+          },
+          "reposts": {
+            "type": ["integer", "null"],
+            "minimum": 0
+          },
+          "replies": {
+            "type": ["integer", "null"],
+            "minimum": 0
+          },
+          "quotes": {
+            "type": ["integer", "null"],
+            "minimum": 0
+          },
+          "topic": {
+            "type": "string"
+          },
+          "why_it_matters": {
+            "type": "string"
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "competitor_news": {
+      "type": "array",
+      "description": "News about competitors",
+      "items": {
+        "type": "object",
+        "required": ["project", "headline", "url", "date"],
+        "properties": {
+          "project": {
+            "type": "string"
+          },
+          "headline": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string",
+            "format": "uri"
+          },
+          "date": {
+            "type": "string",
+            "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "solflare_mentions": {
+      "type": "array",
+      "description": "Mentions of Solflare",
+      "items": {
+        "type": "object",
+        "required": ["url", "author_handle", "text", "sentiment", "likes"],
+        "properties": {
+          "url": {
+            "type": "string",
+            "format": "uri"
+          },
+          "author_handle": {
+            "type": "string"
+          },
+          "text": {
+            "type": "string"
+          },
+          "sentiment": {
+            "type": "string",
+            "enum": ["positive", "neutral", "negative"]
+          },
+          "likes": {
+            "type": ["integer", "null"],
+            "minimum": 0
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "new_creators": {
+      "type": "array",
+      "description": "New creators to watch",
+      "items": {
+        "type": "object",
+        "required": ["handle", "url", "followers", "segment", "crypto_friendly", "reason"],
+        "properties": {
+          "handle": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string",
+            "format": "uri"
+          },
+          "followers": {
+            "type": ["integer", "null"],
+            "minimum": 0
+          },
+          "segment": {
+            "type": "string"
+          },
+          "crypto_friendly": {
+            "type": "string",
+            "enum": ["yes", "no", "unknown"]
+          },
+          "reason": {
+            "type": "string"
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "post_ideas": {
+      "type": "array",
+      "description": "Suggested post ideas",
+      "items": {
+        "type": "object",
+        "required": ["idea", "draft_copy", "needs_legal_check"],
+        "properties": {
+          "idea": {
+            "type": "string"
+          },
+          "draft_copy": {
+            "type": "string"
+          },
+          "needs_legal_check": {
+            "type": "boolean"
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "sources_note": {
+      "type": "string",
+      "description": "Note about data sources"
+    }
+  },
+  "additionalProperties": false
+}
