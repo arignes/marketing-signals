@@ -1,0 +1,331 @@
+{
+  "generated_at": "2026-10-27T10:12:00+01:00",
+  "date": "2026-10-27",
+  "status": "ok",
+  "window_hours": 24,
+  "summary": "Collector Crypt had its biggest week yet: Crypto Banter, citing Blockworks data, says weekly gross revenue on Solana hit nearly $80M. At the same time Pump.fun quietly moved its gacha packs from Collector Crypt to Phygitals, and PrizePicks launched card packs for mainstream sports bettors. Solflare Packs talk was steady but mostly from small accounts and Guardians; the biggest post was @Tukytuky_'s first rare pull, boosted by a pack giveaway. Retail pain stayed loud, with huge engagement on Walmart Prismatic Evolutions drawings and complaints about scalpers and falling modern card prices.",
+  "top_posts": [
+    {
+      "url": "https://x.com/crypto_banter/status/2114667252066799704",
+      "author_handle": "@crypto_banter",
+      "text": "COLLECTOR CRYPT JUST POSTED ITS BIGGEST WEEK EVER! @Blockworks data shows @Collector_Crypt weekly gross revenue on Solana spiked to nearly $80M, the highest since launch.",
+      "created_at": "2026-10-26T10:35:36Z",
+      "likes": 52,
+      "reposts": 5,
+      "replies": 8,
+      "quotes": 0,
+      "topic": "competitor / partner",
+      "why_it_matters": "Our pack partner is at a record week, shared by a 441k-follower account (10.5k impressions). Good backdrop for Solflare Packs posts."
+    },
+    {
+      "url": "https://x.com/crypto_banter/status/2115000839873945683",
+      "author_handle": "@crypto_banter",
+      "text": "PUMPFUN QUIETLY SWITCHED TCG PACKS FROM COLLECTOR CRYPT TO PHYGITALS! Pump.fun launched its TCG gacha packs on Collector Crypt, then moved them to Phygitals with no official announcement from either side.",
+      "created_at": "2026-10-27T08:41:09Z",
+      "likes": 10,
+      "reposts": 2,
+      "replies": 2,
+      "quotes": 0,
+      "topic": "competitor",
+      "why_it_matters": "Yesterday's Pump.fun switch is now in big crypto media. Solflare is one of the bigger Collector Crypt outlets left."
+    },
+    {
+      "url": "https://x.com/Tukytuky_/status/2114815067141333375",
+      "author_handle": "@Tukytuky_",
+      "text": "MY FIRST RARE PULL ON @solflare PACKS. Had to celebrate with a giveaway. Giving away 1 Solflare Pack worth $50 to one of you. Like & RT & Drop your SOL wallet below",
+      "created_at": "2026-10-26T20:22:58Z",
+      "likes": 321,
+      "reposts": 227,
+      "replies": 256,
+      "quotes": 1,
+      "topic": "Solflare Packs / pull",
+      "why_it_matters": "Biggest Solflare Packs post of the day (6.6k impressions), but engagement is mostly giveaway entries, not organic interest."
+    },
+    {
+      "url": "https://x.com/PokemonDealsTCG/status/2114731007211671803",
+      "author_handle": "@PokemonDealsTCG",
+      "text": "Prismatic Evolutions Booster Bundle 2-Pack Drop Today at 2PM PT / 5PM ET! All Pokemon TCG Drawings... Free to join!",
+      "created_at": "2026-10-26T14:48:56Z",
+      "likes": 301,
+      "reposts": 17,
+      "replies": 10,
+      "quotes": 2,
+      "topic": "pain point: sold-out retail",
+      "why_it_matters": "399k impressions for a Walmart drawing alert. Collectors now enter lotteries just to buy packs at retail."
+    },
+    {
+      "url": "https://x.com/Rakermoon/status/2114763816131010884",
+      "author_handle": "@Rakermoon",
+      "text": "If your buying cards for this much you need your head testing. Happened with 30th and ascended heroes. If you're paying over the odds for Pokemon chase cards before release \"for grading\" even so it's a massive no no.",
+      "created_at": "2026-10-26T16:59:18Z",
+      "likes": 127,
+      "reposts": 0,
+      "replies": 10,
+      "quotes": 0,
+      "topic": "pain point: pricing",
+      "why_it_matters": "Collectors are wary of overpaying for chase cards. A reminder to keep our copy away from value talk."
+    },
+    {
+      "url": "https://x.com/itspokebear/status/2114657731780956453",
+      "author_handle": "@itspokebear",
+      "text": "Despite what people say about Pokemon still not printing enough, the evidence shows that they in fact are. All modern cards and sealed are down meaning that scalpers/investors aren't able to keep up or maintain their grasp/control of the market.",
+      "created_at": "2026-10-26T09:57:46Z",
+      "likes": 68,
+      "reposts": 2,
+      "replies": 21,
+      "quotes": 0,
+      "topic": "pain point: scalpers / market",
+      "why_it_matters": "10.7k impressions on the scalper and market mood. Mainstream collectors are tired of flippers."
+    },
+    {
+      "url": "https://x.com/RobinHubHB/status/2114794196586434665",
+      "author_handle": "@RobinHubHB",
+      "text": "Trading cards are heating up on Robinhood Chain. @pulldotfun is selling packs of PSA 9/10 Pokemon and Riftbound cards. Every card is vaulted, so collectors are shipping their hits home, selling them back or listing them the same day.",
+      "created_at": "2026-10-26T19:00:02Z",
+      "likes": 21,
+      "reposts": 5,
+      "replies": 4,
+      "quotes": 0,
+      "topic": "competitor",
+      "why_it_matters": "pull.fun on Robinhood Chain uses the same keep, sell back or ship pitch as us."
+    },
+    {
+      "url": "https://x.com/Brongis/status/2114759827704500577",
+      "author_handle": "@Brongis",
+      "text": "How cool is this card?? Newgate, \"Whitebeard\", the One Piece treasure rare, for sure one of the best card I pulled myself... Do you like it? Do you think I should sell it?",
+      "created_at": "2026-10-26T16:43:27Z",
+      "likes": 26,
+      "reposts": 0,
+      "replies": 18,
+      "quotes": 0,
+      "topic": "trending format / One Piece",
+      "why_it_matters": "'Keep or sell?' pull posts get lots of replies. Fits our keep, sell back or ship choice."
+    },
+    {
+      "url": "https://x.com/UniteVids/status/2114643200077955287",
+      "author_handle": "@UniteVids",
+      "text": "Pokémon TCG Pocket: The Second Anniversary Celebration Campaign starts on October 30 and runs until December 15. Players will receive a ticket that can be exchanged for a booster pack containing a guaranteed 2-star card!",
+      "created_at": "2026-10-26T09:00:01Z",
+      "likes": 899,
+      "reposts": 46,
+      "replies": 20,
+      "quotes": 3,
+      "topic": "digital packs / mainstream",
+      "why_it_matters": "Mainstream digital pack opening is big (53k impressions). TCG Pocket players are a natural audience for in-app pack rips."
+    },
+    {
+      "url": "https://x.com/playswave_com/status/2114767899231699065",
+      "author_handle": "@playswave_com",
+      "text": "FBI and Santa Ana police are now investigating the Oct. 13 theft of 6,451 graded items, nearly 3,000 Pokémon cards, worth $963K from a FedEx truck near PSA's grading center. PSA deactivated their certs to block resale.",
+      "created_at": "2026-10-26T17:15:32Z",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "quotes": 0,
+      "topic": "pain point: shipping / grading",
+      "why_it_matters": "Shipping cards to grade is risky. Our cards are already graded and vaulted."
+    }
+  ],
+  "competitor_news": [
+    {
+      "project": "Collector Crypt",
+      "headline": "Biggest week ever: nearly $80M weekly gross revenue on Solana, per Crypto Banter citing Blockworks",
+      "url": "https://x.com/crypto_banter/status/2114667252066799704",
+      "date": "2026-10-26"
+    },
+    {
+      "project": "Pump.fun / Phygitals",
+      "headline": "Crypto Banter reports Pump.fun quietly moved its TCG gacha packs from Collector Crypt to Phygitals, with no official announcement",
+      "url": "https://x.com/crypto_banter/status/2115000839873945683",
+      "date": "2026-10-27"
+    },
+    {
+      "project": "PrizePicks",
+      "headline": "PrizePicks Packs live: real basketball, football and Pokémon cards sold inside the PrizePicks app, with $5 packs and a signup bonus (per an affiliate post)",
+      "url": "https://x.com/BehindTheArc14/status/2114831902108500389",
+      "date": "2026-10-26"
+    },
+    {
+      "project": "pull.fun",
+      "headline": "Selling vaulted PSA 9/10 Pokémon and Riftbound packs on Robinhood Chain, Season 2 running (per RobinHub)",
+      "url": "https://x.com/RobinHubHB/status/2114794196586434665",
+      "date": "2026-10-26"
+    },
+    {
+      "project": "Rip Index",
+      "headline": "Tracker says 356k+ pulls and $60M volume across Collector Crypt, Courtyard, Phygitals, Monster and GachaPull last week, with rippers getting back 6.1% less than they paid",
+      "url": "https://x.com/Rip_Index/status/2114996430167282144",
+      "date": "2026-10-27"
+    },
+    {
+      "project": "MimiKrew",
+      "headline": "Launches a collective Pokémon pack opening on Solana where users pool USDC for shares",
+      "url": "https://x.com/MimiKrew/status/2114758526769729963",
+      "date": "2026-10-26"
+    },
+    {
+      "project": "Pokémon TCG Pocket",
+      "headline": "Second anniversary campaign 30 Oct to 15 Dec with a free pack ticket; Dual Fusion set lands 28 Oct",
+      "url": "https://x.com/UniteVids/status/2114643200077955287",
+      "date": "2026-10-26"
+    }
+  ],
+  "solflare_mentions": [
+    {
+      "url": "https://x.com/Tukytuky_/status/2114815067141333375",
+      "author_handle": "@Tukytuky_",
+      "text": "MY FIRST RARE PULL ON @solflare PACKS. Had to celebrate with a giveaway. Giving away 1 Solflare Pack worth $50... (giveaway-driven engagement)",
+      "sentiment": "positive",
+      "likes": 321
+    },
+    {
+      "url": "https://x.com/Solsmart12/status/2114834935651381464",
+      "author_handle": "@Solsmart12",
+      "text": "One thing I check before opening a Solflare Pack is the possible outcomes. Look at the Pro Pokémon Gacha Pack... The displayed odds are 80%, 15%...",
+      "sentiment": "positive",
+      "likes": 22
+    },
+    {
+      "url": "https://x.com/InioluwaHQ/status/2114687955788788136",
+      "author_handle": "@InioluwaHQ",
+      "text": "The Step-by-Step Opening Process. Opening a Solflare Pack follows a straightforward sequence that happens entirely inside your Solflare wallet.",
+      "sentiment": "positive",
+      "likes": 15
+    },
+    {
+      "url": "https://x.com/niexts/status/2114729660483289529",
+      "author_handle": "@niexts",
+      "text": "how does it actually work? now that we know what Solflare Packs is, let's get into the part that makes the experience interesting. you start by choosing a pack...",
+      "sentiment": "positive",
+      "likes": 12
+    },
+    {
+      "url": "https://x.com/diegoarmandoAD/status/2114703603378057617",
+      "author_handle": "@diegoarmandoAD",
+      "text": "Sometimes i feel that pulling a Pikachu is a Good Luck signal. Monday @solflare pack",
+      "sentiment": "positive",
+      "likes": 4
+    },
+    {
+      "url": "https://x.com/ealnoi/status/2114788785753936330",
+      "author_handle": "@ealnoi",
+      "text": "Pack-opening thrill with real vault backed ownership is smart.",
+      "sentiment": "positive",
+      "likes": 3
+    },
+    {
+      "url": "https://x.com/ScriptJava6/status/2114969107749634253",
+      "author_handle": "@ScriptJava6",
+      "text": "taco Tuesday! BUT MAKE IT SOLFLARE PACKS! Tacos for the taste buds, packs for the thrill.",
+      "sentiment": "positive",
+      "likes": 3
+    },
+    {
+      "url": "https://x.com/Beloxxi_irl/status/2114753101706252331",
+      "author_handle": "@Beloxxi_irl",
+      "text": "Solflare Packs are a fun way to explore digital collectibles on Solana... Think of it like opening a mystery pack, but on-chain. Have you tried it yet?",
+      "sentiment": "positive",
+      "likes": 0
+    }
+  ],
+  "new_creators": [
+    {
+      "handle": "@Tukytuky_",
+      "url": "https://x.com/Tukytuky_",
+      "followers": 16387,
+      "segment": "Crypto-native Solana creator",
+      "crypto_friendly": "yes",
+      "reason": "Posted a first rare pull from Solflare Packs; strong reach (6.6k impressions), though boosted by a giveaway."
+    },
+    {
+      "handle": "@diegoarmandoAD",
+      "url": "https://x.com/diegoarmandoAD",
+      "followers": 18926,
+      "segment": "Crypto-native collector",
+      "crypto_friendly": "yes",
+      "reason": "Posted a Pikachu pull from a Solflare pack; sizable following."
+    },
+    {
+      "handle": "@Brongis",
+      "url": "https://x.com/Brongis",
+      "followers": 14395,
+      "segment": "One Piece TCG collector",
+      "crypto_friendly": "unknown",
+      "reason": "Pull posts with 'keep or sell?' questions get many replies; we have One Piece packs."
+    },
+    {
+      "handle": "@Rakermoon",
+      "url": "https://x.com/Rakermoon",
+      "followers": 13682,
+      "segment": "Pokémon market commentator",
+      "crypto_friendly": "unknown",
+      "reason": "4.4k impressions on a post about overpaying for chase cards; trusted mainstream collector voice."
+    },
+    {
+      "handle": "@itspokebear",
+      "url": "https://x.com/itspokebear",
+      "followers": 2032,
+      "segment": "Pokémon market commentator",
+      "crypto_friendly": "unknown",
+      "reason": "10.7k impressions on a scalper and market post; good reach for its size."
+    },
+    {
+      "handle": "@Solsmart12",
+      "url": "https://x.com/Solsmart12",
+      "followers": 3193,
+      "segment": "Crypto-native Solflare Packs explainer",
+      "crypto_friendly": "yes",
+      "reason": "Wrote a Solflare Packs odds explainer that got 14 replies."
+    },
+    {
+      "handle": "@robman1286",
+      "url": "https://x.com/robman1286",
+      "followers": 906,
+      "segment": "Pokémon pack opening video creator",
+      "crypto_friendly": "unknown",
+      "reason": "Runs a 'Pokemon Roulette' pack opening series; fun format we could co-create."
+    },
+    {
+      "handle": "@flamadiddledoo",
+      "url": "https://x.com/flamadiddledoo",
+      "followers": 1336,
+      "segment": "Hobby writer on grading",
+      "crypto_friendly": "unknown",
+      "reason": "Wrote a long piece on the history of grading that got shares; grading is our angle."
+    },
+    {
+      "handle": "@RobinHubHB",
+      "url": "https://x.com/RobinHubHB",
+      "followers": 23716,
+      "segment": "Robinhood Chain news account",
+      "crypto_friendly": "yes",
+      "reason": "Covers card packs on Robinhood Chain; a route to crypto-curious retail users."
+    },
+    {
+      "handle": "@PokemonDealsTCG",
+      "url": "https://x.com/PokemonDealsTCG",
+      "followers": 348577,
+      "segment": "Pokémon restock and deals account",
+      "crypto_friendly": "unknown",
+      "reason": "Huge mainstream reach (399k impressions on one drawing alert); posts are paid #ad style, so a possible paid placement."
+    }
+  ],
+  "post_ideas": [
+    {
+      "idea": "Didn't win the drawing: speak to retail lottery fatigue",
+      "draft_copy": "Didn't win the drawing again?\n\nSolflare Packs are open any time.\n\nReal graded cards. Open in your wallet. No line. No drawing.",
+      "needs_legal_check": false
+    },
+    {
+      "idea": "Keep or sell: post a real pull and ask the audience",
+      "draft_copy": "Pulled this from a Solflare Pack today.\n\nKeep it, sell it back, or ship it home?\n\nTell us what you'd do 👇",
+      "needs_legal_check": false
+    },
+    {
+      "idea": "Already graded, already vaulted: speak to grading and shipping worries",
+      "draft_copy": "No mailing cards off to grade.\n\nEvery card in Solflare Packs is already graded by PSA or Beckett and vaulted by Collector Crypt.\n\nShip it home only when you want to.",
+      "needs_legal_check": false
+    }
+  ],
+  "sources_note": "X search via the x connector, posts from 2026-10-26 09:00 UTC to 2026-10-27 09:05 UTC, 7 searches. Engagement numbers are copied from the X API at scan time. The top Solflare Packs post (@Tukytuky_) is a giveaway, so its engagement is mostly entries. Most other Solflare Packs posts come from small accounts with low impressions, so read volume as campaign activity, not organic demand. Collector Crypt revenue and Pump.fun switch are third-party reports, not confirmed by the companies in this scan. PrizePicks Packs details come from an affiliate post. Spam, giveaway reply farms and token shill posts were skipped. Creators already in collector-base.csv or in yesterday's file were excluded."
+}
