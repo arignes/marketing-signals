@@ -1,0 +1,331 @@
+{
+  "generated_at": "2026-11-01T10:15:00+01:00",
+  "date": "2026-11-01",
+  "status": "ok",
+  "window_hours": 24,
+  "summary": "Halloween was a busy, mostly fun day. Mainstream collectors posted family rip sessions and Walmart restock hauls, while One Piece EB-05 came out and restock tracking was the main talk. On the crypto side, Collector Crypt got a lot of attention: a revenue list put it next to big crypto names, Blackboard launched Halloween packs powered by it, and a creator compared its $90 instant buyback to eBay and Courtyard payouts. Solflare Packs mentions were steady and positive, led by @Tukytuky_ and @diegoarmandoAD, with one angry reply calling the $69 packs a scam.",
+  "top_posts": [
+    {
+      "url": "https://x.com/ProfPokeQuant/status/2116576088793186471",
+      "author_handle": "@ProfPokeQuant",
+      "text": "I think I just found something the Pokémon card market hasn't caught onto yet. Some booster packs now have a calculated expected return of over 200%. Here's the math.",
+      "created_at": "2026-10-31T17:00:38Z",
+      "likes": 134,
+      "reposts": 4,
+      "replies": 9,
+      "quotes": 1,
+      "topic": "trend / pack value math",
+      "why_it_matters": "18.9k impressions, the most-seen pack post of the day. Collectors are hungry for pack value math. We should not echo the 'return' framing, but showing odds clearly fits this interest."
+    },
+    {
+      "url": "https://x.com/mythicalgrower/status/2116600385544786033",
+      "author_handle": "@mythicalgrower",
+      "text": "Halloween restock at Walmart!! @CardPurchaser insane they have all pokemon and One Piece plus all sports!!! What I bought below!",
+      "created_at": "2026-10-31T18:37:11Z",
+      "likes": 25,
+      "reposts": 1,
+      "replies": 2,
+      "quotes": 1,
+      "topic": "pain point / restock hunting",
+      "why_it_matters": "18.3k impressions. Retail restocks are still big news for collectors, which shows how hard sealed product is to find."
+    },
+    {
+      "url": "https://x.com/OnePieceDeal/status/2116651734458134595",
+      "author_handle": "@OnePieceDeal",
+      "text": "One Piece EB-05 Officially Released today. When it comes to One Piece releases the first two weeks are key as that is when they are the most consistent for restocks. You can check restock history for past One Piece releases here.",
+      "created_at": "2026-10-31T22:01:13Z",
+      "likes": 15,
+      "reposts": 0,
+      "replies": 1,
+      "quotes": 1,
+      "topic": "pain point / One Piece release",
+      "why_it_matters": "14.7k impressions. New One Piece set means another round of restock chasing. Packs you can open any time answer that."
+    },
+    {
+      "url": "https://x.com/Rakermoon/status/2116567541556396199",
+      "author_handle": "@Rakermoon",
+      "text": "Here's mine pulled this mew from celebrations and it's common. Seen loads of 'god' pulls on the timeline. It is possible but remember there are odds to check you can buy Pokemon cards too you want. Also tried collector crypt $50 Halloween packs which were decent.",
+      "created_at": "2026-10-31T16:26:40Z",
+      "likes": 124,
+      "reposts": 1,
+      "replies": 15,
+      "quotes": 0,
+      "topic": "Collector Crypt / odds",
+      "why_it_matters": "4.2k impressions. A mid-size Pokémon creator reminds people to check odds and tries Collector Crypt's Halloween packs. Odds shown up front is a message that lands."
+    },
+    {
+      "url": "https://x.com/Spoopymel/status/2116692322687525251",
+      "author_handle": "@Spoopymel",
+      "text": "My aunt who I don't get to see much is just getting into pokemon cards, and this is mostly everything we've both been collecting for this Halloween get together for a massive rip sesh🥹 wish her luck!",
+      "created_at": "2026-11-01T00:42:30Z",
+      "likes": 76,
+      "reposts": 0,
+      "replies": 3,
+      "quotes": 0,
+      "topic": "trend / family rip sessions",
+      "why_it_matters": "2.8k impressions. New, non-crypto collectors ripping packs as a social family moment. That is the mainstream audience we want."
+    },
+    {
+      "url": "https://x.com/Param_eth/status/2116545775140561335",
+      "author_handle": "@Param_eth",
+      "text": "Crypto revenue in the last 30 days: Tron: $24.2M Axiom: $13.0M GMGN: $10.2M Tether: $521.7M Circle: $208.6M Ethereum: $7.6M Pumpfun: $44.4M Polymarket: $15.9M Hyperliquid: $65.9M Collector Crypt (Pokémon cards): $18.6M. A trading card app made more than $ETH.",
+      "created_at": "2026-10-31T15:00:10Z",
+      "likes": 30,
+      "reposts": 1,
+      "replies": 15,
+      "quotes": 0,
+      "topic": "Collector Crypt / category",
+      "why_it_matters": "3.2k impressions. Third-party revenue claim (unverified), but it shows card packs are now seen as a major crypto category."
+    },
+    {
+      "url": "https://x.com/AleaResearch/status/2116564605790998642",
+      "author_handle": "@AleaResearch",
+      "text": "On a card insured at $100, a Collector Crypt machine pays $90 in USDC within seconds. An eBay sale leaves $86.35 after fees and before shipping, and Courtyard pays $84.60.",
+      "created_at": "2026-10-31T16:15:00Z",
+      "likes": 1,
+      "reposts": 0,
+      "replies": 1,
+      "quotes": 0,
+      "topic": "competitor / sell-back",
+      "why_it_matters": "823 impressions. Instant buyback is becoming the comparison point between platforms. Worth knowing for internal positioning, not for public copy."
+    },
+    {
+      "url": "https://x.com/Tukytuky_/status/2116552969386606949",
+      "author_handle": "@Tukytuky_",
+      "text": "What if you could collect Pokémon cards both IRL and onchain? 👀 With @solflare you have everything in one place: perps, staking, packs and more.",
+      "created_at": "2026-10-31T15:28:46Z",
+      "likes": 27,
+      "reposts": 4,
+      "replies": 9,
+      "quotes": 0,
+      "topic": "Solflare Packs",
+      "why_it_matters": "617 impressions. Most-liked Solflare Packs creator post of the day, framing packs as part of the wider wallet."
+    },
+    {
+      "url": "https://x.com/yun1manny/status/2116581508446384245",
+      "author_handle": "@yun1manny",
+      "text": "Ok I pulled my king, I retire from Prizepicks packs 🫡",
+      "created_at": "2026-10-31T17:22:10Z",
+      "likes": 10,
+      "reposts": 0,
+      "replies": 3,
+      "quotes": 0,
+      "topic": "competitor / PrizePicks Packs",
+      "why_it_matters": "3.2k impressions. PrizePicks Packs keeps getting pull posts from sports fans, though other users the same day called the packs a scam."
+    }
+  ],
+  "competitor_news": [
+    {
+      "project": "Collector Crypt",
+      "headline": "A 30-day crypto revenue list puts Collector Crypt at $18.6M, above Ethereum (unverified third-party claim)",
+      "url": "https://x.com/Param_eth/status/2116545775140561335",
+      "date": "2026-10-31"
+    },
+    {
+      "project": "Collector Crypt / Blackboard",
+      "headline": "Blackboard launches three limited Halloween Pokémon packs powered by Collector Crypt, from $50 USDC",
+      "url": "https://x.com/BlackboardFi/status/2116538503823839405",
+      "date": "2026-10-31"
+    },
+    {
+      "project": "Courtyard",
+      "headline": "Creator compares payouts on a $100-insured card: Collector Crypt $90 instant USDC, eBay $86.35 before shipping, Courtyard $84.60",
+      "url": "https://x.com/AleaResearch/status/2116564605790998642",
+      "date": "2026-10-31"
+    },
+    {
+      "project": "PrizePicks Packs",
+      "headline": "Mixed day: pull and 'GOAT pack' posts from users, alongside complaints that the packs give no return",
+      "url": "https://x.com/LSammiie24/status/2116518713612705963",
+      "date": "2026-10-31"
+    },
+    {
+      "project": "GameStop Power Packs",
+      "headline": "Users ask how buyback refunds and the Power Pack wallet work during a promo, showing confusion around payouts",
+      "url": "https://x.com/M_J3rez/status/2116720929573081400",
+      "date": "2026-11-01"
+    },
+    {
+      "project": "Disney Pinnacle",
+      "headline": "New 'locking' feature: lock a Predator Vol. 1 set to get priority draw access for Disney Villains drops",
+      "url": "https://x.com/vevefanz/status/2116580631387980091",
+      "date": "2026-10-31"
+    },
+    {
+      "project": "HoloScope",
+      "headline": "Beezie listings added; HoloScope now ranks graded slabs from Beezie, Collector Crypt and Phygitals in one feed",
+      "url": "https://x.com/holoscopetrade/status/2116717688399487428",
+      "date": "2026-11-01"
+    },
+    {
+      "project": "Raflux / Ripster",
+      "headline": "More Solana gacha entrants: Raflux 'Super Gacha' goes live with USDC packs, and a new app called Ripster is being promoted",
+      "url": "https://x.com/sabbirplug/status/2116548989877399679",
+      "date": "2026-10-31"
+    },
+    {
+      "project": "Pokémon TCG",
+      "headline": "Pokémon card prices drop after the 30th anniversary surge (X news summary)",
+      "url": "https://x.com/i/trending/2116575945444171783",
+      "date": "2026-10-31"
+    }
+  ],
+  "solflare_mentions": [
+    {
+      "url": "https://x.com/SolflareEmpire/status/2116495968623288439",
+      "author_handle": "@SolflareEmpire",
+      "text": "(media-only post, no text)",
+      "sentiment": "neutral",
+      "likes": 39
+    },
+    {
+      "url": "https://x.com/Tukytuky_/status/2116552969386606949",
+      "author_handle": "@Tukytuky_",
+      "text": "What if you could collect Pokémon cards both IRL and onchain? 👀 With @solflare you have everything in one place: perps, staking, packs and more.",
+      "sentiment": "positive",
+      "likes": 27
+    },
+    {
+      "url": "https://x.com/hyperstrike/status/2116520238464552970",
+      "author_handle": "@hyperstrike",
+      "text": "Just rip Solflare packs💛",
+      "sentiment": "positive",
+      "likes": 21
+    },
+    {
+      "url": "https://x.com/diegoarmandoAD/status/2116545745478173045",
+      "author_handle": "@diegoarmandoAD",
+      "text": "My @solflare packs strategy works sometimes (i believe🤣) Rip, Sell, Rip. Boom",
+      "sentiment": "positive",
+      "likes": 17
+    },
+    {
+      "url": "https://x.com/diegoarmandoAD/status/2116591029293920518",
+      "author_handle": "@diegoarmandoAD",
+      "text": "Opened 2 fire packs on my way home. @solflare makes commuting more fun. Enjoy your saturday",
+      "sentiment": "positive",
+      "likes": 2
+    },
+    {
+      "url": "https://x.com/NoxWilson/status/2116560428838813802",
+      "author_handle": "@NoxWilson",
+      "text": "Much love back to @FabianoSolana He send out @solflare Starter packs for his supporters.",
+      "sentiment": "positive",
+      "likes": 1
+    },
+    {
+      "url": "https://x.com/S0Msznn/status/2116626407237300595",
+      "author_handle": "@S0Msznn",
+      "text": "since Pockemon packs arrived on Solflare, I genuinely haven't ripped any... I might not be able to contain my joy the day I finally get to rip one",
+      "sentiment": "positive",
+      "likes": 0
+    },
+    {
+      "url": "https://x.com/sicgent/status/2116562292141662380",
+      "author_handle": "@sicgent",
+      "text": "@solflare ain't give me shit and I've pulled over 4k in $25 pack, fuck that $69 packs it's a scam",
+      "sentiment": "negative",
+      "likes": 0
+    }
+  ],
+  "new_creators": [
+    {
+      "handle": "@yun1manny",
+      "url": "https://x.com/yun1manny",
+      "followers": 9164,
+      "segment": "Sports fan / PrizePicks Packs ripper",
+      "crypto_friendly": "unknown",
+      "reason": "Posts PrizePicks pack pulls (3.2k impressions); a sports fan already buying digital packs outside crypto."
+    },
+    {
+      "handle": "@SergioCollects",
+      "url": "https://x.com/SergioCollects",
+      "followers": 5706,
+      "segment": "Digital collectibles host (VeVe, Disney Pinnacle, Panini)",
+      "crypto_friendly": "unknown",
+      "reason": "Runs live shows on digital collectibles; reaches people already used to digital drops."
+    },
+    {
+      "handle": "@Spoopymel",
+      "url": "https://x.com/Spoopymel",
+      "followers": 4287,
+      "segment": "Pokémon collector / family rip sessions",
+      "crypto_friendly": "unknown",
+      "reason": "Halloween family rip post got 76 likes and 2.8k impressions; mainstream, warm tone."
+    },
+    {
+      "handle": "@mythicalgrower",
+      "url": "https://x.com/mythicalgrower",
+      "followers": 2131,
+      "segment": "Pokémon, One Piece and sports retail hunter",
+      "crypto_friendly": "unknown",
+      "reason": "Walmart restock haul got 18.3k impressions; speaks to restock-hunting collectors."
+    },
+    {
+      "handle": "@OnePieceDeal",
+      "url": "https://x.com/OnePieceDeal",
+      "followers": 1522,
+      "segment": "One Piece TCG release and restock tracker",
+      "crypto_friendly": "unknown",
+      "reason": "EB-05 release post got 14.7k impressions; a go-to for One Piece buyers."
+    },
+    {
+      "handle": "@BabySpy_eth",
+      "url": "https://x.com/BabySpy_eth",
+      "followers": 1403,
+      "segment": "Crypto-native pack ripper",
+      "crypto_friendly": "yes",
+      "reason": "Says instant USDC buyback keeps them ripping; crypto-friendly card fan."
+    },
+    {
+      "handle": "@ProfPokeQuant",
+      "url": "https://x.com/ProfPokeQuant",
+      "followers": 1297,
+      "segment": "Pokémon pack value analyst",
+      "crypto_friendly": "unknown",
+      "reason": "Pack math post got 134 likes and 18.9k impressions. Good reach, but his 'expected return' framing is not one we should borrow."
+    },
+    {
+      "handle": "@dalethaniel",
+      "url": "https://x.com/dalethaniel",
+      "followers": 935,
+      "segment": "One Piece TCG collector",
+      "crypto_friendly": "unknown",
+      "reason": "Posted about a $3k One Piece pull ruined by a print issue; a real quality pain point."
+    },
+    {
+      "handle": "@snmntzkjjng",
+      "url": "https://x.com/snmntzkjjng",
+      "followers": 889,
+      "segment": "Pokémon collector / rip sessions",
+      "crypto_friendly": "unknown",
+      "reason": "Posts rip sessions and below-MSRP finds; mainstream collector voice."
+    },
+    {
+      "handle": "@tarvercards",
+      "url": "https://x.com/tarvercards",
+      "followers": 741,
+      "segment": "Sports card mystery/slab pack ripper",
+      "crypto_friendly": "unknown",
+      "reason": "Opens Arena Club slab packs and asks 'which would you rather have' questions."
+    }
+  ],
+  "post_ideas": [
+    {
+      "idea": "Ride the Halloween family rip trend with a light community question",
+      "draft_copy": "Who got you into cards?\n\nA parent, a sibling, a friend, an aunt?\n\nTag them 👇",
+      "needs_legal_check": false
+    },
+    {
+      "idea": "Answer the restock chase around new releases, without naming any store",
+      "draft_copy": "New set out, shelves empty again?\n\nOpen packs of real graded cards in your Solflare wallet. Any time, no line.\n\n18+",
+      "needs_legal_check": false
+    },
+    {
+      "idea": "Borrow the 'which would you rather' format with two real pulls from our packs",
+      "draft_copy": "Which one are you keeping?\n\nA or B 👇",
+      "needs_legal_check": false
+    }
+  ],
+  "sources_note": "X search via the x connector, posts from 2026-10-31 09:00 UTC to 2026-11-01 09:00 UTC, 9 post searches and 1 X news search. Engagement numbers are copied from the X API at scan time. The Collector Crypt revenue figure is an unverified third-party claim; the Pokémon price drop item is an X news summary (Grok-written). @SolflareEmpire's top post was media-only, so its content is not described. Payments talk was thin: card, Apple Pay and wallet searches mostly returned memecoin and trading posts, which were skipped. Restock bots (PokeWatchCanada, packpingnet), eBay listing posts, referral-link promos, token shills (e.g. $SLABS) and repeated phygital NFT spam (SurRNFTs) were skipped. Creators already in collector-base.csv or earlier daily files were excluded. The 'which would you rather' idea needs real pulls chosen by the team; no odds or value claims are included."
+}
