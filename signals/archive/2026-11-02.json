@@ -1,0 +1,343 @@
+{
+  "generated_at": "2026-11-02T10:20:00+01:00",
+  "date": "2026-11-02",
+  "status": "ok",
+  "window_hours": 24,
+  "summary": "A quieter Sunday with a cooling mood: big posts said the Pokémon card bubble is topping, and an X news story said 30th Celebration cards lost about half their value. Collector pain was loud and real: scalpers cutting kids in line, empty shelves, and PSA grading that costs a lot and takes months. On the crypto side, Collector Crypt got both praise (stock tripled, One Piece now its biggest category) and a viral complaint about its web app and no mobile app. Solflare Packs mentions were steady and positive, led by @witty_cruz and @AiFlippa ripping the Fire Poke pack, with no negative posts found.",
+  "top_posts": [
+    {
+      "url": "https://x.com/ZoomerOracle/status/2117036497316856245",
+      "author_handle": "@ZoomerOracle",
+      "text": "I sold my pokemon cards (which I started buying in 2020) in april of this year. Reality is that no single card is worth a year worth of salary. The pokemon bubble is just a side effect of the increasing wealth bubble of internet money being made (crypto, stock...",
+      "created_at": "2026-11-01T23:30:08Z",
+      "likes": 169,
+      "reposts": 3,
+      "replies": 20,
+      "quotes": 0,
+      "topic": "trend / market mood",
+      "why_it_matters": "21.4k impressions, the most-seen card post of the day. 'Bubble' talk is growing, so fun-first, non-investment messaging is the safer lane."
+    },
+    {
+      "url": "https://x.com/robman1286/status/2116986256013889540",
+      "author_handle": "@robman1286",
+      "text": "On this episode of Pokemon Roulette I open a Mega Evolutions Delta Reign ETB with a Chainsaw! The pulls weren't the best with this TCG pokemon pack opening...",
+      "created_at": "2026-11-01T20:10:29Z",
+      "likes": 19,
+      "reposts": 1,
+      "replies": 3,
+      "quotes": 1,
+      "topic": "format / gimmick pack openings",
+      "why_it_matters": "11.6k impressions. Gimmick openings and recurring episode series pull views. Note: post also carries a BOGO promo code for a rival pack site (@gradedishere)."
+    },
+    {
+      "url": "https://x.com/bull_genius/status/2116964466638086558",
+      "author_handle": "@bull_genius",
+      "text": "pokemon cards absolutely topped... the pokemon chart is a complete banana parabola and theyre very illiquid. cost of psa grading is absurd and it takes like 3 months to grade",
+      "created_at": "2026-11-01T18:43:54Z",
+      "likes": 51,
+      "reposts": 2,
+      "replies": 16,
+      "quotes": 1,
+      "topic": "pain point / grading cost and wait",
+      "why_it_matters": "10k impressions. Grading cost and a ~3 month wait is a clear pain point. Our cards come already graded (PSA/Beckett)."
+    },
+    {
+      "url": "https://x.com/MasonVersluis/status/2116964512565960814",
+      "author_handle": "@MasonVersluis",
+      "text": "Collector Crypt makes $15 MILLION every month and still has the SHITTIEST web app I've ever seen + no mobile app. What the actual fuck are you doing with all that money!? @Collector_Crypt",
+      "created_at": "2026-11-01T18:44:05Z",
+      "likes": 28,
+      "reposts": 3,
+      "replies": 8,
+      "quotes": 0,
+      "topic": "competitor / UX gap",
+      "why_it_matters": "7.4k impressions from a 260k-follower account. Users want packs on mobile in a good app. Opening in the Solflare wallet answers that (internal positioning only, don't name them publicly)."
+    },
+    {
+      "url": "https://x.com/makopnl/status/2116977090994299355",
+      "author_handle": "@makopnl",
+      "text": "day 2 of my daily Pokemon pack opening series on #Solana. by now, most people know about $CARDS and their concept where every NFT is backed by a real physical card. the platform offers 3 packs to new users, so i decided to open them...",
+      "created_at": "2026-11-01T19:34:04Z",
+      "likes": 42,
+      "reposts": 2,
+      "replies": 27,
+      "quotes": 15,
+      "topic": "format / daily opening series",
+      "why_it_matters": "2.4k impressions and 15 quotes. A daily opening series is a format that gets people coming back; free starter packs are the hook."
+    },
+    {
+      "url": "https://x.com/PsychedelicBart/status/2117041182433845302",
+      "author_handle": "@PsychedelicBart",
+      "text": "Grown men sprinting past a line of kids this morning just to get handed zero Pokémon cards is peak pathetic. My son and I were just trying to return some toys when ~5 scalpers cut everyone and rushed the doors.",
+      "created_at": "2026-11-01T23:48:45Z",
+      "likes": 22,
+      "reposts": 0,
+      "replies": 5,
+      "quotes": 0,
+      "topic": "pain point / scalpers",
+      "why_it_matters": "1.1k impressions. Parents and mainstream collectors are tired of scalpers and lines. That's our mainstream audience."
+    },
+    {
+      "url": "https://x.com/witty_cruz/status/2116877753463321045",
+      "author_handle": "@witty_cruz",
+      "text": "Pulled a rare solflare Pack, flipped it, and put the USDC straight into @solflare Earn. 💛 Steady on motion with Solflare. 👑🔥",
+      "created_at": "2026-11-01T12:59:20Z",
+      "likes": 36,
+      "reposts": 5,
+      "replies": 8,
+      "quotes": 1,
+      "topic": "Solflare Packs",
+      "why_it_matters": "Most-liked Solflare Packs post of the day (812 impressions). Shows packs linking to other wallet features."
+    },
+    {
+      "url": "https://x.com/AiFlippa/status/2116947665065791706",
+      "author_handle": "@AiFlippa",
+      "text": "Ripped the limited time Fire Poke pack on @solflare. Pulled a Zard & could've taken the 90% buyback. Could've thrown it in the binder even. Instead I loaded it straight into the @thebyefun Silver machine.",
+      "created_at": "2026-11-01T17:37:08Z",
+      "likes": 26,
+      "reposts": 4,
+      "replies": 6,
+      "quotes": 1,
+      "topic": "Solflare Packs",
+      "why_it_matters": "977 impressions. Clear explainer of the keep / sell back choice, from a creator."
+    },
+    {
+      "url": "https://x.com/AleaResearch/status/2116881693844058268",
+      "author_handle": "@AleaResearch",
+      "text": "Collector Crypt tripled the cards in its machines from the end of May to the end of September, to $26.0M of book value. A machine's published odds hold while each tier has cards to draw. One Piece passed Pokémon as the largest category by stock.",
+      "created_at": "2026-11-01T13:15:00Z",
+      "likes": 2,
+      "reposts": 0,
+      "replies": 1,
+      "quotes": 0,
+      "topic": "competitor / supply",
+      "why_it_matters": "744 impressions. Supply behind our packs is growing and One Piece is now the largest category, worth reflecting in posts."
+    },
+    {
+      "url": "https://x.com/CallumMelly/status/2116821501768823267",
+      "author_handle": "@CallumMelly",
+      "text": "\"NFTs are dead\" is something I hear most weeks. Yesterday, Mudwater Packs topped Solana in NFT collection sales, with ~150 SOL in volume. For anyone new to them: Mudwater is @BoredApeYC's TCG that launched at ApeFest. You can rip physical and digital packs...",
+      "created_at": "2026-11-01T09:15:49Z",
+      "likes": 19,
+      "reposts": 2,
+      "replies": 6,
+      "quotes": 0,
+      "topic": "competitor / Mudwater",
+      "why_it_matters": "1.6k impressions. Yuga's phygital packs are a new rival for crypto-native pack buyers on Solana."
+    }
+  ],
+  "competitor_news": [
+    {
+      "project": "Collector Crypt",
+      "headline": "Card stock in its machines tripled from end of May to end of September to $26.0M book value; One Piece passed Pokémon as largest category",
+      "url": "https://x.com/AleaResearch/status/2116881693844058268",
+      "date": "2026-11-01"
+    },
+    {
+      "project": "Collector Crypt",
+      "headline": "260k-follower account calls out its web app and lack of a mobile app (7.4k impressions)",
+      "url": "https://x.com/MasonVersluis/status/2116964512565960814",
+      "date": "2026-11-01"
+    },
+    {
+      "project": "Onchain packs (DefiLlama)",
+      "headline": "7-day volumes shared: Collector Crypt $52.5M (-29%), Courtyard $17.3M (-29%), Phygitals $7.5M (+166%), Jupiter Gacha $3.4M (-24%), Beezie $0.94M (-54%) (third-party post, unverified)",
+      "url": "https://x.com/0xphliz/status/2116867615046189300",
+      "date": "2026-11-01"
+    },
+    {
+      "project": "Mudwater (Yuga Labs)",
+      "headline": "BAYC's phygital TCG packs topped Solana NFT collection sales with ~150 SOL in a day; also an X news story",
+      "url": "https://x.com/CallumMelly/status/2116821501768823267",
+      "date": "2026-11-01"
+    },
+    {
+      "project": "Sleeved",
+      "headline": "Pack app serving pulls through Collector Crypt's partner API on Robinhood Chain",
+      "url": "https://x.com/TrySleeved/status/2117054331275067513",
+      "date": "2026-11-02"
+    },
+    {
+      "project": "Pullympus",
+      "headline": "New onchain graded-card pack app teased: public odds, drand randomness, keep, sell back or ship",
+      "url": "https://x.com/pullympus/status/2117167374486946260",
+      "date": "2026-11-02"
+    },
+    {
+      "project": "GrailDay",
+      "headline": "New pack site promo: 65 packs from $5 to $5,000 across Pokémon, One Piece and sports, vault, ship or sell",
+      "url": "https://x.com/grailday/status/2116977707934236999",
+      "date": "2026-11-01"
+    },
+    {
+      "project": "Pokémon TCG",
+      "headline": "Pokémon 30th Celebration cards drop about 50% in value after hype (X news summary)",
+      "url": "https://x.com/i/trending/2116575945444171783",
+      "date": "2026-11-01"
+    },
+    {
+      "project": "Pokémon TCG",
+      "headline": "Mega Evolution Delta Reign releases Nov 6; preorders open",
+      "url": "https://x.com/Xcardlandmarket/status/2117076217199263812",
+      "date": "2026-11-02"
+    }
+  ],
+  "solflare_mentions": [
+    {
+      "url": "https://x.com/witty_cruz/status/2116877753463321045",
+      "author_handle": "@witty_cruz",
+      "text": "Pulled a rare solflare Pack, flipped it, and put the USDC straight into @solflare Earn. 💛 Steady on motion with Solflare. 👑🔥",
+      "sentiment": "positive",
+      "likes": 36
+    },
+    {
+      "url": "https://x.com/AiFlippa/status/2116947665065791706",
+      "author_handle": "@AiFlippa",
+      "text": "Ripped the limited time Fire Poke pack on @solflare. Pulled a Zard & could've taken the 90% buyback. Could've thrown it in the binder even.",
+      "sentiment": "positive",
+      "likes": 26
+    },
+    {
+      "url": "https://x.com/1zeeth/status/2116898838858367042",
+      "author_handle": "@1zeeth",
+      "text": "sweet Solflare packs think was from @FabianoSolana thanks man",
+      "sentiment": "positive",
+      "likes": 10
+    },
+    {
+      "url": "https://x.com/SolflareBifrost/status/2116873789480870136",
+      "author_handle": "@SolflareBifrost",
+      "text": "Everyday is a good day to rip @solflare packs !! Legend started the mouth pulling a rare card!",
+      "sentiment": "positive",
+      "likes": 5
+    },
+    {
+      "url": "https://x.com/JustSpendMOR3/status/2116899674917396515",
+      "author_handle": "@JustSpendMOR3",
+      "text": "Slow sunday? Waiting for something? Just rip more @solflare packs! Congrats @zeuscrypto3016 Good luck 🤞",
+      "sentiment": "positive",
+      "likes": 4
+    },
+    {
+      "url": "https://x.com/IsaacO63541/status/2117136954055684447",
+      "author_handle": "@IsaacO63541",
+      "text": "🔥 @HotHeadsNFT is back on @solflare ! Remember the limited-time FIRE POKE pack? It's making a comeback, giving collectors another chance to get in on the action.",
+      "sentiment": "positive",
+      "likes": 0
+    },
+    {
+      "url": "https://x.com/LostSnow_Rin/status/2116959261183926510",
+      "author_handle": "@LostSnow_Rin",
+      "text": "@Sinsonx @solflare You can just rip packs straight from inside the wallet????",
+      "sentiment": "neutral",
+      "likes": 0
+    },
+    {
+      "url": "https://x.com/Messiahdegreat/status/2117044364434117022",
+      "author_handle": "@Messiahdegreat",
+      "text": "surprise pack from solflare. Like Pokémon.... You can only open this(rip it) and see what you get. Sell it based on what it's worth on solflare platform, in 24 or 48 hours(can't remember the exact timeframe)",
+      "sentiment": "neutral",
+      "likes": 0
+    }
+  ],
+  "new_creators": [
+    {
+      "handle": "@MasonVersluis",
+      "url": "https://x.com/MasonVersluis",
+      "followers": 260756,
+      "segment": "Crypto creator / Collector Crypt user",
+      "crypto_friendly": "yes",
+      "reason": "Big crypto account that uses card packs and wants a better mobile experience; his complaint got 7.4k impressions."
+    },
+    {
+      "handle": "@PsychedelicBart",
+      "url": "https://x.com/PsychedelicBart",
+      "followers": 34377,
+      "segment": "Parent / mainstream Pokémon buyer",
+      "crypto_friendly": "unknown",
+      "reason": "Scalper story with his son got 1.1k impressions; a mainstream parent voice on retail pain."
+    },
+    {
+      "handle": "@sirshibaninja",
+      "url": "https://x.com/sirshibaninja",
+      "followers": 7410,
+      "segment": "Crypto-native graded card ripper (Trophy)",
+      "crypto_friendly": "yes",
+      "reason": "Posts graded Pokémon pulls from an onchain pack site; already used to digital packs."
+    },
+    {
+      "handle": "@witty_cruz",
+      "url": "https://x.com/witty_cruz",
+      "followers": 5145,
+      "segment": "Solflare community / pack ripper",
+      "crypto_friendly": "yes",
+      "reason": "Most-liked Solflare Packs post of the day; ties packs to other Solflare features."
+    },
+    {
+      "handle": "@isaacrlevin",
+      "url": "https://x.com/isaacrlevin",
+      "followers": 3766,
+      "segment": "Parent / developer, kids' Pokémon collection",
+      "crypto_friendly": "unknown",
+      "reason": "Built a card-scanning app for his kids' collection; family collector angle."
+    },
+    {
+      "handle": "@hero_truck",
+      "url": "https://x.com/hero_truck",
+      "followers": 3628,
+      "segment": "Collectibles market commentator",
+      "crypto_friendly": "unknown",
+      "reason": "Calm take on Pokémon market phases (1.6k impressions); good voice for collector education."
+    },
+    {
+      "handle": "@Poketyro",
+      "url": "https://x.com/Poketyro",
+      "followers": 2156,
+      "segment": "Pokémon collector / ex-YouTube ripper",
+      "crypto_friendly": "unknown",
+      "reason": "Says he ripped 6+ booster box cases for YouTube; a reply got 5.6k impressions."
+    },
+    {
+      "handle": "@JoeYoursTruly",
+      "url": "https://x.com/JoeYoursTruly",
+      "followers": 1109,
+      "segment": "TCG booster box opener / video creator",
+      "crypto_friendly": "unknown",
+      "reason": "Booster box opening post got 27 likes; makes opening videos."
+    },
+    {
+      "handle": "@1zeeth",
+      "url": "https://x.com/1zeeth",
+      "followers": 981,
+      "segment": "Solflare community / pack ripper",
+      "crypto_friendly": "yes",
+      "reason": "Posted Solflare packs received from @FabianoSolana (10 likes)."
+    },
+    {
+      "handle": "@LunarLuck_",
+      "url": "https://x.com/LunarLuck_",
+      "followers": 54,
+      "segment": "One Piece TCG ripper",
+      "crypto_friendly": "unknown",
+      "reason": "Small account posting pulls from Sleeved packs; One Piece crypto-pack user."
+    }
+  ],
+  "post_ideas": [
+    {
+      "idea": "Answer the grading wait and cost pain with a plain fact",
+      "draft_copy": "Grading can take months.\n\nEvery card in Solflare Packs is already graded by PSA or Beckett.\n\nOpen, see your slab, decide: keep, sell back or ship.\n\n18+",
+      "needs_legal_check": false
+    },
+    {
+      "idea": "Borrow the daily opening series format with a light 'pack of the day' question",
+      "draft_copy": "Pack of the day 🎴\n\nPokémon, One Piece or sports?\n\nTell us what you'd open first 👇",
+      "needs_legal_check": false
+    },
+    {
+      "idea": "Lean into opening on mobile, in the wallet, without naming anyone",
+      "draft_copy": "Open a pack on the bus.\n\nReal graded cards, right inside your Solflare wallet.\n\n18+",
+      "needs_legal_check": false
+    }
+  ],
+  "sources_note": "X search via the x connector, posts from 2026-11-01 09:00 UTC to 2026-11-02 09:00 UTC, 7 post searches and 1 X news search. Engagement numbers are copied from the X API at scan time. The DefiLlama volume figures and Collector Crypt revenue claims are unverified third-party posts; the 30th Celebration price drop item is an X news summary (Grok-written). Payments talk was thin: card, Apple Pay and Google Pay searches mostly returned unrelated deals, memecoin shills and trading posts, which were skipped. Restock bots (packpingnet, PokemonRestockd), resale listings, token shills ($CARDS CA posts, $SLABS, $FILLED, $RIPS), phygital NFT spam (SurRNFTs), and wallet-address replies in giveaway threads were skipped. Creators already in collector-base.csv or earlier daily files (e.g. @TiltRips, @makopnl, @AiFlippa) were excluded from new_creators. The robman1286 post includes a rival's promo code; we cite it only for the format."
+}
