@@ -1,337 +1,297 @@
 {
-  "generated_at": "2026-11-09T10:25:00+01:00",
-  "date": "2026-11-09",
+  "generated_at": "2026-11-11T10:09:47+01:00",
+  "date": "2026-11-11",
   "status": "ok",
   "window_hours": 24,
-  "summary": "Delta Reign's first weekend filled the feed with pull posts, from big Mega Rayquaza SIR hits to people saying the pull rates feel bad. Access is still a pain: Best Buy is running invite-only drops, and casual buyers say scalpers left them nothing to buy. On the digital side, Collector Crypt kept leading on-chain card revenue, Pump's gacha packs drew some FUD, and Topps admitted Cosmic Chrome shipped with missing Supernova cards. Solflare Packs had a small but steady stream of 'just rip' posts led by @hyperstrike, all positive.",
+  "summary": "Busy day for on-chain packs. Crypto.com launched its own rips (Pokémon and sports packs from $5), BOXED launched a mobile rip app, and analysts posted weekly numbers showing Collector Crypt and Courtyard pack volume down week over week. We got one real Solflare Packs win post (an Elite pull from a Pokémon Starter Pack) plus a few small mentions, all positive or neutral. On the mainstream side, Delta Reign restock stress and scalper anger are the main collector pain points today.",
   "top_posts": [
     {
-      "url": "https://x.com/Kaizerrev/status/2119582011966759164",
-      "author_handle": "Kaizerrev",
-      "text": "Just opened up a Pokémon Delta Reign booster bundle &amp; just pulled the biggest chase card in the set.... \n\nThe Mega Rayquaza SIR ⚡️🔥 https://t.co/IJrmxltdW3",
-      "created_at": "2026-11-09T00:05:06Z",
-      "likes": 138,
-      "reposts": 9,
-      "replies": 30,
-      "quotes": 0,
-      "topic": "pack opening / big pull",
-      "why_it_matters": "89k-follower creator pulled the Mega Rayquaza SIR from one booster bundle. 138 likes, 30 replies. Classic chase-card moment."
-    },
-    {
-      "url": "https://x.com/PokeTeeJay/status/2119481446645612833",
-      "author_handle": "PokeTeeJay",
-      "text": "Opened 12 Delta Reign sleeved blisters today and pulled one Sprigatito IR.\n\nNot sure if we were spoiled by amazing 30th rates or what, but these rates are BAD",
-      "created_at": "2026-11-08T17:25:29Z",
-      "likes": 137,
-      "reposts": 2,
-      "replies": 55,
-      "quotes": 2,
-      "topic": "pain point: bad pull rates",
-      "why_it_matters": "12 blisters, one IR, 'these rates are BAD'. 137 likes, 55 replies. People feel burned by hidden rates, which is where shown odds help."
-    },
-    {
-      "url": "https://x.com/DisTrackers/status/2119551414892630505",
-      "author_handle": "DisTrackers",
-      "text": "Here’s what I pulled from the new Pokémon Delta Reign set! I had fun opening the packs. Magmortar &amp; Eevee are my favorite pulls so far. 🔥 \n.\n#Pokemon #TradingCards #TCG #Collectibles https://t.co/zGf0mDAw6k",
-      "created_at": "2026-11-08T22:03:31Z",
-      "likes": 43,
-      "reposts": 1,
-      "replies": 8,
-      "quotes": 0,
-      "topic": "pack opening / mainstream fan",
-      "why_it_matters": "101k-follower Disney tracker account posting its Delta Reign pulls. 14,559 impressions. Mainstream, non-crypto collector audience."
-    },
-    {
-      "url": "https://x.com/PokemonRestockr/status/2119641130308637081",
-      "author_handle": "PokemonRestockr",
-      "text": "📩 Pokémon invite reminder!\n\nCheck Best Buy for Prismatic Evolutions ETBs + Delta Reign Booster Boxes. If “Ask for an invite” appears, sign in to request one \n\nPrismatic ETB: https://t.co/8niH6xT21J\nDelta Reign Booster Box: https://t.co/POUCvDwoYp\n\nSelection isn’t guaranteed https://t.co/xhMpl7RHqf",
-      "created_at": "2026-11-09T04:00:01Z",
-      "likes": 19,
-      "reposts": 3,
-      "replies": 1,
-      "quotes": 0,
-      "topic": "pain point: retail access",
-      "why_it_matters": "Best Buy now asks for an invite to buy Delta Reign boxes and Prismatic ETBs. 28,903 impressions. Buying sealed product keeps getting harder."
-    },
-    {
-      "url": "https://x.com/POKEMONAIBOT/status/2119532913243152805",
-      "author_handle": "POKEMONAIBOT",
-      "text": "YOOO 30TH CELEBRATION BOOSTER BOX AT MY LOCAL GAS STATION FOR $30?! 😭💀\n\nDo I cop..?\n\n#Pokemon #PokemonTCG https://t.co/T03QGDaIQO",
-      "created_at": "2026-11-08T20:50:00Z",
-      "likes": 15,
-      "reposts": 3,
-      "replies": 2,
-      "quotes": 0,
-      "topic": "format / surprise find",
-      "why_it_matters": "'30th Celebration box at my gas station for $30?! Do I cop?' 11,403 impressions. Light, funny question format that drives replies."
-    },
-    {
-      "url": "https://x.com/cultured_cream/status/2119431760803143878",
-      "author_handle": "cultured_cream",
-      "text": "Trading card scalpers are the worst. I just want to buy my uncle a Christmas gift and every single Pokémon card on the website is sold out. I literally cannot buy a single trading card from the trading card company.",
-      "created_at": "2026-11-08T14:08:03Z",
-      "likes": 1,
+      "url": "https://x.com/SneakypeekSol/status/2120349418411225439",
+      "author_handle": "@SneakypeekSol",
+      "text": "Yesterday, made some money from DLMM and a small spot trade, so I thought I'd treat myself to a little fun and bought a @solflare Pokemon Starter Pack. AND I HIT AN ELITE 🔥 ...",
+      "created_at": "2026-11-11T02:54:30Z",
+      "likes": 11,
       "reposts": 0,
-      "replies": 0,
-      "quotes": 0,
-      "topic": "pain point: scalpers / gift buyers",
-      "why_it_matters": "Wants to buy her uncle a Pokémon gift for Christmas and everything is sold out. Exactly the holiday gift buyer we want to reach."
-    },
-    {
-      "url": "https://x.com/hyperstrike/status/2119386383353815249",
-      "author_handle": "hyperstrike",
-      "text": "Just rip @solflare packs💛 https://t.co/kGoicth9V2",
-      "created_at": "2026-11-08T11:07:44Z",
-      "likes": 22,
-      "reposts": 1,
       "replies": 7,
       "quotes": 0,
       "topic": "Solflare Packs",
-      "why_it_matters": "Daily 'Just rip @solflare packs' post from a 6.4k-follower Solana creator. 22 likes, 7 replies, and Solflare replied that he never misses a day."
+      "why_it_matters": "Organic user win post for Solflare Packs. Good to engage, but don't reuse its price-jump framing."
     },
     {
-      "url": "https://x.com/PokeJett/status/2119557689244283330",
-      "author_handle": "PokeJett",
-      "text": "first weekend count, delta reign\n\nthe set has been out since friday. forget the listing prices for one post, i want the pull count\n\nhow many boxes did you open this weekend, and what was your single best pull\n\none answer each, product and pull. i will tally every reply tonight",
-      "created_at": "2026-11-08T22:28:27Z",
-      "likes": 0,
-      "reposts": 0,
+      "url": "https://x.com/Marki_exo/status/2120139540543205563",
+      "author_handle": "@Marki_exo",
+      "text": "the gacha market volume is down, while new giant steps in. - @Collector_Crypt 7d revenue: $1.49m, down 49% week over week - @Courtyard_io: $437k, down 17% - @phygitals still net negative after buybacks Yesterday @cryptocom launched rips: - pokemon + sports packs from $5 ...",
+      "created_at": "2026-11-10T13:00:31Z",
+      "likes": 5,
+      "reposts": 1,
       "replies": 1,
       "quotes": 0,
-      "topic": "format / pull count thread",
-      "why_it_matters": "'How many boxes did you open this weekend, and what was your best pull?' Simple community tally format we can copy."
+      "topic": "Competitors / market",
+      "why_it_matters": "Crypto.com entering packs is a big new rival with mainstream reach and card rails. Category volume cooling."
     },
     {
-      "url": "https://x.com/ZeltraxMilleniu/status/2119367335576498479",
-      "author_handle": "ZeltraxMilleniu",
-      "text": "So, I'm not gonna lie - Life's not been great.\n\nDad was in the hospital to get some cancer out/he's home now &amp; I decided to nab 1 booster bundle each of Delta Reign &amp; 30th Celebration today.\n\nThese were my big pulls. Wasn't expecting the Mew SIR so, that cheered me up.\n\n#Pokemon https://t.co/Pd1dYZvSri",
-      "created_at": "2026-11-08T09:52:03Z",
-      "likes": 10,
-      "reposts": 0,
+      "url": "https://x.com/BOXEDHQ/status/2120218771499417940",
+      "author_handle": "@BOXEDHQ",
+      "text": "It's finally here! The BOXED app is live on iOS and Android. Rip Pokémon, One Piece, MTG, Riftbound, sports cards, and more.",
+      "created_at": "2026-11-10T18:15:21Z",
+      "likes": 19,
+      "reposts": 11,
       "replies": 4,
+      "quotes": 2,
+      "topic": "Competitors",
+      "why_it_matters": "New app-store native rip app aimed at mainstream collectors. Same audience we want with Coinflow."
+    },
+    {
+      "url": "https://x.com/prxfecy0x/status/2120108509622571404",
+      "author_handle": "@prxfecy0x",
+      "text": "For now crypto is cooked… trenches are cooked so I'll try my luck with Pokémon cards on PayBox. Elite Pokémon Gacha Pack is $50 USDC ...",
+      "created_at": "2026-11-10T10:57:13Z",
+      "likes": 65,
+      "reposts": 2,
+      "replies": 37,
       "quotes": 0,
-      "topic": "pack opening / personal story",
-      "why_it_matters": "Opened one bundle each after a hard week with family and pulled a Mew SIR. Shows packs as a small personal treat, not a trade."
+      "topic": "Digital packs",
+      "why_it_matters": "Crypto traders rotating into Pokémon packs as 'fun' spend. High reply count; shows the crypto-native buyer mindset."
+    },
+    {
+      "url": "https://x.com/ririonchainn/status/2120163533597933766",
+      "author_handle": "@ririonchainn",
+      "text": "Ever wondered what you can get for $25 in digital collectibles? I explored Collector Crypt on @PayBox and went hunting for the 5 cheapest trading card packs currently available.",
+      "created_at": "2026-11-10T14:35:51Z",
+      "likes": 22,
+      "reposts": 5,
+      "replies": 1,
+      "quotes": 0,
+      "topic": "Digital packs",
+      "why_it_matters": "Budget-pack explainer format from a creator. Easy format to copy for Solflare Packs."
+    },
+    {
+      "url": "https://x.com/AleaResearch/status/2120143184626131317",
+      "author_handle": "@AleaResearch",
+      "text": "In the 30 days to Oct 19, Collector Crypt sold $166M of packs. Courtyard's machines recorded about $61M of pulls. It bids more to buy back a pulled card than Courtyard or Fanatics, pays USDC where Fanatics pays store credit, and lets partner storefronts sell its packs.",
+      "created_at": "2026-11-10T13:15:00Z",
+      "likes": 4,
+      "reposts": 0,
+      "replies": 2,
+      "quotes": 0,
+      "topic": "Competitors / market",
+      "why_it_matters": "Research account framing USDC buyback and partner storefronts (like ours) as Collector Crypt's edge."
+    },
+    {
+      "url": "https://x.com/NBATopShot/status/2120193276657672276",
+      "author_handle": "@NBATopShot",
+      "text": "Today on Top Shot 🗓️ At 3 PM ET, the Rookie Debut drop opens to everyone. It's the 2026 rookie class on Top Shot, with signed Rookie Debut /5s and Rookie Ultimate 1/1s hiding in the packs.",
+      "created_at": "2026-11-10T16:34:03Z",
+      "likes": 14,
+      "reposts": 5,
+      "replies": 2,
+      "quotes": 0,
+      "topic": "Digital collectibles",
+      "why_it_matters": "Top Shot running tiered drops (box/case) with per-collector limits."
+    },
+    {
+      "url": "https://x.com/megasigler/status/2120253711289094524",
+      "author_handle": "@megasigler",
+      "text": "23 of 25 Supernovas never made it into packs 😳🌌 Topps admitted the production error Sunday: only Judge and Soto Supernovas are actually in 2026 Cosmic Chrome.",
+      "created_at": "2026-11-10T20:34:11Z",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "quotes": 0,
+      "topic": "Sports cards / pain point",
+      "why_it_matters": "Trust issue with physical pack contents. Shown odds and verifiable pulls are a real contrast."
+    },
+    {
+      "url": "https://x.com/19dragon73/status/2120362858718642222",
+      "author_handle": "@19dragon73",
+      "text": "I work at a Target store in the area, and at the electronics counter we sell Pokemon cards. Every morning the same people line up before we open. Today we had special edition boxes that were $250. Sold out in fifteen minutes.",
+      "created_at": "2026-11-11T03:47:54Z",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "quotes": 0,
+      "topic": "Pain point: sold-out retail",
+      "why_it_matters": "Clear first-hand sold-out/scalper pain. Good hook for mainstream collectors."
     }
   ],
   "competitor_news": [
     {
-      "project": "Collector Crypt",
-      "headline": "DefiLlama-based tally (third party, unverified): Collector Crypt about $15.61M 30-day revenue, Courtyard $2.11M, Gacha TCG $373K, Gemint $340K",
-      "url": "https://x.com/onchain_tcg/status/2119399475659907505",
-      "date": "2026-11-08"
+      "project": "Crypto.com",
+      "headline": "Launched rips: Pokémon and sports packs from $5 (per @Marki_exo)",
+      "url": "https://x.com/Marki_exo/status/2120139540543205563",
+      "date": "2026-11-10"
+    },
+    {
+      "project": "BOXED",
+      "headline": "BOXED rip app is live on iOS and Android (Pokémon, One Piece, MTG, Riftbound, sports)",
+      "url": "https://x.com/BOXEDHQ/status/2120218771499417940",
+      "date": "2026-11-10"
     },
     {
       "project": "Collector Crypt",
-      "headline": "Third-party post: Collector Crypt booked a record $25.4M Q3 gross profit, per its Q3 benchmark",
-      "url": "https://x.com/Vu_Benson/status/2119542987831017777",
-      "date": "2026-11-08"
-    },
-    {
-      "project": "Collector Crypt",
-      "headline": "Alea Research reshared the Collector Crypt Q3 benchmark and IR deck",
-      "url": "https://x.com/AleaResearch/status/2119418410442555687",
-      "date": "2026-11-08"
-    },
-    {
-      "project": "Pump.fun gacha",
-      "headline": "Recap of Pump's gacha feature (packs of tokenized graded cards, added around 19 Oct) and the FUD around it",
-      "url": "https://x.com/AiFlippa/status/2119507468590239748",
-      "date": "2026-11-08"
-    },
-    {
-      "project": "trophy",
-      "headline": "'The Gacha Times' weekend roundup: trophy open beta shows one-by-one card reveals, still on test funds with no real card ownership",
-      "url": "https://x.com/0x_trophy/status/2119689863574274473",
-      "date": "2026-11-09"
+      "headline": "7d revenue $1.49M, down 49% week over week; Courtyard $437k, down 17% (per @Marki_exo)",
+      "url": "https://x.com/Marki_exo/status/2120139540543205563",
+      "date": "2026-11-10"
     },
     {
       "project": "Courtyard",
-      "headline": "Courtyard's top post of the day was a light Lugia-shaped cloud photo over Mt. Fuji (75 likes), not a product post",
-      "url": "https://x.com/Courtyard_io/status/2119546388187070694",
-      "date": "2026-11-08"
+      "headline": "Both Rip Index 'Pulls of the Day' were on Courtyard (1951 Mickey Mantle SGC 2.5, 2019 Curry PSA 10)",
+      "url": "https://x.com/Rip_Index/status/2120420885748215966",
+      "date": "2026-11-11"
+    },
+    {
+      "project": "Courtyard",
+      "headline": "User complains Stripe payments failed with no support help",
+      "url": "https://x.com/BRos8447/status/2120227181301489837",
+      "date": "2026-11-10"
+    },
+    {
+      "project": "Tilt Rips",
+      "headline": "Launched $1,000 Pokémon Gem Mint-only packs (per The Gacha Times No. 9)",
+      "url": "https://x.com/0x_trophy/status/2120429393151410629",
+      "date": "2026-11-11"
+    },
+    {
+      "project": "NBA Top Shot",
+      "headline": "Rookie Debut drop opened to everyone, $250 boxes and $2,500 cases",
+      "url": "https://x.com/NBATopShot/status/2120193280457773509",
+      "date": "2026-11-10"
     },
     {
       "project": "Topps",
-      "headline": "X news story: Topps admits production errors left Supernova inserts for 23 players out of 2026 Cosmic Chrome Baseball",
-      "url": "https://x.com/i/trending/2119617897337147776",
-      "date": "2026-11-09"
-    },
-    {
-      "project": "Pokémon TCG retail",
-      "headline": "X news story: Costco preps a $288.99 Pokémon 30th anniversary bundle with two Eevee Ultra-Premium Collections",
-      "url": "https://x.com/i/trending/2119600998054588430",
-      "date": "2026-11-09"
-    },
-    {
-      "project": "Pokémon TCG retail",
-      "headline": "X news story: fans camp overnight at Best Buy for sold-out 30th Celebration boxes",
-      "url": "https://x.com/i/trending/2119164405015289978",
-      "date": "2026-11-08"
-    },
-    {
-      "project": "Grading",
-      "headline": "GemRate via third party: card grading hit 3.87M in October 2026, with PSA and CGC at record highs",
-      "url": "https://x.com/theHobby13/status/2119431004595355823",
-      "date": "2026-11-08"
+      "headline": "Topps admitted 23 of 25 Supernova inserts missing from 2026 Cosmic Chrome packs",
+      "url": "https://x.com/megasigler/status/2120253711289094524",
+      "date": "2026-11-10"
     }
   ],
   "solflare_mentions": [
     {
-      "url": "https://x.com/hyperstrike/status/2119386383353815249",
-      "author_handle": "hyperstrike",
-      "text": "Just rip @solflare packs💛 https://t.co/kGoicth9V2",
+      "url": "https://x.com/SneakypeekSol/status/2120349418411225439",
+      "author_handle": "@SneakypeekSol",
+      "text": "bought a @solflare Pokemon Starter Pack. AND I HIT AN ELITE 🔥 ... Solflare Packs decided to reward me back",
       "sentiment": "positive",
-      "likes": 22
+      "likes": 11
     },
     {
-      "url": "https://x.com/hyperstrike/status/2119704923759870382",
-      "author_handle": "hyperstrike",
-      "text": "Just rip @solflare packs💛🫡 https://t.co/plyTfBKuF2",
-      "sentiment": "positive",
-      "likes": 6
-    },
-    {
-      "url": "https://x.com/solflare/status/2119642769086206034",
-      "author_handle": "solflare",
-      "text": "@hyperstrike @SolflareEmpire Hyper never misses a day without a pack, a solflare pack",
-      "sentiment": "positive",
-      "likes": 3
-    },
-    {
-      "url": "https://x.com/MurphyC__/status/2119504299449356371",
-      "author_handle": "MurphyC__",
-      "text": "@JurekSol @solflare Ripping card on Solflare is always a nice experience",
-      "sentiment": "positive",
-      "likes": 2
-    },
-    {
-      "url": "https://x.com/JurekSol/status/2119504948371116233",
-      "author_handle": "JurekSol",
-      "text": "@MurphyC__ @solflare 100% especially when you rip something nice",
-      "sentiment": "positive",
-      "likes": 1
-    },
-    {
-      "url": "https://x.com/Abdullah_boiii/status/2119582111745327285",
-      "author_handle": "Abdullah_boiii",
-      "text": "@hyperstrike @solflare @SolflareEmpire Keep ripping Solflare packs",
-      "sentiment": "positive",
-      "likes": 1
-    },
-    {
-      "url": "https://x.com/payamsky716/status/2119491462895415699",
-      "author_handle": "payamsky716",
-      "text": "@CryptoGrit @solflare @Collector_Crypt PSA 9 Sceptile is a clean pull.",
+      "url": "https://x.com/NeonVoid01/status/2120418119328141493",
+      "author_handle": "@NeonVoid01",
+      "text": "@SYNEX98_36 @solflare real packs are where the fun starts",
       "sentiment": "positive",
       "likes": 0
     },
     {
-      "url": "https://x.com/nyxienyxie/status/2119573716866625990",
-      "author_handle": "nyxienyxie",
-      "text": "@CryptoGrit @solflare @Collector_Crypt nice pull on\n\nthat sceptile psa\n\n9 from 2014",
-      "sentiment": "positive",
+      "url": "https://x.com/hero_onchain/status/2120196649574342776",
+      "author_handle": "@hero_onchain",
+      "text": "@Mide_cryptsol mide send me those solflare packs you won last week 😭",
+      "sentiment": "neutral",
+      "likes": 0
+    },
+    {
+      "url": "https://x.com/thebyefun/status/2120388061976780913",
+      "author_handle": "@thebyefun",
+      "text": "@solflare No pull to show here, we're busy loading our own machine. Good luck to everyone ripping 🫡",
+      "sentiment": "neutral",
       "likes": 0
     }
   ],
   "new_creators": [
     {
-      "handle": "Kaizerrev",
-      "url": "https://x.com/Kaizerrev",
-      "followers": 89024,
-      "segment": "Pokémon pack opener, large reach",
-      "crypto_friendly": "unknown",
-      "reason": "Pulled the Mega Rayquaza SIR from a booster bundle; 138 likes and 30 replies."
-    },
-    {
-      "handle": "PokeTeeJay",
-      "url": "https://x.com/PokeTeeJay",
-      "followers": 14921,
-      "segment": "Pokémon collector who talks pull rates",
-      "crypto_friendly": "unknown",
-      "reason": "Honest 'rates are BAD' post got 137 likes and 55 replies. Good voice for an odds-shown angle."
-    },
-    {
-      "handle": "DisTrackers",
-      "url": "https://x.com/DisTrackers",
-      "followers": 101693,
-      "segment": "Disney/collectibles tracker posting Pokémon pulls",
-      "crypto_friendly": "unknown",
-      "reason": "101k followers, mainstream audience; 14,559 impressions on its Delta Reign pulls."
-    },
-    {
-      "handle": "theonlyposted",
-      "url": "https://x.com/theonlyposted",
-      "followers": 33978,
-      "segment": "Pokémon collector sharing favourite pulls",
-      "crypto_friendly": "unknown",
-      "reason": "'My fav pulls from Delta Reign' got 32 likes and 805 impressions."
-    },
-    {
-      "handle": "xoherattv",
-      "url": "https://x.com/xoherattv",
-      "followers": 253,
-      "segment": "Pokémon streamer and ripper",
-      "crypto_friendly": "unknown",
-      "reason": "Pulled the Raikou SIR from her first Delta Reign ETB; streams openings."
-    },
-    {
-      "handle": "galaxzlol",
-      "url": "https://x.com/galaxzlol",
-      "followers": 101,
-      "segment": "Pokémon streamer opening booster boxes",
-      "crypto_friendly": "unknown",
-      "reason": "Posts booster box pulls after streams; small but active."
-    },
-    {
-      "handle": "PokeJett",
-      "url": "https://x.com/PokeJett",
-      "followers": 11,
-      "segment": "Pokémon community poster running pull tallies",
-      "crypto_friendly": "unknown",
-      "reason": "Runs 'how many boxes and best pull' threads; good partner for a community tally."
-    },
-    {
-      "handle": "MurphyC__",
-      "url": "https://x.com/MurphyC__",
-      "followers": 1041,
-      "segment": "Solana user ripping Solflare Packs",
+      "handle": "@SneakypeekSol",
+      "url": "https://x.com/SneakypeekSol",
+      "followers": 1907,
+      "segment": "Solana DeFi / RWA creator",
       "crypto_friendly": "yes",
-      "reason": "Said 'Ripping card on Solflare is always a nice experience'."
+      "reason": "Already bought and posted a Solflare Packs pull. Warm lead for a repeat rip."
     },
     {
-      "handle": "JurekSol",
-      "url": "https://x.com/JurekSol",
-      "followers": 1443,
-      "segment": "Solana user ripping Solflare Packs",
+      "handle": "@ririonchainn",
+      "url": "https://x.com/ririonchainn",
+      "followers": 2244,
+      "segment": "Video creator, digital packs explainers",
       "crypto_friendly": "yes",
-      "reason": "Agreed ripping on Solflare is great 'especially when you rip something nice'."
+      "reason": "Makes 'what can $25 get you' pack explainers. Format fits Solflare Packs."
     },
     {
-      "handle": "RipwithRookie",
-      "url": "https://x.com/RipwithRookie",
-      "followers": 779,
-      "segment": "Pokémon pack opener cross-posting from Instagram",
+      "handle": "@prxfecy0x",
+      "url": "https://x.com/prxfecy0x",
+      "followers": 14506,
+      "segment": "Crypto trader trying Pokémon packs",
+      "crypto_friendly": "yes",
+      "reason": "Pack post got 37 replies. Crypto audience curious about cards."
+    },
+    {
+      "handle": "@PapaBeardedNFTs",
+      "url": "https://x.com/PapaBeardedNFTs",
+      "followers": 6494,
+      "segment": "On-chain pack ripper",
+      "crypto_friendly": "yes",
+      "reason": "Regularly rips on Collector Crypt and partner sites."
+    },
+    {
+      "handle": "@Marki_exo",
+      "url": "https://x.com/Marki_exo",
+      "followers": 162,
+      "segment": "Gacha market analyst",
+      "crypto_friendly": "yes",
+      "reason": "Small but posts weekly on-chain pack market data incl. new entrants."
+    },
+    {
+      "handle": "@0x_trophy",
+      "url": "https://x.com/0x_trophy",
+      "followers": 3401,
+      "segment": "On-chain gacha newsletter (The Gacha Times)",
+      "crypto_friendly": "yes",
+      "reason": "Weekly pack-industry roundup. Path to get Solflare Packs news covered."
+    },
+    {
+      "handle": "@Rip_Index",
+      "url": "https://x.com/Rip_Index",
+      "followers": 988,
+      "segment": "Gacha pulls database",
+      "crypto_friendly": "yes",
+      "reason": "Posts daily 'Pulls of the Day' across gacha sites. Could feature Solflare Packs pulls."
+    },
+    {
+      "handle": "@karoggtcg",
+      "url": "https://x.com/karoggtcg",
+      "followers": 506,
+      "segment": "Pokémon TCG price data",
       "crypto_friendly": "unknown",
-      "reason": "Posts bundle openings with community hashtags."
+      "reason": "Weekly set price recaps for mainstream TCG collectors."
+    },
+    {
+      "handle": "@megasigler",
+      "url": "https://x.com/megasigler",
+      "followers": 5185,
+      "segment": "Sports card opener",
+      "crypto_friendly": "unknown",
+      "reason": "Covers sports pack news and openings for a hobby audience."
+    },
+    {
+      "handle": "@midwestboxbreak",
+      "url": "https://x.com/midwestboxbreak",
+      "followers": 32499,
+      "segment": "Sports live breaker",
+      "crypto_friendly": "unknown",
+      "reason": "Large breaker audience. Mainstream sports collectors."
     }
   ],
   "post_ideas": [
     {
-      "idea": "Weekend pull tally, copying the 'how many and what was your best pull' format",
-      "draft_copy": "Weekend pull check 👀\n\nHow many Solflare Packs did you open, and what was your best pull? One reply each.\n\n18+",
+      "idea": "Sold-out retail hook (Delta Reign restock stress)",
+      "draft_copy": "Shelves empty by 9am again? Open a pack from your phone. Real graded cards, vaulted for you. Keep it, sell it back within 72h, or ship it home. Odds shown before you open. 18+",
       "needs_legal_check": false
     },
     {
-      "idea": "Answer the 'rates feel bad' mood by pointing to odds shown before you open, no promises",
-      "draft_copy": "Ever opened a pack and wondered what the odds even were?\n\nOn Solflare Packs the odds are right there before you open. Real graded cards, inside your wallet.\n\n18+",
+      "idea": "'What can $25 get you' pack explainer, in our voice",
+      "draft_copy": "What's inside a Solflare pack? We opened the free demo so you don't have to guess. Odds on screen, real graded cards, no surprises. Try the demo in Solflare. 18+",
       "needs_legal_check": true
     },
     {
-      "idea": "Holiday gift angle for people facing empty shelves, light and friendly",
-      "draft_copy": "Shelves empty again? 🎁\n\nA graded card can still be a gift. Open a pack on Solflare, keep the card, or ship it home.\n\n18+",
-      "needs_legal_check": false
+      "idea": "Community pull reshare (with permission)",
+      "draft_copy": "Your pulls, our feed. Open a pack in Solflare, share your album, tag @solflare. We'll repost a few favourites this week. 18+",
+      "needs_legal_check": true
     }
   ],
-  "sources_note": "Data from the x connector's full-archive post search and news search, covering 09:00 UTC on 8 Nov to 09:00 UTC on 9 Nov 2026. Likes, reposts, replies, quotes and follower counts are public_metrics as returned at fetch time; impressions quoted where noted. Restock bots, preorder ads, NFT and merch spam, and the payments search (mostly crypto debit card promos) were skipped. Revenue and profit figures are third-party and unverified. No Phygitals, Watch.fun, Rip.fun, Arena Club, Disney Pinnacle, Top Shot or GameStop Power Packs posts of note in the window. Solflare's own top posts were a community teaser, not packs. New creators were checked against collector-base.csv and recent archive files."
+  "sources_note": "X search via the x connector, posts from 2026-11-10 09:00 UTC to 2026-11-11 ~09:05 UTC, 9 searches. Engagement numbers are as returned by the X API at scan time. Competitor revenue figures are what the cited accounts posted, not verified. The busy '@solflare / @phantom starter pack for web3' thread (Noba_Sol) is about wallets, not Packs, so it's left out. Retail restock bot posts and giveaway posts were skipped. Creators already in collector-base.csv were excluded."
 }
