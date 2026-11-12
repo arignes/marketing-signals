@@ -1,0 +1,310 @@
+{
+  "generated_at": "2026-11-12T10:08:19+01:00",
+  "date": "2026-11-12",
+  "status": "ok",
+  "window_hours": 24,
+  "summary": "Solid day for Solflare Packs: @CryptoGrit posted a 1999 1st Edition Diglett (CGC 10) pull from a Solflare pack and got 32 replies, plus lots of friendly reply chatter. Crypto.com's new Rips is now getting news coverage, and Collector Crypt's 30-day pack sales ($202.9M per a DefiLlama-cited post) keep it far ahead of the field. On the mainstream side, scalper anger is loud again: McDonald's Pokémon Happy Meal cards, metal-detector pack searching, and sold-out 30th Anniversary product. Someone even built their own pack-opening app because the real packs are sold out.",
+  "top_posts": [
+    {
+      "url": "https://x.com/CryptoGrit/status/2120472767577637320",
+      "author_handle": "@CryptoGrit",
+      "text": "Pulled a Digda this time xD That's Diglett in German. 1999 Base Set, 1st Edition, CGC Gem Mint 10. Another pack rip in @solflare with @Collector_Crypt :)",
+      "created_at": "2026-11-11T11:04:38Z",
+      "likes": 56,
+      "reposts": 2,
+      "replies": 32,
+      "quotes": 0,
+      "topic": "Solflare Packs",
+      "why_it_matters": "Organic repeat Solflare Packs pull post from a 10.5k-follower account. Fun, nostalgic, no price talk. Good to engage."
+    },
+    {
+      "url": "https://x.com/0xIkki/status/2120534764868579399",
+      "author_handle": "@0xIkki",
+      "text": "Pokémon 30th Anniversary packs are sold out everywhere :( So I built my own pack opening app. Holo foil, card flips and rip animations, all powered by @expo and Skia.",
+      "created_at": "2026-11-11T15:11:00Z",
+      "likes": 20,
+      "reposts": 0,
+      "replies": 8,
+      "quotes": 0,
+      "topic": "Pain point: sold-out retail",
+      "why_it_matters": "Sold-out retail pushing people to digital pack openings. Clean hook for mainstream collectors."
+    },
+    {
+      "url": "https://x.com/SnixSnackss/status/2120607231351628276",
+      "author_handle": "@SnixSnackss",
+      "text": "Hey @McDonalds ... employees already pocketing shit and putting in old happy meal toys when they haven't sold out of the pokemon happy meal and cards yet.",
+      "created_at": "2026-11-11T19:58:57Z",
+      "likes": 101,
+      "reposts": 7,
+      "replies": 24,
+      "quotes": 3,
+      "topic": "Pain point: scalpers / retail",
+      "why_it_matters": "High-reach (23k impressions) anger about missing McDonald's Pokémon cards. Shows how hard fair access is at retail."
+    },
+    {
+      "url": "https://x.com/RoaringHammy/status/2120728296011051416",
+      "author_handle": "@RoaringHammy",
+      "text": "Scalpers ruined pokemon cards for kids... Apparently they use metal detectors to go through individual packs at the store to see which one has those rare cards now...",
+      "created_at": "2026-11-12T04:00:01Z",
+      "likes": 11,
+      "reposts": 0,
+      "replies": 6,
+      "quotes": 0,
+      "topic": "Pain point: pack searching",
+      "why_it_matters": "Pack-searching distrust. Shown odds and sealed digital packs are a direct answer."
+    },
+    {
+      "url": "https://x.com/cryptocom_rni/status/2120525828983345458",
+      "author_handle": "@cryptocom_rni",
+      "text": "@cryptocom launched Rips within the App, allowing users to open digital packs representing physical trading cards. Users can accept a quoted sell-back offer or request physical delivery, subject to the service's terms.",
+      "created_at": "2026-11-11T14:35:29Z",
+      "likes": 5,
+      "reposts": 0,
+      "replies": 1,
+      "quotes": 0,
+      "topic": "Competitors",
+      "why_it_matters": "Crypto.com Rips now covered as news. Same model as ours (sell-back or ship), with a big mainstream app and card rails."
+    },
+    {
+      "url": "https://x.com/0x_trophy/status/2120758928870981986",
+      "author_handle": "@0x_trophy",
+      "text": "@Collector_Crypt sold $202.9M of card packs over the last 30 days, per @DefiLlama. That's roughly 63% of the physical TCG category it tracks.",
+      "created_at": "2026-11-12T06:01:45Z",
+      "likes": 5,
+      "reposts": 0,
+      "replies": 0,
+      "quotes": 0,
+      "topic": "Market",
+      "why_it_matters": "Our pack partner still leads the category by a wide margin. Useful context for partner conversations."
+    },
+    {
+      "url": "https://x.com/Marki_exo/status/2120642885272105097",
+      "author_handle": "@Marki_exo",
+      "text": "gacha is building its own tool stack: - @mnstr: scan cards into a portfolio - @packspyofficial: daily hit board - @Rip_Index: @Courtyard_io pulls of the day - @Crypt0bells: bot for $10k+ @Collector_Crypt pulls - @0x_trophy: the gacha times newsletter",
+      "created_at": "2026-11-11T22:20:38Z",
+      "likes": 7,
+      "reposts": 1,
+      "replies": 2,
+      "quotes": 0,
+      "topic": "Ecosystem",
+      "why_it_matters": "Map of the tools that amplify pulls. Getting Solflare Packs pulls onto these boards is cheap reach."
+    },
+    {
+      "url": "https://x.com/verysillyeth/status/2120716974384669001",
+      "author_handle": "@verysillyeth",
+      "text": "I'm convinced Pokémon cards will onboard more normies to crypto than every L2 combined. Nobody's mom knows what a wallet is. Everybody's mom knows what a Charizard is.",
+      "created_at": "2026-11-12T03:15:02Z",
+      "likes": 1,
+      "reposts": 1,
+      "replies": 1,
+      "quotes": 0,
+      "topic": "Mainstream onboarding",
+      "why_it_matters": "Matches our Coinflow / mainstream thesis in plain words."
+    },
+    {
+      "url": "https://x.com/knoyhead/status/2120613511865008552",
+      "author_handle": "@knoyhead",
+      "text": "Ripping a pack of Pokémon cards, but make it cinematic. I'm really going to try staying consistent with my pack opening series, The Regal Card Chronicles.",
+      "created_at": "2026-11-11T20:23:54Z",
+      "likes": 1,
+      "reposts": 0,
+      "replies": 0,
+      "quotes": 0,
+      "topic": "Format",
+      "why_it_matters": "'Cinematic' pack opening series. Format we could borrow for demo-pack clips."
+    },
+    {
+      "url": "https://x.com/RJPInDaHood/status/2120561478587863207",
+      "author_handle": "@RJPInDaHood",
+      "text": "@ToppsFinest17 This is true, but the companies offering digital pack ripping are infinitely worse. They've essentially turned opening sports cards into a slot machine...",
+      "created_at": "2026-11-11T16:57:09Z",
+      "likes": 6,
+      "reposts": 0,
+      "replies": 3,
+      "quotes": 1,
+      "topic": "Sentiment risk",
+      "why_it_matters": "Hobby backlash against digital rips as gambling. Keep our copy fun-first, odds shown, 18+."
+    }
+  ],
+  "competitor_news": [
+    {
+      "project": "Crypto.com",
+      "headline": "Rips live in the Crypto.com App: digital packs of physical cards, sell-back offer or physical delivery",
+      "url": "https://x.com/cryptocom_rni/status/2120525828983345458",
+      "date": "2026-11-11"
+    },
+    {
+      "project": "Crypto.com",
+      "headline": "Replies say Crypto.com Rips uses Collector Crypt inventory for higher packs and Phygitals for cheaper ones (unverified)",
+      "url": "https://x.com/AlmightyPippin/status/2120533177936859387",
+      "date": "2026-11-11"
+    },
+    {
+      "project": "Collector Crypt",
+      "headline": "$202.9M of card packs sold in last 30 days, about 63% of tracked physical TCG category (per @0x_trophy citing DefiLlama)",
+      "url": "https://x.com/0x_trophy/status/2120758928870981986",
+      "date": "2026-11-12"
+    },
+    {
+      "project": "Collector Crypt / Courtyard",
+      "headline": "30-day revenue ranking: Collector Crypt $14.56M, Courtyard $2.09M, Gacha TCG $446.9K (per @onchain_tcg citing DefiLlama)",
+      "url": "https://x.com/onchain_tcg/status/2120486496616780175",
+      "date": "2026-11-11"
+    },
+    {
+      "project": "Tilt Rips",
+      "headline": "Says a PSA 10 Shanks OP01-120 was pulled from a $25 One Piece Loot Pack; running a 'CityBoy Sprint' contest with a Miami trip prize",
+      "url": "https://x.com/TiltRips/status/2120672833550655928",
+      "date": "2026-11-12"
+    },
+    {
+      "project": "GrailDay",
+      "headline": "New site promoting 63 packs across Pokémon, One Piece and sports from $5, with vault, ship or sell",
+      "url": "https://x.com/grailday/status/2120704027394482671",
+      "date": "2026-11-12"
+    },
+    {
+      "project": "Courtyard",
+      "headline": "Rip Index notes Courtyard took the top two 'pulls of the day' again",
+      "url": "https://x.com/Rip_Index/status/2120645088527138967",
+      "date": "2026-11-11"
+    }
+  ],
+  "solflare_mentions": [
+    {
+      "url": "https://x.com/CryptoGrit/status/2120472767577637320",
+      "author_handle": "@CryptoGrit",
+      "text": "Pulled a Digda this time xD ... 1999 Base Set, 1st Edition, CGC Gem Mint 10. Another pack rip in @solflare with @Collector_Crypt :)",
+      "sentiment": "positive",
+      "likes": 56
+    },
+    {
+      "url": "https://x.com/milo_wreck/status/2120498847223083294",
+      "author_handle": "@milo_wreck",
+      "text": "@CryptoGrit @solflare @Collector_Crypt gem mint 10 on a 1999 diglett is peak vintage gambling, respect the digda pull",
+      "sentiment": "positive",
+      "likes": 1
+    },
+    {
+      "url": "https://x.com/Lekinzx/status/2120476810773430771",
+      "author_handle": "@Lekinzx",
+      "text": "@CryptoGrit @solflare @Collector_Crypt Is this the soflare pack That's good chief",
+      "sentiment": "positive",
+      "likes": 1
+    },
+    {
+      "url": "https://x.com/CryptoGrit/status/2120643961069175149",
+      "author_handle": "@CryptoGrit",
+      "text": "@bibseebliss @solflare You forgot Pokémon packs on that list xD",
+      "sentiment": "positive",
+      "likes": 1
+    },
+    {
+      "url": "https://x.com/zard/status/2120562253439328319",
+      "author_handle": "@zard",
+      "text": "The coin behind ..., the Solana launchpad where bonded coins pay their holders in card packs. Cards sold on the marketplace → fees buy & burn $ZARD Powered by @solflare",
+      "sentiment": "neutral",
+      "likes": 10
+    }
+  ],
+  "new_creators": [
+    {
+      "handle": "@CryptoGrit",
+      "url": "https://x.com/CryptoGrit",
+      "followers": 10532,
+      "segment": "Crypto creator, repeat Solflare Packs ripper",
+      "crypto_friendly": "yes",
+      "reason": "Posts Solflare Packs pulls on his own; Diglett post got 32 replies. Warm lead for a regular rip series."
+    },
+    {
+      "handle": "@0xIkki",
+      "url": "https://x.com/0xIkki",
+      "followers": 425,
+      "segment": "Builder / Pokémon fan",
+      "crypto_friendly": "unknown",
+      "reason": "Built a pack-opening app because 30th Anniversary packs sold out. Speaks to the exact sold-out pain."
+    },
+    {
+      "handle": "@knoyhead",
+      "url": "https://x.com/knoyhead",
+      "followers": 3187,
+      "segment": "Pokémon pack opener (video series)",
+      "crypto_friendly": "unknown",
+      "reason": "Runs a 'cinematic' pack opening series. Could film a demo-pack open."
+    },
+    {
+      "handle": "@GeneDCL",
+      "url": "https://x.com/GeneDCL",
+      "followers": 6742,
+      "segment": "Pokémon fan club on Solana",
+      "crypto_friendly": "yes",
+      "reason": "Runs @PokeFanClubSol with Collector Crypt-powered rips; scalpers vs degens post got 13.7k impressions."
+    },
+    {
+      "handle": "@verysillyeth",
+      "url": "https://x.com/verysillyeth",
+      "followers": 12106,
+      "segment": "Crypto commentator",
+      "crypto_friendly": "yes",
+      "reason": "Argues Pokémon cards will onboard normies to crypto. Same thesis as our mainstream push."
+    },
+    {
+      "handle": "@mileshighclub_",
+      "url": "https://x.com/mileshighclub_",
+      "followers": 13495,
+      "segment": "Crypto x collectibles commentator",
+      "crypto_friendly": "yes",
+      "reason": "Writes about Pokémon collector demand and on-chain card platforms."
+    },
+    {
+      "handle": "@collector1agent",
+      "url": "https://x.com/collector1agent",
+      "followers": 2844,
+      "segment": "On-chain gacha ripper (tracked record)",
+      "crypto_friendly": "yes",
+      "reason": "Public track record of every pack ripped and sold across gacha sites."
+    },
+    {
+      "handle": "@ColdMorningGrit",
+      "url": "https://x.com/ColdMorningGrit",
+      "followers": 1201,
+      "segment": "Sports card daily pack ripper",
+      "crypto_friendly": "unknown",
+      "reason": "'Day 32 of the Topps Flagship rip' daily series. Mainstream sports collector audience."
+    },
+    {
+      "handle": "@pokzucom",
+      "url": "https://x.com/pokzucom",
+      "followers": 28,
+      "segment": "Pokémon budget-collecting guides",
+      "crypto_friendly": "unknown",
+      "reason": "Small, but budget guide post got 1k+ impressions. Mainstream newcomer angle."
+    },
+    {
+      "handle": "@ColressTCG",
+      "url": "https://x.com/ColressTCG",
+      "followers": 75,
+      "segment": "Pokémon TCG pull/price posts",
+      "crypto_friendly": "unknown",
+      "reason": "Posts pulls with his own price index. Small but on-topic for Delta Reign."
+    }
+  ],
+  "post_ideas": [
+    {
+      "idea": "Sold-out 30th Anniversary hook",
+      "draft_copy": "Couldn't find 30th Anniversary packs? Open one from your phone. Real graded cards, vaulted for you. Keep it, sell it back within 72h, or ship it home. Odds shown before you open. 18+",
+      "needs_legal_check": false
+    },
+    {
+      "idea": "Nostalgia pull reshare (with permission), like the 1999 Diglett",
+      "draft_copy": "Some pulls take you straight back to 1999. Show us the card that did it for you. Open a pack in Solflare and share your album. 18+",
+      "needs_legal_check": true
+    },
+    {
+      "idea": "'No pack searching' trust post",
+      "draft_copy": "Nobody weighed this pack. Nobody searched it. You see the odds, you open it, you see what you got. Try the free demo in Solflare. 18+",
+      "needs_legal_check": true
+    }
+  ],
+  "sources_note": "X search via the x connector, posts from 2026-11-11 09:00 UTC to 2026-11-12 ~09:10 UTC, 9 searches. Engagement numbers are as returned by the X API at scan time. Sales and revenue figures are what the cited accounts posted, not verified. @solflare's own posts today were Breakpoint privacy teases, not Packs, so they're left out. Referral-code spam (Tilt Rips, Triumph Rips), restock bots and giveaways were skipped. The @zard launchpad mention is a third-party token promo that says 'powered by @solflare'; worth checking with the team. Creators already in collector-base.csv or in earlier daily files were excluded."
+}
