@@ -1,0 +1,302 @@
+{
+  "generated_at": "2026-11-13T10:11:59+01:00",
+  "date": "2026-11-13",
+  "status": "ok",
+  "window_hours": 24,
+  "summary": "Quiet-ish day for Solflare Packs: a few organic shout-outs (@hyperstrike's 'Just RIP @solflare packs', @AiFlippa teasing BlockRips x Solflare packs), plus one reply saying the demo is fun but real packs cost real money. The big story is still Crypto.com Rips: lots of people claiming free packs, but also complaints about lag, duplicate cards, no shipping option for some, and card payment not working. A post claims Coinbase Collect is powered by Collector Crypt (unverified). On the mainstream side, scalpers and sold-out shelves are still the top pain, and PSA opened EU grading in Frankfurt from €34.99 a card.",
+  "top_posts": [
+    {
+      "url": "https://x.com/hyperstrike/status/2120949905158279169",
+      "author_handle": "@hyperstrike",
+      "text": "Just RIP @solflare packs💛",
+      "created_at": "2026-11-12T18:40:37Z",
+      "likes": 11,
+      "reposts": 0,
+      "replies": 1,
+      "quotes": 0,
+      "topic": "Solflare Packs",
+      "why_it_matters": "Organic Solflare Packs shout-out from a 6.5k-follower account. Easy reshare or reply."
+    },
+    {
+      "url": "https://x.com/FranciswongCro/status/2120825519340200299",
+      "author_handle": "@FranciswongCro",
+      "text": "Crypto.com Rips: Rip It, Flip It — But Who Actually Profits? Crypto.com launched Rips on 9 November 2026, inside its main app. You buy a digital pack, open it, and reveal a real physical trading card — Pokémon, MLB, NBA, or NFL. Then you have two days...",
+      "created_at": "2026-11-12T10:26:21Z",
+      "likes": 71,
+      "reposts": 7,
+      "replies": 10,
+      "quotes": 1,
+      "topic": "Competitors",
+      "why_it_matters": "Most-read Rips explainer today (4.5k impressions). Shows people are asking who profits, so clear odds and fair sell-back are a trust point for us."
+    },
+    {
+      "url": "https://x.com/oripaxyz/status/2120842932051972271",
+      "author_handle": "@oripaxyz",
+      "text": "6 in 10 graded cards in 2025 were pokémon, about 16.1M slabs. every sport combined came in around 10M, while TCG grading nearly doubled and sports grading fell 12%.",
+      "created_at": "2026-11-12T11:35:33Z",
+      "likes": 213,
+      "reposts": 39,
+      "replies": 18,
+      "quotes": 0,
+      "topic": "Market",
+      "why_it_matters": "Highest-engagement post in the scan. Pokémon is the core of graded cards, which backs our Pokémon-first focus."
+    },
+    {
+      "url": "https://x.com/CardAficionado/status/2121033763807469753",
+      "author_handle": "@CardAficionado",
+      "text": "Coinbase Collect is powered by @Collector_Crypt as we suspected",
+      "created_at": "2026-11-13T00:13:50Z",
+      "likes": 4,
+      "reposts": 1,
+      "replies": 1,
+      "quotes": 0,
+      "topic": "Competitors",
+      "why_it_matters": "If true, Coinbase is now selling packs from the same partner as us, to a huge mainstream base. Unverified, worth checking with Collector Crypt."
+    },
+    {
+      "url": "https://x.com/sergeybobrovsk1/status/2120832560242569718",
+      "author_handle": "@sergeybobrovsk1",
+      "text": "thanks @cryptocom free for Rips just please fix payment with your own card for additional packs",
+      "created_at": "2026-11-12T10:54:20Z",
+      "likes": 1,
+      "reposts": 0,
+      "replies": 0,
+      "quotes": 0,
+      "topic": "Payments",
+      "why_it_matters": "Card payment friction on a rival right at launch. Our Coinflow Apple Pay / Google Pay flow needs to just work on day one."
+    },
+    {
+      "url": "https://x.com/quick1875/status/2121006274456510621",
+      "author_handle": "@quick1875",
+      "text": "I gotta say @cryptocom I thought that the pack rips would be different then ither platforms. But no, I buy 4 packs and get the same card 3 times. @kris can i get a refund lol",
+      "created_at": "2026-11-12T22:24:36Z",
+      "likes": 5,
+      "reposts": 0,
+      "replies": 0,
+      "quotes": 0,
+      "topic": "Sentiment / competitors",
+      "why_it_matters": "Duplicate pulls kill trust fast. Showing odds and the card pool up front matters."
+    },
+    {
+      "url": "https://x.com/McQuaza_/status/2121069046795755569",
+      "author_handle": "@McQuaza_",
+      "text": "Come with me for day #3 of the McDonald's Pokémon promotion. Ripped my first @Courtyard_io pack! Pulled a new Happy Meal box toy and card!",
+      "created_at": "2026-11-13T02:34:02Z",
+      "likes": 18,
+      "reposts": 7,
+      "replies": 6,
+      "quotes": 0,
+      "topic": "Mainstream crossover",
+      "why_it_matters": "A mainstream Pokémon collector mixing McDonald's promo content with a first digital pack. The exact crossover we want."
+    },
+    {
+      "url": "https://x.com/mgcleans/status/2120963922476056706",
+      "author_handle": "@mgcleans",
+      "text": "I just need a good place to virtually rip sports cards for a decent price with like instant buy backs and stuff",
+      "created_at": "2026-11-12T19:36:19Z",
+      "likes": 3,
+      "reposts": 0,
+      "replies": 4,
+      "quotes": 0,
+      "topic": "Demand signal",
+      "why_it_matters": "Sports collector asking for exactly what Solflare Packs offers (sports packs + 72h sell-back)."
+    },
+    {
+      "url": "https://x.com/CollectblePro/status/2121017851612160026",
+      "author_handle": "@CollectblePro",
+      "text": "PSA now grades EU cards in Frankfurt, from €34.99 a card. Only 7.9% of English Pokémon singles had a Cardmarket trend that high in the week to 9 November.",
+      "created_at": "2026-11-12T23:10:37Z",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 0,
+      "quotes": 0,
+      "topic": "Pain point: grading cost",
+      "why_it_matters": "Grading cost is still high vs most card values. Packs of already-graded cards skip that step."
+    },
+    {
+      "url": "https://x.com/knoyhead/status/2120915221325775160",
+      "author_handle": "@knoyhead",
+      "text": "Ripping a pack of Pokémon cards, but make it cinematic. Welcome to another episode The Regal Card Chronicles, where we focus on enjoying the full pack opening experience with high quality visuals and audio.",
+      "created_at": "2026-11-12T16:22:48Z",
+      "likes": 3,
+      "reposts": 0,
+      "replies": 0,
+      "quotes": 0,
+      "topic": "Format",
+      "why_it_matters": "'Cinematic' slow pack-open format keeps showing up. Good template for demo-pack clips."
+    }
+  ],
+  "competitor_news": [
+    {
+      "project": "Crypto.com",
+      "headline": "Rips rolling out to more countries with 5 free packs; users report lag, duplicate cards, no ship option for some, and card payment issues",
+      "url": "https://x.com/0x_trophy/status/2120808326497796572",
+      "date": "2026-11-12"
+    },
+    {
+      "project": "Coinbase / Collector Crypt",
+      "headline": "Claim that Coinbase Collect is powered by Collector Crypt (unverified)",
+      "url": "https://x.com/CardAficionado/status/2121033763807469753",
+      "date": "2026-11-13"
+    },
+    {
+      "project": "Collector Crypt / Courtyard",
+      "headline": "Weekly packs sold: Collector Crypt $31.3M (+19%), Courtyard $10.5M (-18%) (per @openaisi, not verified)",
+      "url": "https://x.com/openaisi/status/2120912835718857061",
+      "date": "2026-11-12"
+    },
+    {
+      "project": "Collector Crypt / Courtyard",
+      "headline": "30-day revenue ranking: Collector Crypt $14.73M, Courtyard $2.09M, Gacha TCG $455.8K (per @onchain_tcg citing DefiLlama)",
+      "url": "https://x.com/onchain_tcg/status/2120847401472909575",
+      "date": "2026-11-12"
+    },
+    {
+      "project": "NBA Top Shot",
+      "headline": "AJ Dybantsa Rookie Debut Overtime Pack drop at $10 with an autographed /5 inside",
+      "url": "https://x.com/NBATopShot/status/2120925769362751884",
+      "date": "2026-11-12"
+    },
+    {
+      "project": "Tilt Rips",
+      "headline": "Pitching Pokémon, One Piece and sports packs from $0.10 to $3,000",
+      "url": "https://x.com/prime_tilt/status/2120832839813849415",
+      "date": "2026-11-12"
+    },
+    {
+      "project": "BlockRips / mnstr",
+      "headline": "BlockRips pushes a $RIPS airdrop checker; mnstr cut ultra packs from $1,250 to $1,000 (per @Marki_exo)",
+      "url": "https://x.com/Marki_exo/status/2120951531218575688",
+      "date": "2026-11-12"
+    }
+  ],
+  "solflare_mentions": [
+    {
+      "url": "https://x.com/hyperstrike/status/2120949905158279169",
+      "author_handle": "@hyperstrike",
+      "text": "Just RIP @solflare packs💛",
+      "sentiment": "positive",
+      "likes": 11
+    },
+    {
+      "url": "https://x.com/AiFlippa/status/2120894335038406856",
+      "author_handle": "@AiFlippa",
+      "text": "@BlockRips x @solflare packs. I'm game",
+      "sentiment": "positive",
+      "likes": 4
+    },
+    {
+      "url": "https://x.com/asdepicted/status/2121139726409503118",
+      "author_handle": "@asdepicted",
+      "text": "@SYNEX98_36 @solflare The demo is fun until you realize real packs cost real money. My wallet is already nervous.",
+      "sentiment": "neutral",
+      "likes": 0
+    },
+    {
+      "url": "https://x.com/thebyefun/status/2120965042434953486",
+      "author_handle": "@thebyefun",
+      "text": "Yo @solflare, is this what you meant by privacy? Byefun users love Solflare and they love privacy too... Roll a slab never looked this good. See you all in London, Nov 15–17",
+      "sentiment": "positive",
+      "likes": 27
+    },
+    {
+      "url": "https://x.com/danieldelophem/status/2120961104952348916",
+      "author_handle": "@danieldelophem",
+      "text": "Today alone our partnerships with @solflare @Collector_Crypt & @SP3NDdotshop got announced. In total we're bringing +20k merch items to BP26",
+      "sentiment": "neutral",
+      "likes": 79
+    }
+  ],
+  "new_creators": [
+    {
+      "handle": "@McQuaza_",
+      "url": "https://x.com/McQuaza_",
+      "followers": 541,
+      "segment": "Mainstream Pokémon collector, new to digital packs",
+      "crypto_friendly": "yes",
+      "reason": "Ripped his first Courtyard pack alongside McDonald's Pokémon promo content. Just launched a Courtyard account."
+    },
+    {
+      "handle": "@mgcleans",
+      "url": "https://x.com/mgcleans",
+      "followers": 1646,
+      "segment": "Sports card collector",
+      "crypto_friendly": "unknown",
+      "reason": "Publicly asking for a place to rip sports cards online with instant buybacks. Direct fit."
+    },
+    {
+      "handle": "@rarefinds",
+      "url": "https://x.com/rarefinds",
+      "followers": 10528,
+      "segment": "Vintage Pokémon sealed collector",
+      "crypto_friendly": "unknown",
+      "reason": "Mainstream Pokémon voice; post on the 1998 Demo Game pack got 1.9k impressions."
+    },
+    {
+      "handle": "@Ki1iko",
+      "url": "https://x.com/Ki1iko",
+      "followers": 8528,
+      "segment": "Graded Pokémon set collector on Collector Crypt",
+      "crypto_friendly": "yes",
+      "reason": "Completed a PSA 10 set using Collector Crypt bids. Knows the vault model already."
+    },
+    {
+      "handle": "@FranciswongCro",
+      "url": "https://x.com/FranciswongCro",
+      "followers": 17128,
+      "segment": "Crypto writer covering card rips",
+      "crypto_friendly": "yes",
+      "reason": "Wrote the most-read Crypto.com Rips explainer today. Could cover how Solflare Packs works."
+    },
+    {
+      "handle": "@CardAficionado",
+      "url": "https://x.com/CardAficionado",
+      "followers": 1226,
+      "segment": "On-chain cards commentator",
+      "crypto_friendly": "yes",
+      "reason": "Tracks Collector Crypt partners (Coinbase Collect claim)."
+    },
+    {
+      "handle": "@LlopCollectz",
+      "url": "https://x.com/LlopCollectz",
+      "followers": 386,
+      "segment": "Baseball card collector, Courtyard ripper",
+      "crypto_friendly": "yes",
+      "reason": "Posts Courtyard pack opens and talks openly about buyback rates."
+    },
+    {
+      "handle": "@Rimjiano",
+      "url": "https://x.com/Rimjiano",
+      "followers": 891,
+      "segment": "Pokémon digital pack ripper",
+      "crypto_friendly": "yes",
+      "reason": "Tilt Rips hit post got 1.5k impressions and 17 replies. Rips low-price packs."
+    },
+    {
+      "handle": "@AutiManic",
+      "url": "https://x.com/AutiManic",
+      "followers": 74,
+      "segment": "Baseball card collector on Courtyard",
+      "crypto_friendly": "yes",
+      "reason": "Small, but shares PSA 10 hits from digital packs (Tony Gwynn post, 344 impressions)."
+    }
+  ],
+  "post_ideas": [
+    {
+      "idea": "'Want to rip sports cards online with sell-back?' answer post",
+      "draft_copy": "Want to open sports cards from your phone? Solflare Packs has real graded cards. Keep your pull, sell it back within 72h, or ship it home. Odds shown before you open. 18+",
+      "needs_legal_check": false
+    },
+    {
+      "idea": "Skip the grading queue",
+      "draft_copy": "No sending cards off. No waiting on a grade. Every card in Solflare Packs is already graded by PSA or Beckett and vaulted for you. Try the free demo. 18+",
+      "needs_legal_check": false
+    },
+    {
+      "idea": "Show the card pool before you open (trust post, answers duplicate-card complaints)",
+      "draft_copy": "Before you open a pack, you can see what's in it and the odds. No surprises in the rules, just in the pull. Try it free in Solflare. 18+",
+      "needs_legal_check": true
+    }
+  ],
+  "sources_note": "X search via the x connector, posts from 2026-11-12 09:10 UTC to 2026-11-13 ~09:10 UTC, 11 searches. Engagement numbers are as returned by the X API at scan time. Sales and revenue figures are what the cited accounts posted, not verified; the Coinbase Collect / Collector Crypt link is a single unconfirmed claim. Most @solflare mentions today were about the Solflare card and Breakpoint privacy teases, not Packs, so they're left out. The @danieldelophem post is a Nomu merch partnership, not Packs. Referral-code spam (Crown Cards, Drip), memecoin shilling, carding spam and giveaways were skipped. Creators already in collector-base.csv or earlier daily files were excluded."
+}
