@@ -1,266 +1,238 @@
 {
-  "generated_at": "2026-11-14T10:30:01+01:00",
-  "date": "2026-11-14",
+  "generated_at": "2026-11-15T10:22:12+01:00",
+  "date": "2026-11-15",
   "status": "ok",
   "window_hours": 24,
-  "summary": "Big news is Collector Crypt launching its own mobile app (Android first) right before Breakpoint. A recap post says Coinbase help pages confirm Coinbase Collect uses Collector Crypt for custody and fulfillment, so the same card supply now sits behind Coinbase, Jupiter, MoonPay and us. Fake PSA slabs are the hot pain point today, and Costco Pokémon drops sold out in minutes again. Solflare Packs got a few small organic mentions, all neutral to positive.",
+  "summary": "Quiet Saturday for packs, with Breakpoint opening in London today. Pokémon mood turned sour: a big trader account says sell TCG now, sealed flippers are stuck with product, and Target cut its pack limit to one. Collector Crypt keeps posting big numbers ($201.8M packs in 30 days per one recap, and more 24h fees than Raydium AMM per another), while Jupiter pushes a Gacha Battlepass with volume rewards. Only one small Solflare Packs mention, a pull post from our ambassador @AiFlippa.",
   "top_posts": [
     {
-      "url": "https://x.com/Collector_Crypt/status/2121293749300994382",
-      "author_handle": "@Collector_Crypt",
-      "text": "We're proud to announce the launch of the Collector Crypt mobile app, arriving just in time for Solana Breakpoint 2026.\n\nStarting today, Android users are getting exclusive first access to the Collector Crypt experience through the Google Play Store.\n\nA new chapter in https://t.co/UvfhBXAEEm",
-      "created_at": "2026-11-13T17:26:56Z",
-      "likes": 331,
-      "reposts": 58,
-      "replies": 75,
-      "quotes": 18,
-      "topic": "Competitors",
-      "why_it_matters": "Our card partner now has its own app. More direct competition for the same buyers, and more awareness of the Collector Crypt vault model."
+      "url": "https://x.com/MoonOverlord/status/2121628398095331554",
+      "author_handle": "@MoonOverlord",
+      "text": "probably last chance to sell TCG / Pokemon Cards at these levels\n\nai wealth bubble popping and crypto rolling over https://t.co/PaygSQrhvw",
+      "created_at": "2026-11-14T15:36:42Z",
+      "likes": 208,
+      "reposts": 8,
+      "replies": 23,
+      "quotes": 3,
+      "topic": "Pokémon market mood",
+      "why_it_matters": "300k-follower crypto trader telling people to sell Pokémon cards. Crypto and card crowds overlap more than ever, and the mood is cooling. Good moment to talk about the fun of opening, not value."
     },
     {
-      "url": "https://x.com/ArnoldMoger/status/2121313672458879283",
-      "author_handle": "@ArnoldMoger",
-      "text": "Fake slabs can't hide from me anymore. 🔎\n\nFortunately, all of my slabs were real. https://t.co/IlcvIBDOCn",
-      "created_at": "2026-11-13T18:46:06Z",
-      "likes": 124,
-      "reposts": 4,
-      "replies": 16,
-      "quotes": 0,
-      "topic": "Pain points",
-      "why_it_matters": "20k impressions on a fake-slab checking post. Fake slabs are what collectors worry about this week. Vaulted, verified cards is a clear trust message for us."
-    },
-    {
-      "url": "https://x.com/Okada_DeFi0x/status/2121245237914022124",
-      "author_handle": "@Okada_DeFi0x",
-      "text": "A digital card platform can offer fair odds and still give users poor value.\n\nThe more I research onchain TCG platforms, the more I focus on four things: inventory, randomness, pricing, and physical delivery.\n\nCollector Crypt CEO Tuomas Holmberg’s breakdown helped clarify this. https://t.co/e3Xj5zscoQ",
-      "created_at": "2026-11-13T14:14:10Z",
-      "likes": 88,
-      "reposts": 3,
-      "replies": 25,
-      "quotes": 0,
-      "topic": "Market",
-      "why_it_matters": "Crypto TCG researcher (20k followers) says fair odds aren't enough: inventory, randomness, pricing and delivery matter. Good checklist for how we explain Packs."
-    },
-    {
-      "url": "https://x.com/aibra/status/2121207823073988947",
-      "author_handle": "@aibra",
-      "text": "Not all gacha marketplaces are created equal!!\n\nJust passed on integrating one into @OnlySlabs_ \n\nTheir terms say the cert and photos are \"illustrative,\" and you may get a different slab.\n\nWith fake slabs on the rise how can you trust a cert you can verify?? https://t.co/sGPZagc16r",
-      "created_at": "2026-11-13T11:45:29Z",
-      "likes": 14,
-      "reposts": 0,
-      "replies": 10,
-      "quotes": 1,
-      "topic": "Competitors / trust",
-      "why_it_matters": "A slab marketplace passed on a gacha partner because its terms say cert photos are 'illustrative'. Shows the trust bar for rip platforms. We should be clear the card you see is the card you get, if true."
-    },
-    {
-      "url": "https://x.com/DisTrackers/status/2121351918849278292",
-      "author_handle": "@DisTrackers",
-      "text": "Costco is sold out! Supposedly 100k stock. Did you get lucky?\n.\n#Pokemon #TradingCards #TCG #Costco https://t.co/ihsEgaTGuY",
-      "created_at": "2026-11-13T21:18:04Z",
-      "likes": 21,
+      "url": "https://x.com/Kennyboulder/status/2121683027562831977",
+      "author_handle": "@Kennyboulder",
+      "text": "Goodluck trying to offload $21,597 of Sealed Pokemon Cards Lmao #pokemon30 #scalpers #pokemoninvesting #pokemontcg #PokemonCards https://t.co/rh1Tnscu9W",
+      "created_at": "2026-11-14T19:13:47Z",
+      "likes": 61,
       "reposts": 1,
-      "replies": 16,
+      "replies": 12,
       "quotes": 0,
-      "topic": "Pain points",
-      "why_it_matters": "Costco Pokémon drop sold out (17.9k impressions). Sold-out retail keeps pushing collectors to look online."
+      "topic": "Collector pain: scalpers",
+      "why_it_matters": "Sealed hoarders are stuck. Shows the flip-only crowd is hurting, while people who open for fun are still around."
     },
     {
-      "url": "https://x.com/SolTracerApp/status/2121325593887432770",
-      "author_handle": "@SolTracerApp",
-      "text": "@Collector_Crypt Android app is on Google Play, ahead of Breakpoint.\n\nCoinbase help pages confirm Collect uses @Collector_Crypt for custody and fulfillment (iOS, U.S. excl. NY). $CARDS hit Coinbase's listing roadmap Nov 3 and Upbit Nov 5. Powers Solflare packs, Jupiter Gacha and MoonPay PayBox.",
-      "created_at": "2026-11-13T19:33:28Z",
+      "url": "https://x.com/Skogjero/status/2121649004630945935",
+      "author_handle": "@Skogjero",
+      "text": "the world would be a better place if PSA grading companies didn't exist https://t.co/HNxrx8FJ1s",
+      "created_at": "2026-11-14T16:58:35Z",
+      "likes": 52,
+      "reposts": 4,
+      "replies": 2,
+      "quotes": 0,
+      "topic": "Collector pain: grading",
+      "why_it_matters": "Grading frustration gets real engagement. Our packs skip the grading wait since cards are already PSA/Beckett graded."
+    },
+    {
+      "url": "https://x.com/smil3dawg_/status/2121728833363599763",
+      "author_handle": "@smil3dawg_",
+      "text": "fuck scalpers and fuck target why the hell did they change the limit of 2 packs per customer to ONE PACK AND THEYRE 6.99. oh my god this sucks im never buying pokemon packs from target again",
+      "created_at": "2026-11-14T22:15:48Z",
+      "likes": 3,
+      "reposts": 0,
+      "replies": 0,
+      "quotes": 0,
+      "topic": "Collector pain: retail limits",
+      "why_it_matters": "Target cut the pack limit to one. Clear sold-out/limits pain we can speak to in plain words."
+    },
+    {
+      "url": "https://x.com/openaisi/status/2121637574330442152",
+      "author_handle": "@openaisi",
+      "text": "Rival card platforms shrank over the same week: Courtyard did $10.7M (-11%) and Phygitals $5.5M (-23%).\n\nOver 30 days Collector Crypt sold $201.8M of packs, up 35%, more than double both rivals combined.\n\n$CARDS also got a Bithumb KRW listing on Nov 10, after Upbit and Coinbase. https://t.co/fwRes4yM6F",
+      "created_at": "2026-11-14T16:13:10Z",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 1,
+      "quotes": 0,
+      "topic": "Competitors",
+      "why_it_matters": "Recap says Collector Crypt sold $201.8M of packs in 30 days, while Courtyard and Phygitals shrank week over week. Our supply partner is still the category leader."
+    },
+    {
+      "url": "https://x.com/SolboxClub/status/2121562433726947378",
+      "author_handle": "@SolboxClub",
+      "text": "Solana fees, last 24h (DefiLlama):\n\nCollector Crypt (card packs): $251K, +51%\nRaydium AMM: $243K\n\nA trading card gacha now out-earns one of the oldest DEXs on the chain.\n\nThe casino keeps finding new tables.\n\n#Solana #CollectorCrypt #Raydium",
+      "created_at": "2026-11-14T11:14:35Z",
       "likes": 0,
       "reposts": 0,
       "replies": 0,
       "quotes": 0,
       "topic": "Competitors",
-      "why_it_matters": "Recap: Coinbase Collect uses Collector Crypt (iOS, US excl. NY) and the same supply powers Solflare Packs, Jupiter Gacha and MoonPay PayBox. Differentiation can't be the cards themselves."
+      "why_it_matters": "Claims Collector Crypt beat Raydium AMM on 24h fees (DefiLlama). Note the 'casino' framing, the exact angle we want to stay away from."
     },
     {
-      "url": "https://x.com/SagaMobileDAO/status/2121302078144602511",
-      "author_handle": "@SagaMobileDAO",
-      "text": "Thank you @solflare for the cards and @JUPCommunity for the Lucky Packs.\n\nAnd to our winners:\n@Davis_Brains - Raichu &amp; Alolan Raichu\n@cryptonyth73561 - Mega Charizard + Squirtle\n@mrlumenvox - Charmander + Jupiter Lucky Pack\n@Web3RM - Garchomp",
-      "created_at": "2026-11-13T18:00:01Z",
-      "likes": 2,
-      "reposts": 0,
-      "replies": 1,
+      "url": "https://x.com/NBATopShot/status/2121611614235304076",
+      "author_handle": "@NBATopShot",
+      "text": "With 2 days still to go, 1,381 Steph Curry Moments have already been traded in for his new Top Shot This packs 🔥\n\n🔹 $2,701 traded in | 260 packs\n🔹 /220 Standard (and growing) plus /25, /10 and /5 parallels\n\nTrade in yours for packs ⤵️\nhttps://t.co/hAaqpH2tNM https://t.co/NYsPdsCU40",
+      "created_at": "2026-11-14T14:30:01Z",
+      "likes": 11,
+      "reposts": 1,
+      "replies": 2,
       "quotes": 0,
-      "topic": "Solflare Packs",
-      "why_it_matters": "Saga Mobile DAO gave away cards from Solflare plus Jupiter Lucky Packs. Community use of Packs pulls, next to a competitor."
+      "topic": "Formats: trade-in for packs",
+      "why_it_matters": "Top Shot lets people trade old Moments in for new packs. A loop worth watching for Packs retention ideas."
     },
     {
-      "url": "https://x.com/lappelduvideeth/status/2121303067551322478",
-      "author_handle": "@lappelduvideeth",
-      "text": "One month for shipping info?\n\nIf you have literally any cards still in Phygitals, you only get so many warnings that you need to exit with haste https://t.co/qnCwZNdRRF",
-      "created_at": "2026-11-13T18:03:57Z",
-      "likes": 8,
+      "url": "https://x.com/chrisschlei/status/2121591463913902121",
+      "author_handle": "@chrisschlei",
+      "text": "When are 5,000 sales better than 50,000?\n\nIn the first 48 hours, Panini's World Cup stickers recorded 50,048 singles sales. NBA Top Shot recorded 5,324 across five tracked sets in its Rookie Debut drop.\n\nBut here's what caught my attention.\n\nTop Shot had more singles buyers.\n\n399",
+      "created_at": "2026-11-14T13:09:56Z",
+      "likes": 17,
+      "reposts": 2,
+      "replies": 3,
+      "quotes": 0,
+      "topic": "Digital collectibles analysis",
+      "why_it_matters": "Top Shot drop had fewer sales than Panini stickers but more unique buyers. Useful data point for the 'more buyers, not more volume' story."
+    },
+    {
+      "url": "https://x.com/JUPCommunity/status/2121890956295143904",
+      "author_handle": "@JUPCommunity",
+      "text": "WIN A $2,000 WATCH SOVEREIGN PACK 🔥\n\nThe Gacha Battlepass is live, and every eligible pack you rip brings you closer to your next reward!\n\nThe more volume you build, the bigger the rewards get 👀\n\n⁉️ Eligible packs for volume:\n\nPokémon Crown Pack - $50\nWatch Chrono Pack - $250 https://t.co/wYvRggrcEW",
+      "created_at": "2026-11-15T09:00:01Z",
+      "likes": 1,
+      "reposts": 1,
+      "replies": 0,
+      "quotes": 0,
+      "topic": "Competitors",
+      "why_it_matters": "Jupiter's Gacha Battlepass rewards pack volume with a $2,000 watch pack. Direct competitor retention mechanic."
+    },
+    {
+      "url": "https://x.com/0xlucipher/status/2121597668061544471",
+      "author_handle": "@0xlucipher",
+      "text": "by far the best event badge i've ever received \n\n@SolanaFndn/@solana knows how to run a conference\n\nyou can trade pokemon style cards with other attendees, which is a great conversation starter\n\ncan't wait for breakpoint to start so i can do some of the quests available https://t.co/nzr14W2f7c",
+      "created_at": "2026-11-14T13:34:36Z",
+      "likes": 12,
       "reposts": 0,
       "replies": 2,
       "quotes": 0,
-      "topic": "Competitors / shipping",
-      "why_it_matters": "Phygitals user warns people to pull cards out, complaining about one month waiting on shipping info. Shipping speed is a real trust point."
+      "topic": "Breakpoint",
+      "why_it_matters": "Breakpoint badges let attendees trade Pokémon-style cards. Card collecting is the icebreaker at the conference this week."
     }
   ],
   "competitor_news": [
     {
+      "project": "Jupiter",
+      "headline": "Jupiter launches Gacha Battlepass: rewards for pack volume, eligible Pokémon Crown Pack ($50) and Watch Chrono Pack ($250), top prize a $2,000 watch pack",
+      "url": "https://x.com/JUPCommunity/status/2121890956295143904",
+      "date": "2026-11-15"
+    },
+    {
       "project": "Collector Crypt",
-      "headline": "Launches Collector Crypt mobile app, Android first on Google Play, ahead of Solana Breakpoint 2026",
-      "url": "https://x.com/Collector_Crypt/status/2121293749300994382",
-      "date": "2026-11-13"
-    },
-    {
-      "project": "Coinbase Collect",
-      "headline": "Recap post says Coinbase help pages confirm Collect uses Collector Crypt for custody and fulfillment (iOS, US excl. NY)",
-      "url": "https://x.com/SolTracerApp/status/2121325593887432770",
-      "date": "2026-11-13"
-    },
-    {
-      "project": "Courtyard",
-      "headline": "Creators still ripping Pokémon Master Packs for the McDonald's Pokémon promo, day 4",
-      "url": "https://x.com/McQuaza_/status/2121416136696700941",
+      "headline": "Recap: $201.8M of packs sold in 30 days (+35%); Courtyard $10.7M (-11%) and Phygitals $5.5M (-23%) for the week; $CARDS listed on Bithumb KRW on Nov 10",
+      "url": "https://x.com/openaisi/status/2121637574330442152",
       "date": "2026-11-14"
     },
     {
-      "project": "Topps Digital",
-      "headline": "Topps BUNT launches Cosmic Chrome Challenge with entry packs for a chance at physical hobby boxes",
-      "url": "https://x.com/ToppsDigital/status/2121351223110508869",
-      "date": "2026-11-13"
+      "project": "Collector Crypt",
+      "headline": "Post citing DefiLlama: Collector Crypt 24h fees $251K, ahead of Raydium AMM at $243K",
+      "url": "https://x.com/SolboxClub/status/2121562433726947378",
+      "date": "2026-11-14"
     },
     {
-      "project": "Phygitals",
-      "headline": "User complaint about a month waiting on shipping info, telling others to exit",
-      "url": "https://x.com/lappelduvideeth/status/2121303067551322478",
-      "date": "2026-11-13"
+      "project": "NBA Top Shot",
+      "headline": "Steph Curry 'Top Shot This' packs via Moment trade-in: 1,381 Moments traded in, 260 packs, with 2 days to go",
+      "url": "https://x.com/NBATopShot/status/2121611614235304076",
+      "date": "2026-11-14"
     },
     {
-      "project": "Crypto.com Rips",
-      "headline": "Rips still getting daily creator pack-opening posts from the Crypto.com community",
-      "url": "https://x.com/luca87m/status/2121374471109886194",
+      "project": "Renaiss",
+      "headline": "Creator promo for Renaiss: vaulted graded Pokémon/One Piece cards you can trade, display or ship",
+      "url": "https://x.com/OliviaRue/status/2121586768206307361",
       "date": "2026-11-14"
     }
   ],
   "solflare_mentions": [
     {
-      "url": "https://x.com/SagaMobileDAO/status/2121302078144602511",
-      "author_handle": "@SagaMobileDAO",
-      "text": "Thank you @solflare for the cards and @JUPCommunity for the Lucky Packs.\n\nAnd to our winners:\n@Davis_Brains - Raichu &amp; Alolan Raichu\n@cryptonyth73561 - Mega Charizard + Squirtle\n@mrlumenvox - Charmander + Jupiter Lucky Pack\n@Web3RM - Garchomp",
+      "url": "https://x.com/AiFlippa/status/2121787968289386720",
+      "author_handle": "@AiFlippa",
+      "text": "This @solflare pack pull deserves much better than being a common. https://t.co/j1s4jMHszD",
       "sentiment": "positive",
-      "likes": 2
-    },
-    {
-      "url": "https://x.com/RusBus09/status/2121271887804485731",
-      "author_handle": "@RusBus09",
-      "text": "14/ Solflare Packs @solflare\n\nOpen graded card packs inside the wallet. No extra site. Powered by Collector Crypt\n\nhttps://t.co/434d2xLdqe @watchdotfun\n\nLuxury watch drops authenticated by WristCheck, plus graded cards on the same vault model https://t.co/SQyTxp5RBO",
-      "sentiment": "neutral",
-      "likes": 0
-    },
-    {
-      "url": "https://x.com/QueenHaddassah/status/2121336987374309425",
-      "author_handle": "@QueenHaddassah",
-      "text": "@solflare Can’t wait to see what I pull",
-      "sentiment": "positive",
-      "likes": 1
+      "likes": 6
     }
   ],
   "new_creators": [
     {
-      "handle": "@ArnoldMoger",
-      "url": "https://x.com/ArnoldMoger",
-      "followers": 5540,
-      "segment": "Pokémon slab collector, fake-slab checking content",
+      "handle": "@chrisschlei",
+      "url": "https://x.com/chrisschlei",
+      "followers": 189,
+      "segment": "Digital collectibles analyst (Top Shot, sports)",
+      "crypto_friendly": "yes",
+      "reason": "Writes data posts on digital vs physical drops. Good fit for a 'how Packs works' explainer or data swap."
+    },
+    {
+      "handle": "@Catscollecttcg",
+      "url": "https://x.com/Catscollecttcg",
+      "followers": 23691,
+      "segment": "Japan-based TCG store (Pokémon, One Piece)",
       "crypto_friendly": "unknown",
-      "reason": "Fake-slab check post hit 20k impressions and 124 likes. Trust-focused content fits our vaulted-card story."
+      "reason": "23.7k followers buying Japanese sealed. Mainstream collectors who could like vaulted graded singles."
     },
     {
-      "handle": "@Okada_DeFi0x",
-      "url": "https://x.com/Okada_DeFi0x",
-      "followers": 20233,
-      "segment": "Onchain TCG researcher",
-      "crypto_friendly": "yes",
-      "reason": "Writes about onchain TCG platforms (inventory, randomness, pricing, delivery). 88 likes, 25 replies today."
-    },
-    {
-      "handle": "@aibra",
-      "url": "https://x.com/aibra",
-      "followers": 8232,
-      "segment": "Slab marketplace founder (@OnlySlabs_)",
-      "crypto_friendly": "yes",
-      "reason": "Vets gacha partners on cert trust. Possible partner voice on verified slabs."
-    },
-    {
-      "handle": "@Rosentica",
-      "url": "https://x.com/Rosentica",
-      "followers": 27762,
-      "segment": "Pokémon gacha ripper",
-      "crypto_friendly": "yes",
-      "reason": "Rips One Arena gacha packs and posts pulls. 27.8k followers."
-    },
-    {
-      "handle": "@betonjmont",
-      "url": "https://x.com/betonjmont",
-      "followers": 1442,
-      "segment": "Sports card digital pack ripper",
-      "crypto_friendly": "yes",
-      "reason": "Posts sports pack rips with buyback numbers (#ad). Good fit for sports packs."
-    },
-    {
-      "handle": "@TheFafiCRO",
-      "url": "https://x.com/TheFafiCRO",
-      "followers": 2491,
-      "segment": "Crypto.com community, Pokémon Rips opener",
-      "crypto_friendly": "yes",
-      "reason": "Daily Rips Pokémon openings on Crypto.com. Crypto-native and already opening digital packs."
-    },
-    {
-      "handle": "@BerryMarsVT",
-      "url": "https://x.com/BerryMarsVT",
-      "followers": 4526,
-      "segment": "VTuber, Pokémon pack opening streams",
+      "handle": "@Lucasiezzi_",
+      "url": "https://x.com/Lucasiezzi_",
+      "followers": 5020,
+      "segment": "Vintage Pokémon collector",
       "crypto_friendly": "unknown",
-      "reason": "Streams big Pokémon pack openings (~70 packs of Delta Reign). EU time zone (CET)."
+      "reason": "Posts big graded pickups (CGC/PSA). Graded-card collector, the exact mainstream profile we want."
     },
     {
-      "handle": "@Chonker00",
-      "url": "https://x.com/Chonker00",
-      "followers": 450,
-      "segment": "Whatnot Pokémon seller/streamer",
-      "crypto_friendly": "unknown",
-      "reason": "Runs Pokémon Whatnot streams. Live-commerce collector audience."
-    },
-    {
-      "handle": "@GulfCardCo",
-      "url": "https://x.com/GulfCardCo",
-      "followers": 1188,
-      "segment": "Baseball card collector, Arena Club user",
+      "handle": "@spinotron",
+      "url": "https://x.com/spinotron",
+      "followers": 5629,
+      "segment": "Digital/NFT collector, sports cards",
       "crypto_friendly": "yes",
-      "reason": "Shares honest Arena Club experiences and slab prices."
+      "reason": "Crypto-native collector talking about provenance and ownership online."
     },
     {
-      "handle": "@PullReportTCG",
-      "url": "https://x.com/PullReportTCG",
-      "followers": 1123,
-      "segment": "TCG news and pull reports",
+      "handle": "@BlackjackSOL",
+      "url": "https://x.com/BlackjackSOL",
+      "followers": 3953,
+      "segment": "Solana gacha player",
+      "crypto_friendly": "yes",
+      "reason": "Uses Phygitals, Collector Crypt, Slabz and BlockRips. Easy candidate to try Solflare Packs and compare."
+    },
+    {
+      "handle": "@iamapokeMOM",
+      "url": "https://x.com/iamapokeMOM",
+      "followers": 48025,
+      "segment": "Pokémon / One Piece deals account",
       "crypto_friendly": "unknown",
-      "reason": "Covers fake PSA slabs and pull culture with a light tone."
+      "reason": "48k followers posting restocks and pre-orders. Reaches buyers hit by sold-out retail."
     }
   ],
   "post_ideas": [
     {
-      "idea": "Fake slabs are everywhere: why vaulted cards help",
-      "draft_copy": "Fake slabs are all over the timeline this week. With Solflare Packs, every card is graded by PSA or Beckett and held in a vault by Collector Crypt. Keep it, sell it back within 72h, or ship it home. Try the free demo. 18+",
-      "needs_legal_check": false
-    },
-    {
-      "idea": "Sold out at the store? Open from your phone",
-      "draft_copy": "Costco sold out in minutes again. You can still open a pack today. Real graded cards, odds shown before you open, right in your Solflare wallet. 18+",
+      "idea": "Retail limits relatable post",
+      "draft_copy": "One pack per customer. Again.\n\nOr open one from your wallet. Real graded cards, odds shown before you rip.\n\n18+",
       "needs_legal_check": true
     },
     {
-      "idea": "Light format: 'what would you check first?' poll on slab trust",
-      "draft_copy": "Got a new slab. What do you check first? 1) Cert number 2) Black light 3) Label font 4) Just vibes. Reply below 👇",
+      "idea": "Breakpoint week: card trading icebreaker",
+      "draft_copy": "Trading cards at Breakpoint this week? Show us your best pull. Real graded cards, inside your Solflare wallet.\n\n18+",
+      "needs_legal_check": false
+    },
+    {
+      "idea": "Skip the grading wait",
+      "draft_copy": "No grading queue. No mail-in. Every card in Solflare Packs is already PSA or Beckett graded.\n\nKeep it, sell it back within 72h, or ship it home. 18+",
       "needs_legal_check": false
     }
   ],
-  "sources_note": "X search via the x connector (searchPostsAll), posts from 2026-11-13 09:05 UTC to 2026-11-14 09:00 UTC, 14 searches. Engagement numbers are as returned by the X API at scan time. The Coinbase Collect / Collector Crypt link is a third-party recap citing Coinbase help pages, not checked by us. The Costco 'sold out in minutes' idea cites other accounts and odds language, so it's flagged for legal. Skipped: giveaway posts (QuantumSnek, Neon_RH), referral and pump posts (CrownCards '$84k from $2.50' claim), Cronos news roundups, unrelated 'top shot' sports posts. Creators already in collector-base.csv or earlier daily files (e.g. McQuaza_, knoyhead, 0x_trophy) were excluded."
+  "sources_note": "X full-archive search via the X connector, 15 queries plus @solflare timeline, window 2026-11-14 ~10:00 to 2026-11-15 10:00 Europe/Madrid. Engagement numbers as returned by X at scan time. Collector Crypt sales and fee figures are claims from third-party posts, not verified. Skipped giveaway farms, bots and off-topic matches (e.g. photography 'top shot'). Weekend plus Breakpoint travel made volume low."
 }
