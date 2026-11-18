@@ -1,301 +1,316 @@
 {
-  "generated_at": "2026-11-17T10:15:00+01:00",
-  "date": "2026-11-17",
+  "generated_at": "2026-11-18T10:11:04+01:00",
+  "date": "2026-11-18",
   "status": "ok",
   "window_hours": 24,
-  "summary": "Breakpoint week kept Solflare busy on X, but most @solflare chatter was Community Hub points and merch, not packs. A few creators posted about ripping Solflare Packs, with one post getting 69 likes. Courtyard turned 5 with $5,000 in pack giveaways and a livestream, and an on-chain thread says 9 in 10 Courtyard pulls are sold back instantly. On the mainstream side, a post calling Pokémon a \"nightmare\" of scalpers, fakes and queues got the most likes in our search, and PSA wait times came up again.",
+  "summary": "The big news is Moonshot Collect. Jupiter Gacha went live inside the Moonshot app on 17 Nov, with Apple Pay buying through MoonPay and pulls you can keep, sell back or ship, plus a free pack a day until 24 Nov. Lots of creators posted about it at the same time, so it looks like a paid push. Solflare Packs got a handful of small posts from Breakpoint and creators saying they ripped packs. On the mainstream side, scalpers and PSA wait times came up again, and Taiwan's Pokémon stamps sold out in 26 minutes.",
   "top_posts": [
     {
-      "url": "https://x.com/poleris_writes/status/2122361452422189171",
-      "author_handle": "@poleris_writes",
-      "text": "Getting into pokemon cards is a nightmare, it's just scalpers and fake cards and queues left and right, I just want the pretty art man",
-      "created_at": "2026-11-16T16:09:36.000Z",
-      "likes": 182,
-      "reposts": 13,
-      "replies": 3,
-      "quotes": 0,
-      "topic": "Collector pain points",
-      "why_it_matters": "Most-liked pain-point post of the day: a new collector put off by scalpers, fakes and queues. This is the mainstream buyer we want, and the problem packs with real graded cards can solve."
-    },
-    {
-      "url": "https://x.com/Collector_Crypt/status/2122312884151538062",
-      "author_handle": "@Collector_Crypt",
-      "text": "Psst You guys like prizes? 👀 https://t.co/45hI3BtGUq",
-      "created_at": "2026-11-16T12:56:00.000Z",
-      "likes": 122,
-      "reposts": 13,
-      "replies": 13,
-      "quotes": 2,
-      "topic": "Competitor / Breakpoint",
-      "why_it_matters": "Collector Crypt's top post of the day, a prize teaser during Breakpoint. They keep the buzz going around the event."
-    },
-    {
-      "url": "https://x.com/magicblock/status/2122366189737550029",
-      "author_handle": "@magicblock",
-      "text": "Crypto markets are bleeding\n\nMeanwhile Gacha and Pokémon card projects are still printing as one of the highest-revenue categories on Solana\n\nThat's the Entertainment Finance moat\n\nSolana Blitz v10 hackathon starts this Friday 🧵👇 https://t.co/8eNcDLuMoP",
-      "created_at": "2026-11-16T16:28:25.000Z",
-      "likes": 82,
-      "reposts": 8,
-      "replies": 21,
+      "url": "https://x.com/jbondwagon/status/2122882526658376000",
+      "author_handle": "@jbondwagon",
+      "text": "BAYC is not the first NFT project to do TCG. But they're the first ones to give this much to their holders\n\nHere's the Mudwater assets given out to holders since they launched:\n> 1 Mudwater box for ApeFest attendees\n> 10 Mudwater packs for BAYC\n> 2 Mudwater packs for MAYC\n> https://t.co/9e9toptdkr https://t.co/u1w0Ksc33t",
+      "created_at": "2026-11-18T02:40:10.000Z",
+      "likes": 89,
+      "reposts": 11,
+      "replies": 22,
       "quotes": 1,
-      "topic": "Solana packs category",
-      "why_it_matters": "MagicBlock says gacha and Pokémon card projects are still among the top-earning categories on Solana while the market is down. Good context for the packs story."
+      "topic": "Digital collectibles / NFT TCG",
+      "why_it_matters": "Most-liked post in our search. BAYC is giving holders lots of Mudwater TCG packs, which shows NFT communities are moving into card packs."
     },
     {
-      "url": "https://x.com/_kingofweb3/status/2122336263550144530",
-      "author_handle": "@_kingofweb3",
-      "text": "One of my most favorite thing about @solflare \nIs the solflare pack features \n\nI love ripping cool card yunno 😝 https://t.co/buNZ488oSj",
-      "created_at": "2026-11-16T14:29:30.000Z",
-      "likes": 69,
-      "reposts": 56,
-      "replies": 0,
-      "quotes": 0,
-      "topic": "Solflare Packs mention",
-      "why_it_matters": "Best-performing Solflare Packs mention of the day. A creator says packs are a favourite Solflare feature."
-    },
-    {
-      "url": "https://x.com/Courtyard_io/status/2122474225885995114",
-      "author_handle": "@Courtyard_io",
-      "text": "5 years of Courtyard. $5,000 in giveaways 🎂\n\nWe're going LIVE tomorrow to celebrate.\n\nCome hang out and win some packs 🫡 https://t.co/6SEh7CGPXf",
-      "created_at": "2026-11-16T23:37:43.000Z",
-      "likes": 65,
-      "reposts": 13,
-      "replies": 13,
-      "quotes": 1,
-      "topic": "Competitor / Courtyard",
-      "why_it_matters": "Courtyard's 5-year birthday with $5,000 in giveaways and a live stream. Shows how they use live events to bring people in."
-    },
-    {
-      "url": "https://x.com/Courtyard_io/status/2122412142209233141",
-      "author_handle": "@Courtyard_io",
-      "text": "Apple: \"It's just a Pokémon-themed gift card\" Collectors: https://t.co/jZs6aRDmtE",
-      "created_at": "2026-11-16T19:31:00.000Z",
-      "likes": 50,
-      "reposts": 2,
-      "replies": 3,
-      "quotes": 2,
-      "topic": "Trending format / meme",
-      "why_it_matters": "A simple reaction meme on Pokémon news. Easy, light format for non-launch posts."
-    },
-    {
-      "url": "https://x.com/mycardrips/status/2122387646953505156",
-      "author_handle": "@mycardrips",
-      "text": "We read every Courtyard pack on-chain for 30 days (16 Oct to 16 Nov).\n\n1.22M pulls. 1.12M instant buybacks.\n\n9 in 10 cards never leave the app. 🧵",
-      "created_at": "2026-11-16T17:53:41.000Z",
-      "likes": 0,
-      "reposts": 0,
-      "replies": 1,
-      "quotes": 0,
-      "topic": "Competitor data / Courtyard",
-      "why_it_matters": "Low reach, but useful data: in a 30-day on-chain read, 1.12M of 1.22M Courtyard pulls went to instant buyback. Sell-back is the main habit on rival pack apps."
-    },
-    {
-      "url": "https://x.com/AustinTani/status/2122447179675828560",
-      "author_handle": "@AustinTani",
-      "text": "a large majority of sale support was being provided by comps set by vendors selling to other vendors \n\nthen in october many vendors took large bets on vintage lottery tickets by buying low pop PSA 10 cards in the tens or hundreds of thousands\n\nbut now that liquidity has been https://t.co/o1jkqPJcke",
-      "created_at": "2026-11-16T21:50:15.000Z",
+      "url": "https://x.com/Big_Wealthz/status/2122915200311730416",
+      "author_handle": "@Big_Wealthz",
+      "text": "Crypto doesn't always need to introduce people through tokens, exchanges or complicated onboarding.\n\nSometimes, it can start with something they already enjoy.\n\nThat's an interesting part of what @moonshot Collect is building.\n\nOpen a digital Pokémon pack, receive an actual https://t.co/dXCJyii20L https://t.co/T0Wq06SUXp",
+      "created_at": "2026-11-18T04:50:00.000Z",
       "likes": 46,
+      "reposts": 4,
+      "replies": 46,
+      "quotes": 0,
+      "topic": "Competitor: Moonshot Collect",
+      "why_it_matters": "One of many creator posts about Moonshot Collect on launch day. They all pitch the same idea we have: crypto starts with something you already love, like Pokémon."
+    },
+    {
+      "url": "https://x.com/emmzy_xyz/status/2122774541822763449",
+      "author_handle": "@emmzy_xyz",
+      "text": "Not everyone enters crypto because they want to trade charts or explore DeFi. Sometimes, it starts with something they've loved since childhood.\n\nPokémon collecting is a good example. @moonshot Collect takes that familiar experience and brings it into a mobile app where you can https://t.co/Z1CK4SZq2Q https://t.co/cdh5hz3d2G",
+      "created_at": "2026-11-17T19:31:04.000Z",
+      "likes": 40,
       "reposts": 1,
-      "replies": 2,
+      "replies": 43,
       "quotes": 0,
-      "topic": "Market / comps",
-      "why_it_matters": "A collector explains how vendor-to-vendor sales held up card prices and then dropped. Trust in prices and comps is a live topic."
+      "topic": "Competitor: Moonshot Collect",
+      "why_it_matters": "Same message aimed at non-traders: open a Pokémon pack in a mobile app. This is very close to our mainstream pitch, so we need to stand out on trust and real graded cards."
     },
     {
-      "url": "https://x.com/byndspeculation/status/2122366658652099029",
-      "author_handle": "@byndspeculation",
-      "text": "PSA: wait times turn your best cards into dead money for months.\n\nimagine being able to sell one while it's still being graded 👀 https://t.co/4qUhNpuhgS",
-      "created_at": "2026-11-16T16:30:17.000Z",
-      "likes": 16,
-      "reposts": 2,
-      "replies": 0,
+      "url": "https://x.com/bewise0/status/2122970837393252374",
+      "author_handle": "@bewise0",
+      "text": ".@moonshot Collect launched yesterday.\n\nCrazy not to play their FREE entry to grail cards every day this week (17th-24th Nov)\n\n1️⃣ Download app (trusted by 2M+ users)\nhttps://t.co/R96IU6hodb\n2️⃣ Rip x1 free pack each day\n\n10K free packs each day, 1 winner per day.\n\nWinner rewards: https://t.co/0qg6n52oBg",
+      "created_at": "2026-11-18T08:31:05.000Z",
+      "likes": 17,
+      "reposts": 0,
+      "replies": 15,
       "quotes": 0,
-      "topic": "Collector pain points / grading",
-      "why_it_matters": "PSA wait times leave cards stuck for months. Our cards are already graded and vaulted, so this is a pain we can talk to."
+      "topic": "Competitor: Moonshot Collect",
+      "why_it_matters": "Free daily pack (17–24 Nov), 10K packs a day, one winner. A low-cost way to get people to install. Worth tracking how well it works."
     },
     {
-      "url": "https://x.com/KaseysCards/status/2122460798614450241",
-      "author_handle": "@KaseysCards",
-      "text": "Just learned arena club pays 130% comps on certain card ranges 🤯",
-      "created_at": "2026-11-16T22:44:22.000Z",
-      "likes": 35,
+      "url": "https://x.com/diegoarmandoAD/status/2122703636560216300",
+      "author_handle": "@diegoarmandoAD",
+      "text": "Go to the @solflare booth and show'em this 🎁💛🫡\n\nI heard @XGinsu has some Pokemon Slabs!\n\nRUN https://t.co/SdVFTeO5nt",
+      "created_at": "2026-11-17T14:49:19.000Z",
+      "likes": 28,
       "reposts": 0,
       "replies": 10,
+      "quotes": 1,
+      "topic": "Solflare Packs",
+      "why_it_matters": "Pushed people to the Solflare booth at Breakpoint for Pokémon slabs. Shows the booth drew real interest."
+    },
+    {
+      "url": "https://x.com/chrisschlei/status/2122752979455320104",
+      "author_handle": "@chrisschlei",
+      "text": "I wasn't always interested in hunting serial numbers.\n\nThat's changed over the years. \n\nThree recent additions to my Raptors collection on NBA Top Shot 🦖\n\n🏀 Scottie Barnes Base Set — #4/4,000. Jersey-number. \n🏀 Kawhi Leonard Fresh Threads — #1/99. Alpha. \n🏀 Kawhi Leonard https://t.co/h1UDSeeYZq",
+      "created_at": "2026-11-17T18:05:23.000Z",
+      "likes": 29,
+      "reposts": 5,
+      "replies": 3,
       "quotes": 0,
-      "topic": "Competitor / Arena Club",
-      "why_it_matters": "Collectors are talking about Arena Club paying 130% of comps on some card ranges. Sell-back terms are a key point of comparison."
+      "topic": "Digital collectibles",
+      "why_it_matters": "An NBA Top Shot collector writing about chasing serial numbers. Shows the 'hunt' feeling that keeps collectors coming back."
+    },
+    {
+      "url": "https://x.com/vevefanz/status/2122688516962619502",
+      "author_handle": "@vevefanz",
+      "text": "Did you know Disney Pinnacle has already implemented this? Not only can you lock your digital collectibles for a full year to protect them from being accidentally sold or traded, but they actually reward collectors for doing so. It's called Locking, and it's already live on https://t.co/GlXjxfS72A https://t.co/KqbhJrBsER",
+      "created_at": "2026-11-17T13:49:14.000Z",
+      "likes": 19,
+      "reposts": 2,
+      "replies": 2,
+      "quotes": 1,
+      "topic": "Digital collectibles",
+      "why_it_matters": "Disney Pinnacle rewards collectors who lock items for a year. A loyalty idea that fits our whale retention work."
+    },
+    {
+      "url": "https://x.com/noeevermore/status/2122865047886295131",
+      "author_handle": "@noeevermore",
+      "text": "when pokemon was a fun indie game for girls and gays only.. now it's invaded by maga tcg scalpers and newbies who worship scarshit and violet https://t.co/BHqEb9ZsAV https://t.co/RDqrAQMom5",
+      "created_at": "2026-11-18T01:30:42.000Z",
+      "likes": 14,
+      "reposts": 2,
+      "replies": 0,
+      "quotes": 0,
+      "topic": "Collector pain points",
+      "why_it_matters": "An annoyed long-time fan blaming scalpers for ruining Pokémon. Retail frustration keeps coming up."
+    },
+    {
+      "url": "https://x.com/cardinalonelab/status/2122841414983909438",
+      "author_handle": "@cardinalonelab",
+      "text": "Taiwan just turned Pokémon cards into actual postage stamps\n\nNearly 30,000 people were reportedly waiting online before sales opened. The presale allocation sold out in 26 minutes\n\nThe limited run is 300,000 sheets, each with 10 Pokémon TCG designs—including Charizard, Pikachu https://t.co/Bj5aFtvg9G",
+      "created_at": "2026-11-17T23:56:48.000Z",
+      "likes": 7,
+      "reposts": 0,
+      "replies": 0,
+      "quotes": 0,
+      "topic": "Collector pain points",
+      "why_it_matters": "Taiwan's Pokémon stamp presale sold out in 26 minutes with about 30,000 people queuing online. Shows demand and sell-out pain."
+    },
+    {
+      "url": "https://x.com/NacoayaG/status/2122901170754879632",
+      "author_handle": "@NacoayaG",
+      "text": "just ripped 5 packs courtesy of the team, now i get why this is so addicting and why @solflare always crushes it for the community https://t.co/giKw7ZGOTZ",
+      "created_at": "2026-11-18T03:54:15.000Z",
+      "likes": 11,
+      "reposts": 0,
+      "replies": 9,
+      "quotes": 0,
+      "topic": "Solflare Packs",
+      "why_it_matters": "A creator ripped 5 Solflare packs and called it addicting. Positive, but the reach is small."
     }
   ],
   "competitor_news": [
     {
+      "project": "Jupiter / Moonshot",
+      "headline": "Jupiter Gacha went live inside Moonshot (Moonshot Collect): four tiers, real graded cards, keep, sell back or ship. Redemption depends on region.",
+      "url": "https://x.com/SolanaAppWorld/status/2122979103070646550",
+      "date": "2026-11-18"
+    },
+    {
+      "project": "Jupiter / Moonshot",
+      "headline": "Moonshot Collect gives one free pack a day from 17 to 24 Nov, 10K packs a day, one winner a day.",
+      "url": "https://x.com/bewise0/status/2122970837393252374",
+      "date": "2026-11-18"
+    },
+    {
+      "project": "Jupiter / Moonshot",
+      "headline": "Users say Moonshot Collect lets you buy packs with Apple Pay (MoonPay). It goes straight at the card-payment gap Coinflow is meant to fill for us.",
+      "url": "https://x.com/ahmedonchainx/status/2122952642070499499",
+      "date": "2026-11-18"
+    },
+    {
       "project": "Courtyard",
-      "headline": "Courtyard turns 5: $5,000 in giveaways and a live stream with pack prizes",
-      "url": "https://x.com/Courtyard_io/status/2122474225885995114",
-      "date": "2026-11-16"
+      "headline": "Courtyard turned 5 and launched three Birthday Packs from $10 (via The Gacha Times recap).",
+      "url": "https://x.com/0x_trophy/status/2122948554704425174",
+      "date": "2026-11-18"
     },
     {
-      "project": "Collector Crypt",
-      "headline": "Collector Crypt teases prizes during Breakpoint week",
-      "url": "https://x.com/Collector_Crypt/status/2122312884151538062",
-      "date": "2026-11-16"
-    },
-    {
-      "project": "Collector Crypt",
-      "headline": "Post cites DefiLlama: Collector Crypt at $245k daily fees after a 413% spike",
-      "url": "https://x.com/Aaleks_crypt/status/2122337370481582569",
-      "date": "2026-11-16"
-    },
-    {
-      "project": "Collector Crypt",
-      "headline": "Alea Research: Collector Crypt took over 7 of every 10 pack dollars in Q3 among Monster, Beezie, Phygitals and itself",
-      "url": "https://x.com/AleaResearch/status/2122306189627208182",
-      "date": "2026-11-16"
-    },
-    {
-      "project": "Phygitals",
-      "headline": "Phygitals' Pull of the Day: a 2016 XY 20th Anniversary Pikachu at $30,509",
-      "url": "https://x.com/Rip_Index/status/2122561931298955596",
+      "project": "Disney Pinnacle",
+      "headline": "Disney Pinnacle's 'Locking' rewards collectors who lock their digital collectibles for a year.",
+      "url": "https://x.com/vevefanz/status/2122688516962619502",
       "date": "2026-11-17"
     },
     {
-      "project": "Underdog",
-      "headline": "Underdog's $250 Kaboom Grails pack inside a fantasy sports app paid out a Tom Brady PSA 10",
-      "url": "https://x.com/openaisi/status/2122304338152562809",
-      "date": "2026-11-16"
+      "project": "Decard (Slabz)",
+      "headline": "Decard promotes graded-slab packs paid in USDC with Phantom, Solflare or Jupiter, plus a 'Rip League' leaderboard.",
+      "url": "https://x.com/AlleyBo55/status/2122971426051551234",
+      "date": "2026-11-18"
     },
     {
-      "project": "Arena Club",
-      "headline": "Collectors say Arena Club pays 130% of comps on certain card ranges",
-      "url": "https://x.com/KaseysCards/status/2122460798614450241",
-      "date": "2026-11-16"
+      "project": "BAYC / Mudwater",
+      "headline": "BAYC has given holders many Mudwater TCG boxes and packs since launch.",
+      "url": "https://x.com/jbondwagon/status/2122882526658376000",
+      "date": "2026-11-18"
     }
   ],
   "solflare_mentions": [
     {
-      "url": "https://x.com/_kingofweb3/status/2122336263550144530",
-      "author_handle": "@_kingofweb3",
-      "text": "One of my most favorite thing about @solflare Is the solflare pack features I love ripping cool card yunno 😝 https://t.co/buNZ488oSj",
+      "url": "https://x.com/diegoarmandoAD/status/2122703636560216300",
+      "author_handle": "@diegoarmandoAD",
+      "text": "Go to the @solflare booth and show'em this 🎁💛🫡\n\nI heard @XGinsu has some Pokemon Slabs!\n\nRUN https://t.co/SdVFTeO5nt",
       "sentiment": "positive",
-      "likes": 69
+      "likes": 28
     },
     {
-      "url": "https://x.com/KryptoSenora/status/2122588962069827781",
-      "author_handle": "@KryptoSenora",
-      "text": "Good morning Creatives Rip a @solflare pack today. https://t.co/K7ObU4yrjS https://t.co/ZhPw2nN1y5",
+      "url": "https://x.com/NacoayaG/status/2122901170754879632",
+      "author_handle": "@NacoayaG",
+      "text": "just ripped 5 packs courtesy of the team, now i get why this is so addicting and why @solflare always crushes it for the community https://t.co/giKw7ZGOTZ",
       "sentiment": "positive",
-      "likes": 14
+      "likes": 11
     },
     {
-      "url": "https://x.com/Asterionfas/status/2122355354503962893",
-      "author_handle": "@Asterionfas",
-      "text": "Privacy is a choice, choose wisely @solflare pack out every merchant's out there 💛💥 https://t.co/rngnadMjtN",
+      "url": "https://x.com/surdo_pte/status/2122621541003432389",
+      "author_handle": "@surdo_pte",
+      "text": "just ripped\n open some packs on @solflare and now i completely get why people are hooked\n on this, the team just keeps delivering for everyone https://t.co/Q5iuY74e1d",
       "sentiment": "positive",
-      "likes": 9
+      "likes": 5
     },
     {
-      "url": "https://x.com/vision_harry/status/2122320059968495861",
-      "author_handle": "@vision_harry",
-      "text": "@inno_sol @solflare Packs is my time https://t.co/6n5BQerdID",
+      "url": "https://x.com/SolflareBifrost/status/2122645629855818237",
+      "author_handle": "@SolflareBifrost",
+      "text": "You thought we stopped ripping packs ??\nRip a @solflare  pack today ! https://t.co/DeA6clIFSG",
       "sentiment": "positive",
-      "likes": 4
+      "likes": 3
     },
     {
-      "url": "https://x.com/Ukashsubzar123/status/2122533766833008871",
-      "author_handle": "@Ukashsubzar123",
-      "text": "Just locked in 1,746 points on the @solflare Community Hub 🚀 The 'Post. Earn. Lock In' campaign for Breakpoint 2026 is absolutely insane. The 1.70x On site bonus is a total game-changer for those of us repping the community from London. 🇬🇧 All it takes is posting your content https://t.co/EjzAG9FzKf",
-      "sentiment": "positive",
-      "likes": 31
+      "url": "https://x.com/SagaMobileDAO/status/2122721437719163174",
+      "author_handle": "@SagaMobileDAO",
+      "text": "Ripping packs on @solflare from the Saga house trip to Koh Samui, Thailand, at @islanddao. With @CloudKingTV and @solquicks.",
+      "sentiment": "neutral",
+      "likes": 0
     },
     {
-      "url": "https://x.com/rana_eth47a/status/2122311552892039667",
-      "author_handle": "@rana_eth47a",
-      "text": "@solflare is one of the best Solana wallets right now. Features that actually matter: → Self-custody (you hold the keys) → Native SOL staking + validator choice → Fast swaps + limit orders → NFT gallery (bulk send &amp; burn) → Solflare Shield hardware wallet (tap to sign) → https://t.co/39Lmf6HWGn",
-      "sentiment": "positive",
-      "likes": 104
+      "url": "https://x.com/AlleyBo55/status/2122971426051551234",
+      "author_handle": "@AlleyBo55",
+      "text": "Rip it. Redeem it. Climb the ranks. 🎴\n\nOn Decard:\n⚡ Rip packs containing real graded slabs\n💳 Pay in USDC with Phantom, Solflare or Jupiter\n📦 Redeem the NFT for the physical slab\n🏆 Compete in the Rip League\n\nPowered by Slabz.\n\nhttps://t.co/P1D9uWvGP8\n\n#TCG #Solana #Pokemon https://t.co/7tlldTdiPr https://t.co/tjzRTI8QuH",
+      "sentiment": "neutral",
+      "likes": 1
+    },
+    {
+      "url": "https://x.com/Beloved_zaya/status/2122687071638712430",
+      "author_handle": "@Beloved_zaya",
+      "text": "@krpisoweb3 @solflare An elite Solflare pack?",
+      "sentiment": "neutral",
+      "likes": 0
     }
   ],
   "new_creators": [
     {
-      "handle": "@poleris_writes",
-      "url": "https://x.com/poleris_writes",
-      "followers": 7013,
-      "segment": "New / casual Pokémon collector",
-      "crypto_friendly": "unknown",
-      "reason": "Their post about scalpers, fakes and queues got the most likes in our pain-point search. Exactly the mainstream newcomer we want to reach."
-    },
-    {
-      "handle": "@mikey_v_bdc",
-      "url": "https://x.com/mikey_v_bdc",
-      "followers": 31263,
-      "segment": "Sports pack ripper",
-      "crypto_friendly": "unknown",
-      "reason": "Posts pack rips for app-based packs (PrizePicks Packs). Already buys packs inside apps."
-    },
-    {
-      "handle": "@GrandSalamiSC",
-      "url": "https://x.com/GrandSalamiSC",
-      "followers": 15719,
-      "segment": "Live breaker (sports)",
-      "crypto_friendly": "unknown",
-      "reason": "Runs multi-case breaks (Topps Pro Debut) with good engagement. A breaker audience used to buying spots online."
-    },
-    {
-      "handle": "@KaseysCards",
-      "url": "https://x.com/KaseysCards",
-      "followers": 10894,
-      "segment": "Card collector / hobby commentator",
-      "crypto_friendly": "unknown",
-      "reason": "Talks about sell-back terms on Arena Club. Cares about the same buyback angle we offer."
-    },
-    {
-      "handle": "@WaxMetrix",
-      "url": "https://x.com/WaxMetrix",
-      "followers": 20097,
-      "segment": "Sports card odds / value analyst",
-      "crypto_friendly": "unknown",
-      "reason": "Does break-down posts on box odds and value. Open odds is a natural topic for them."
-    },
-    {
-      "handle": "@horkays",
-      "url": "https://x.com/horkays",
-      "followers": 6038,
-      "segment": "Crypto-native pack opener",
+      "handle": "@jbondwagon",
+      "url": "https://x.com/jbondwagon",
+      "followers": 85459,
+      "segment": "NFT collector / TCG",
       "crypto_friendly": "yes",
-      "reason": "Opens packs on Collector Crypt on stream ('spin the wheel'). Already rips on Solana."
+      "reason": "NFT maxi covering BAYC's Mudwater TCG packs. Got the most likes in today's search."
     },
     {
-      "handle": "@_kingofweb3",
-      "url": "https://x.com/_kingofweb3",
-      "followers": 10126,
-      "segment": "Crypto creator / Solflare Packs fan",
+      "handle": "@vevefanz",
+      "url": "https://x.com/vevefanz",
+      "followers": 629,
+      "segment": "Digital collectibles (Disney Pinnacle)",
       "crypto_friendly": "yes",
-      "reason": "Called Solflare Packs a favourite feature. Post got 69 likes and 56 reposts."
+      "reason": "Disney Pinnacle and digital pin collector. Fits the mainstream, non-trader digital collector we want."
     },
     {
-      "handle": "@byndspeculation",
-      "url": "https://x.com/byndspeculation",
-      "followers": 285,
-      "segment": "Collector / grading commentary",
+      "handle": "@cardinalonelab",
+      "url": "https://x.com/cardinalonelab",
+      "followers": 6113,
+      "segment": "Collectibles trading / news",
       "crypto_friendly": "unknown",
-      "reason": "Posts about PSA wait times making cards dead money. Pain point we can answer."
+      "reason": "Posts Pokémon market news (Taiwan stamps sell-out). Bio says 'platform for pro collectibles traders'."
+    },
+    {
+      "handle": "@tcgberg",
+      "url": "https://x.com/tcgberg",
+      "followers": 730,
+      "segment": "TCG market data",
+      "crypto_friendly": "unknown",
+      "reason": "Posts PSA population and graded-card market data. Good for data-led collab posts."
+    },
+    {
+      "handle": "@SolanaAppWorld",
+      "url": "https://x.com/SolanaAppWorld",
+      "followers": 9353,
+      "segment": "Solana consumer apps curator",
+      "crypto_friendly": "yes",
+      "reason": "Covered the Moonshot Collect launch. Could feature Solflare Packs too."
+    },
+    {
+      "handle": "@NacoayaG",
+      "url": "https://x.com/NacoayaG",
+      "followers": 14204,
+      "segment": "Crypto creator (memes)",
+      "crypto_friendly": "yes",
+      "reason": "Ripped 5 Solflare packs and posted about it. Says 'courtesy of the team', so likely seeded."
+    },
+    {
+      "handle": "@surdo_pte",
+      "url": "https://x.com/surdo_pte",
+      "followers": 12886,
+      "segment": "Crypto creator (memes)",
+      "crypto_friendly": "yes",
+      "reason": "Posted about ripping packs on Solflare."
+    },
+    {
+      "handle": "@ZANNOTV",
+      "url": "https://x.com/ZANNOTV",
+      "followers": 52,
+      "segment": "Pack opener (daily rip series)",
+      "crypto_friendly": "unknown",
+      "reason": "Runs 'The Daily Rip', one Pokémon pack a day. Tiny account but a good format to borrow."
+    },
+    {
+      "handle": "@CrystalStance",
+      "url": "https://x.com/CrystalStance",
+      "followers": 1737,
+      "segment": "VTuber / streamer opening Pokémon packs",
+      "crypto_friendly": "unknown",
+      "reason": "Twitch streamer adding Pokémon packs to stream content. A mainstream, non-crypto creator."
     }
   ],
   "post_ideas": [
     {
-      "idea": "Pain-point post: skip the queue",
-      "draft_copy": "No queues. No scalpers. No guessing if it's real.\n\nOpen a pack of real graded cards right in your wallet. Keep it, sell it back, or ship it home.\n\nTry the free demo first. 18+.",
+      "idea": "Keep, sell back or ship: a short explainer of what happens after a pull",
+      "draft_copy": "You pulled a card. Now what?\n\n1. Keep it in your wallet\n2. Sell it back within 72 hours\n3. Ship the real graded card home\n\nYour pull, your call. 18+",
       "needs_legal_check": false
     },
     {
-      "idea": "Reaction meme format, like the Courtyard gift-card post",
-      "draft_copy": "Me: \"I'll just open one pack.\"\nAlso me, 10 minutes later: [Turbo mode GIF]\n\nWhat's your one-pack-limit record? 18+.",
+      "idea": "Daily rip format: open one pack a day for a week and ask people what to do with the pull",
+      "draft_copy": "Daily rip, day 1 🎴\n\nOne pack. One pull. You decide: keep, sell back or ship?\n\nReply below 👇 18+",
       "needs_legal_check": false
     },
     {
-      "idea": "Breakpoint week: 'what did you pull?' thread for people trying packs at the event",
-      "draft_copy": "At Breakpoint this week? Show us your pulls 👇\n\nOpen a pack in Solflare, drop your favourite card in the replies. Every pull is a real graded card you can keep, sell back or ship. 18+.",
+      "idea": "Breakpoint thank-you that reposts creators who ripped packs at the booth",
+      "draft_copy": "Breakpoint, thank you 💛\n\nSo many of you came by to rip packs and hold real slabs. Here are a few of our favourite moments 👇\n\nMissed it? Try the free demo in Solflare. 18+",
       "needs_legal_check": true
     }
   ],
-  "sources_note": "Built from 14 X recent-search queries (start 2026-11-16 10:05 CET) plus timeline reads for @Collector_Crypt, @Courtyard_io and @phygitals, via the x connector. Engagement and follower counts are from the X API at about 10:05 CET on 17 Nov. Most @solflare results were Community Hub points/merch posts and are only partly included. Giveaway, spam, token-shill and off-topic hits were skipped. The 'Post. Earn. Lock In' mention and @rana_eth47a are general Solflare posts, not packs-specific. No @phygitals posts in the window. New creators were checked against /workspace/collector-base/collector-base.csv."
+  "sources_note": "X API search through the x connector (searchPostsAll), 17 Nov 2026 09:00 UTC to 18 Nov 2026 ~09:10 UTC, 14 queries covering packs, competitors, Solflare, pain points, payments and creators. Engagement and follower counts are taken from the API at search time. Many Moonshot Collect posts appeared at once with similar wording, which looks like a paid creator push. Spam, giveaway farms and memecoin shills were left out. The Breakpoint idea is flagged for legal because it reuses people's posts."
 }
