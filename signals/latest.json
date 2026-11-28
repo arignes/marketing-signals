@@ -1,282 +1,313 @@
 {
-  "generated_at": "2026-11-27T10:07:20+01:00",
-  "date": "2026-11-27",
+  "generated_at": "2026-11-28T10:05:27+01:00",
+  "date": "2026-11-28",
   "status": "ok",
   "window_hours": 24,
-  "summary": "The PSA story kept growing: PSA stopped grading English gold Mega Hyper Rare cards, and collectors are now calling it market manipulation and overpaying for already-graded copies. Trust Wallet went big on Thanksgiving with a $100K+ Pokémon packs giveaway (2.4k likes, 1.9k reposts) and paid creators to rip its Collector Crypt packs, so it is clearly the loudest in-wallet packs rival right now. Renaiss and Asseto are building a tokenized Pokémon index product, OKX has a similar gacha in public test, and one Pokémon community builder called Logan Paul's move into digital pack ripping 'cringe'. Solflare Packs talk was steady and positive, mostly from ambassadors and Guardians posting pulls and explainers.",
+  "summary": "Trust Wallet launched Pokémon Gacha packs with Collector Crypt this week, and it took over packs talk on X, with creators calling it a 'wallet gacha war' next to Renaiss Gacha in Binance Wallet. One tracker counted $1.66M of Collector Crypt machine spend in 24h: $758k direct, $616k via Trust Wallet, $141k via Jupiter, $57k via Slabz (Solflare was not in that list). Black Friday brought sold-out Pokémon shelves and long lines at retail. Solflare Packs talk was steady and positive, mostly ambassador explainers of the $99 Everything Pack and pull posts.",
   "top_posts": [
     {
-      "url": "https://x.com/PokeTCGAlerts/status/2126068560049111457",
-      "author_handle": "@PokeTCGAlerts",
-      "text": "PSA Will No Longer Grade English Gold Mega Hyper Rare Pokémon Cards 🚨\n\nEffective immediately, PSA has stopped accepting ALL current and future English Mega Hyper Rare (Gold) Pokémon cards for grading until further notice\n\nPSA has identified a manufacturing issue that causes the https://t.co/g8xcpXAD0l",
-      "created_at": "2026-11-26T21:40:19Z",
-      "likes": 287,
-      "reposts": 15,
-      "replies": 19,
-      "quotes": 6,
-      "topic": "Pain points / grading",
-      "why_it_matters": "PSA won't grade English gold Mega Hyper Rares until further notice. Top Pokémon news post of the day; grading trust is still the big worry."
-    },
-    {
-      "url": "https://x.com/TrustWallet/status/2125900650886451708",
+      "url": "https://x.com/TrustWallet/status/2126281790079807997",
       "author_handle": "@TrustWallet",
-      "text": "$100K+ in Pokémon packs. 100 winners\n\nYour 8-year-old self would be screaming right now\n\nFollow + Repost + reply with who you'd gift one to, then submit your wallet\n\nOr buy &amp; rip on Trust Wallet Gacha\n\nMake sure to update to the latest version of the app.\nhttps://t.co/LNDLF8EVAs https://t.co/MCRG0I3own",
-      "created_at": "2026-11-26T10:33:07Z",
-      "likes": 2397,
-      "reposts": 1901,
-      "replies": 1858,
-      "quotes": 39,
-      "topic": "Competitor / in-wallet packs",
-      "why_it_matters": "Trust Wallet's $100K+ Pokémon packs giveaway, 100 winners. Huge reach for the same Collector Crypt supply we use."
-    },
-    {
-      "url": "https://x.com/LilMoonLambo/status/2126033983796297870",
-      "author_handle": "@LilMoonLambo",
-      "text": "The team at @TrustWallet sent me a $1000 Pokemon pack for Thanksgiving\n\nOpening Pokemon packs directly in Trust Wallet powered by @Collector_Crypt and I can either use buyback or keep the card in my wallet all on-chain right next to my crypto holdings\n\nTry it in Trust Wallet! https://t.co/JBZQ9ijBmz",
-      "created_at": "2026-11-26T19:22:56Z",
-      "likes": 28,
-      "reposts": 4,
-      "replies": 7,
-      "quotes": 0,
-      "topic": "Competitor / creator seeding",
-      "why_it_matters": "Trust Wallet sent a 214k-follower creator a pack to rip on Thanksgiving. They are paying for creator reach, not just ads."
-    },
-    {
-      "url": "https://x.com/GeneDCL/status/2125954653955203520",
-      "author_handle": "@GeneDCL",
-      "text": "LOGAN PAUL GETTING INTO DIGITAL PACK RIPPING MIGHT BE THE CRINGIEST THING EVER.\n\nI thought Collector Crypt opening up its API was a brilliant business decision.\n\nBut now my inbox is flooded with people desperately trying to get me to rip packs on their websites.\n\nI actually enjoy https://t.co/ZUDcc6NRch",
-      "created_at": "2026-11-26T14:07:42Z",
-      "likes": 11,
-      "reposts": 3,
-      "replies": 8,
-      "quotes": 0,
-      "topic": "Creator sentiment / digital packs",
-      "why_it_matters": "Pokémon community builder says Logan Paul doing digital rips is 'cringe' and that sites are flooding him with rip requests after Collector Crypt opened its API. Sign of creator fatigue with paid rip deals."
-    },
-    {
-      "url": "https://x.com/renaissxyz/status/2125925519334191389",
-      "author_handle": "@renaissxyz",
-      "text": "Physical cards. Gacha. A new onchain connection. ⚡️\n\nRenaiss and @AssetoFinance  are developing a tokenized product around the Pokémon Top 50 Card Index.\n\nStay tuned. https://t.co/nR710syRcL",
-      "created_at": "2026-11-26T12:11:56Z",
-      "likes": 40,
-      "reposts": 7,
-      "replies": 6,
+      "text": "you can rip Pokémon packs via Collector Crypt, right inside Trust Wallet now 👀\n\nand that's not even the only thing we shipped this week:\n\n🔷 Top Traders: follow any trader you choose + get alerts on their onchain activity\n🔷 Gacha Grateful Gifting is rewarding $100K+ in Pokémon https://t.co/fMum0xkHNW",
+      "created_at": "2026-11-27T11:47:37Z",
+      "likes": 132,
+      "reposts": 23,
+      "replies": 33,
       "quotes": 1,
-      "topic": "Competitor / tokenized cards",
-      "why_it_matters": "Renaiss + Asseto building a tokenized product on a Pokémon Top 50 card index. Moves further into finance framing, which we avoid."
+      "topic": "Competitor / in-wallet packs",
+      "why_it_matters": "Trust Wallet (4.1M followers) announced Pokémon packs via Collector Crypt inside the wallet. Same supply as ours, much bigger reach."
     },
     {
-      "url": "https://x.com/syncd_collect/status/2125993162938151368",
-      "author_handle": "@syncd_collect",
-      "text": "Going into today, the Mega Hyper Rare Pokémon cards in PSA 10's ranged from $387-$1,7000, as shown below. \n\nWe've already seen prices more than double in a single day.\n\nWhy?\n\nPSA announced they won't be grading these moving forward. https://t.co/3JTGgJSKHr",
-      "created_at": "2026-11-26T16:40:43Z",
-      "likes": 14,
+      "url": "https://x.com/molusol/status/2126294495423590533",
+      "author_handle": "@molusol",
+      "text": "Gacha packs are now live inside @TrustWallet\n\n&gt; Every pack is real, professionally graded card onchain\n&gt; You can keep or sell back within 72 hours\n\nThe animations are super smooth. Try ripping with Trust Wallet. https://t.co/ckog7ARMyd",
+      "created_at": "2026-11-27T12:38:07Z",
+      "likes": 88,
+      "reposts": 55,
+      "replies": 23,
+      "quotes": 0,
+      "topic": "Competitor / in-wallet packs",
+      "why_it_matters": "Creator explainer of Trust Wallet Gacha: graded cards onchain, 72h sell-back. Our exact pitch, now said about a rival."
+    },
+    {
+      "url": "https://x.com/GetVigFox/status/2126397549095571792",
+      "author_handle": "@GetVigFox",
+      "text": "black friday storefront race on solana packs 🏁\n\nlast 24h of collector crypt machine spend ($1.66M):\n• collector crypt direct: $758k\n• trust wallet: $616k\n• jupiter: $141k\n• slabz: $57k\n\nsame machines, same price, different front door.\n\nlatest heat: a 1999 machamp psa 6 https://t.co/LWF1hNCrpd",
+      "created_at": "2026-11-27T19:27:36Z",
+      "likes": 1,
       "reposts": 0,
-      "replies": 5,
-      "quotes": 0,
-      "topic": "Pain points / grading",
-      "why_it_matters": "PSA 10 Mega Hyper Rare prices doubled in a day after the PSA news. Shows how much grading status drives what collectors pay."
-    },
-    {
-      "url": "https://x.com/svofshahr/status/2125927482620883138",
-      "author_handle": "@svofshahr",
-      "text": "Solflare Packs ripping time babyyy !!!\n\nJust pulled a Full Art Vaporeon out of my @solflare pack🔥\n\nGet inside your Solflare wallet right now &amp; rip some packs anon https://t.co/pTW1Ogz6fk",
-      "created_at": "2026-11-26T12:19:44Z",
-      "likes": 33,
-      "reposts": 4,
-      "replies": 17,
-      "quotes": 0,
-      "topic": "Solflare Packs",
-      "why_it_matters": "Ambassador pulled a Full Art Vaporeon from a Solflare pack. Our best-engaged mention today (33 likes, 17 replies)."
-    },
-    {
-      "url": "https://x.com/gurucollects/status/2126139434433438000",
-      "author_handle": "@gurucollects",
-      "text": "THE FORCE WAS WITH THAT COSTCO BOX 🔥\n\nA football card collector decided to pick up a Topps Chrome Star Wars box at Costco and ended up pulling a Luke Skywalker 1/1 Superfractor!\n\nThe collector admitted he has no idea what to do with the card or what it's worth, but noted that a https://t.co/UyeXipWUiO",
-      "created_at": "2026-11-27T02:21:57Z",
-      "likes": 19,
-      "reposts": 1,
       "replies": 0,
       "quotes": 0,
-      "topic": "Pack openings / mainstream",
-      "why_it_matters": "A football card collector pulled a Star Wars 1/1 from a Costco Topps box (161k-follower account). Retail-box luck stories still travel well with mainstream collectors."
+      "topic": "Competitor / market data",
+      "why_it_matters": "24h Collector Crypt spend split by storefront. Trust Wallet is already close to Collector Crypt direct; Solflare is not listed."
+    },
+    {
+      "url": "https://x.com/setzapp/status/2126330215635042660",
+      "author_handle": "@setzapp",
+      "text": "This week, two of the biggest wallets started offering pack pulls.\n\nTrust Wallet launched onchain pack pulling with Collector Crypt. Renaiss Gacha went live inside Binance Wallet.\n\nA year ago, pulling a card onchain meant finding a niche site. Now it's a tab inside wallets https://t.co/axN5rGinbD",
+      "created_at": "2026-11-27T15:00:03Z",
+      "likes": 11,
+      "reposts": 3,
+      "replies": 3,
+      "quotes": 1,
+      "topic": "Competitor / trend",
+      "why_it_matters": "'Pulling a card onchain is now a tab inside wallets.' Trust Wallet and Binance Wallet both launched pack pulls this week."
+    },
+    {
+      "url": "https://x.com/FabiusDefi/status/2126314850687348806",
+      "author_handle": "@FabiusDefi",
+      "text": "I didn’t expect the wallet competition to turn into a Pokémon gacha war!\n\nBut after looking through @TrustWallet and @BinanceWallet’s launches, I’m curious whether opening card packs could bring people onchain faster than another DeFi product.\n\nBoth announced their integrations https://t.co/FnDTmrBuLE",
+      "created_at": "2026-11-27T13:59:00Z",
+      "likes": 60,
+      "reposts": 5,
+      "replies": 28,
+      "quotes": 1,
+      "topic": "Competitor / trend",
+      "why_it_matters": "Creator asks if card packs bring people onchain faster than DeFi. Good framing for our mainstream story."
+    },
+    {
+      "url": "https://x.com/Ninjasurprise_/status/2126288962620674057",
+      "author_handle": "@Ninjasurprise_",
+      "text": "Out at 6am to check the Black Friday deals.\n\nSold out of Pokémon cards everywhere.\n\nLong lines at nearly every store.\n\nIs the economy really that bad?",
+      "created_at": "2026-11-27T12:16:07Z",
+      "likes": 7,
+      "reposts": 0,
+      "replies": 4,
+      "quotes": 0,
+      "topic": "Pain points / sold-out retail",
+      "why_it_matters": "Black Friday: Pokémon cards sold out everywhere, long lines. Classic retail pain we can speak to."
+    },
+    {
+      "url": "https://x.com/crypto_banter/status/2126314323156898187",
+      "author_handle": "@crypto_banter",
+      "text": "🚨COLLECTOR CRYPT WANTS TO GIVE EBAY A RUN FOR ITS MONEY!\n\n@TuomHolmberg of @Collector_Crypt on Crypto Insider with @cryptomanran says in three years he wants RipMart live, multiple Pokémon index products with DeFi hedging, and a bigger ecosystem that starts giving eBay a run for https://t.co/E0Kfft00ZG",
+      "created_at": "2026-11-27T13:56:54Z",
+      "likes": 16,
+      "reposts": 3,
+      "replies": 5,
+      "quotes": 1,
+      "topic": "Competitor / Collector Crypt",
+      "why_it_matters": "Collector Crypt co-founder on Crypto Banter: wants RipMart to take on eBay. Our supplier is pushing its own storefront hard."
+    },
+    {
+      "url": "https://x.com/letjaybuild/status/2126273180310319223",
+      "author_handle": "@letjaybuild",
+      "text": "My first ever pack opening was One Piece OP-05 Awakening of the New Era booster box which contains 24 packs\n\nRetail price: $108\nCurrent price: $900+\n\nI pulled a rare Nami card which alone is worth $750 right now…\n\nOne Piece is too OP(no pun intended) https://t.co/4XG7SfMjvl",
+      "created_at": "2026-11-27T11:13:25Z",
+      "likes": 62,
+      "reposts": 2,
+      "replies": 12,
+      "quotes": 0,
+      "topic": "Pack openings / One Piece",
+      "why_it_matters": "A 62k account's first ever One Piece box opening. First-rip stories travel well with non-collectors."
     }
   ],
   "competitor_news": [
     {
-      "project": "Trust Wallet (Collector Crypt packs)",
-      "headline": "Trust Wallet runs a $100K+ Pokémon packs giveaway for 100 winners",
-      "url": "https://x.com/TrustWallet/status/2125900650886451708",
-      "date": "2026-11-26"
+      "project": "Trust Wallet",
+      "headline": "Pokémon packs via Collector Crypt now live inside Trust Wallet",
+      "url": "https://x.com/TrustWallet/status/2126281790079807997",
+      "date": "2026-11-27"
     },
     {
-      "project": "Trust Wallet (Collector Crypt packs)",
-      "headline": "Trust Wallet gifts a $1,000 Pokémon pack to a 214k-follower creator to rip in-app",
-      "url": "https://x.com/LilMoonLambo/status/2126033983796297870",
-      "date": "2026-11-26"
-    },
-    {
-      "project": "Renaiss",
-      "headline": "Renaiss and Asseto Finance are building a tokenized product around the Pokémon Top 50 Card Index",
-      "url": "https://x.com/renaissxyz/status/2125925519334191389",
-      "date": "2026-11-26"
-    },
-    {
-      "project": "OKX (OpenHype)",
-      "headline": "OKX X Layer gacha 'OpenHype' in public test: USDT packs of real physical cards with NFT records (per a Chinese-language crypto account)",
-      "url": "https://x.com/chiron1011/status/2125879518489661672",
-      "date": "2026-11-26"
+      "project": "Renaiss / Binance Wallet",
+      "headline": "Renaiss Gacha went live inside Binance Wallet",
+      "url": "https://x.com/setzapp/status/2126330215635042660",
+      "date": "2026-11-27"
     },
     {
       "project": "Collector Crypt",
-      "headline": "Collector Crypt co-founder on Crypto Banter pitches Pokémon as an asset class (investment framing we should not echo)",
-      "url": "https://x.com/crypto_banter/status/2125960876213543056",
-      "date": "2026-11-26"
+      "headline": "Co-founder says Collector Crypt wants RipMart to rival eBay",
+      "url": "https://x.com/crypto_banter/status/2126314323156898187",
+      "date": "2026-11-27"
+    },
+    {
+      "project": "PayBox / Collector Crypt",
+      "headline": "User rips Collector Crypt Pokémon packs from chat via PayBox plugin",
+      "url": "https://x.com/baagus_zip/status/2126358605230448810",
+      "date": "2026-11-27"
+    },
+    {
+      "project": "NBA Top Shot",
+      "headline": "Debut Rewind Pack live drop with autographed Rookie Debuts",
+      "url": "https://x.com/NBATopShot/status/2126346052454219821",
+      "date": "2026-11-27"
     },
     {
       "project": "Arena Club",
-      "headline": "Arena Club Thanksgiving promo: 20% off a first Slab Pack with a code",
-      "url": "https://x.com/ArenaClub/status/2125983127029903531",
-      "date": "2026-11-26"
+      "headline": "Greenlight runs Black Friday NFL giveaway of Arena Club Gold packs",
+      "url": "https://x.com/greenlight/status/2126382625619071253",
+      "date": "2026-11-27"
     },
     {
-      "project": "Phygitals",
-      "headline": "Small creator says he is starting a rip series on Phygitals after a big $25-pack pull",
-      "url": "https://x.com/smackempropz/status/2126011373553643884",
-      "date": "2026-11-26"
+      "project": "Disney Pinnacle",
+      "headline": "Friends-Giving trading event unlocks Winnie the Pooh pin variants",
+      "url": "https://x.com/digitalpinclub/status/2126457456171635005",
+      "date": "2026-11-27"
+    },
+    {
+      "project": "Oripa",
+      "headline": "Oripa launches Card Vault Vol. 2: six weeks of weekly Pokémon pack draws",
+      "url": "https://x.com/Stepan_Klyushin/status/2126350018080649506",
+      "date": "2026-11-27"
     }
   ],
   "solflare_mentions": [
     {
-      "url": "https://x.com/svofshahr/status/2125927482620883138",
-      "author_handle": "@svofshahr",
-      "text": "Solflare Packs ripping time babyyy !!!\n\nJust pulled a Full Art Vaporeon out of my @solflare pack🔥\n\nGet inside your Solflare wallet right now &amp; rip some packs anon https://t.co/pTW1Ogz6fk",
+      "url": "https://x.com/Omo_iyaalabi/status/2126359786920788364",
+      "author_handle": "@Omo_iyaalabi",
+      "text": "Good evening Guys🔥💫\n\nSolflare Everything Pack Everything you need to know👇\n\nI’ve been exploring @solflare Packs, and one thing I find interesting is how they’re bringing the traditional collecting experience into Web3. The Everything Pack is a good example of this.\n\nAt first, https://t.co/5ea0iGRhAA https://t.co/OmqXgPLonY",
       "sentiment": "positive",
-      "likes": 33
+      "likes": 50
     },
     {
-      "url": "https://x.com/vision_harry/status/2126195014791209177",
-      "author_handle": "@vision_harry",
-      "text": "You have seen me rip @solflare Packs quite a lot, but have you ever wondered what it actually means? \n\nSolflare Packs brings the excitement of opening collectible card packs right into your Solflare wallet.\n\nThink Pokémon, One Piece and sports cards.\n\nChoose a pack, pay with https://t.co/5rsnqtCBFI https://t.co/Y66fVphnO5",
+      "url": "https://x.com/XGinsu/status/2126376033066889347",
+      "author_handle": "@XGinsu",
+      "text": "Time for a GIVEAWAY! 💰\n\nUp $150 on this pack rip.\n\nDrop your best @solflare pull from the past 7 days.\n\nBest pull wins the best of 4 starter packs I’ll be ripping in my next post.\n\nShow me some HEAT! ✨ https://t.co/7LlPFjj1ne",
       "sentiment": "positive",
-      "likes": 13
+      "likes": 45
     },
     {
-      "url": "https://x.com/0x_invisible/status/2125891561258991712",
+      "url": "https://x.com/heis_sparkles/status/2126337824316141836",
+      "author_handle": "@heis_sparkles",
+      "text": "𝗦𝗼𝗹𝗳𝗹𝗮𝗿𝗲 𝗣𝗮𝗰𝗸𝘀 𝗘𝘅𝗽𝗹𝗮𝗶𝗻𝗲𝗱 (𝗙𝗶𝗻𝗮𝗹 𝗣𝗮𝗿𝘁): 𝗪𝗵𝗮𝘁 𝗦𝗵𝗼𝘂𝗹𝗱 𝗬𝗼𝘂 𝗞𝗻𝗼𝘄 𝗕𝗲𝗳𝗼𝗿𝗲 𝗢𝗽𝗲𝗻𝗶𝗻𝗴 𝗮 𝗣𝗮𝗰𝗸?\n\nWe've covered how @solflare packs work, what happens after a reveal, and features like Turbo mode.\n\nBut there's one more thing https://t.co/fMXXqbb7gL https://t.co/qcNKMnjPdy",
+      "sentiment": "positive",
+      "likes": 43
+    },
+    {
+      "url": "https://x.com/ZansumJ123/status/2126261092716343648",
+      "author_handle": "@ZansumJ123",
+      "text": "Your @solflare has a secret side hustle, and it's way more fun than you'd expect \n\nWith Solflare Packs, you can open packs of real, professionally graded trading cards right from your wallet \nGo and Rip some packs today. https://t.co/jJdVPKZ0xu",
+      "sentiment": "positive",
+      "likes": 21
+    },
+    {
+      "url": "https://x.com/0x_invisible/status/2126262813677010958",
       "author_handle": "@0x_invisible",
-      "text": "@solflare Packs make digital collecting even more exciting.\n\nYou open a pack, reveal random collectible cards, and decide what to do with your pulls. \n\nKeep them in your collection, sell them on the marketplace, or explore other ways to enjoy your collectibles.\n\nSpeaking of https://t.co/Bh8HF2WpNn",
+      "text": "What makes collecting even better? Being able to own, trade, or redeem what you pull.\n\nThat's what @solflare Packs bring to the table.\n\nYou can open digital packs, discover graded collectibles ranging from Pokémon cards to sports memorabilia, and get verifiable on-chain ownership https://t.co/oEKMf95sLN",
       "sentiment": "positive",
-      "likes": 10
+      "likes": 17
     },
     {
-      "url": "https://x.com/Aboy__2004/status/2125892280040992872",
-      "author_handle": "@Aboy__2004",
-      "text": "Imagine ripping a @Solflare Pack and discovering this beautiful Articuno EX! \n\nThis Full Art collectible comes from the Pokémon Black &amp; White Plasma Storm set, carries a PSA 9 Mint grade, and has an insured value of $2,100 on the platform.\n\nFor Pokémon collectors, finding a card https://t.co/OHQXzr6gob https://t.co/naXY4DVk03",
+      "url": "https://x.com/hero_onchain/status/2126267405907173404",
+      "author_handle": "@hero_onchain",
+      "text": "The rip still hits the same.\n\nBut this time the card is already graded, already vaulted, and already yours.\n\nSolflare Packs lets you open real trading cards (Pokémon, One Piece, sports, and more) directly inside your wallet.  \nPay with USDC. Watch the reveal. Own the physical https://t.co/uXPG2EqEsB",
       "sentiment": "positive",
-      "likes": 13
+      "likes": 11
     },
     {
-      "url": "https://x.com/am_kalhel/status/2125975522232484252",
-      "author_handle": "@am_kalhel",
-      "text": "Most People Still Think Solflare Packs are just “ANOTHER CRYPTO CARD THING” nope they’re not!!\n\n• You open real graded slabs inside the @solflare Wallet, \n• pay in USDC, \nand the card is actually sitting in a vault.\nThe NFT is just the title that’s why the November Packs drop https://t.co/DqEmcAF4Gf",
-      "sentiment": "positive",
-      "likes": 5
-    },
-    {
-      "url": "https://x.com/0xGlamor/status/2126019155895758939",
-      "author_handle": "@0xGlamor",
-      "text": "People have been ripping @solflare Packs all week, and the pulls are getting fun 👀\n\nHere's what's coming out of them:\n\n🔥 @LipeSolana opened a few packs at the airport and pulled a Charizard from the Starter pack\n\n🎴 @CryptoGrit pulled a 2014 Japanese 1st Edition Sceptile, https://t.co/evbmyRmbm2",
-      "sentiment": "positive",
-      "likes": 5
-    },
-    {
-      "url": "https://x.com/JoshNkay/status/2126052183774806273",
-      "author_handle": "@JoshNkay",
-      "text": "The year is gradually coming to an end, and you still haven't ripped a Solflare Pack? 👀\nThere's still time to experience the excitement. Don't let the year end without exploring what Solflare Packs have to offer.\n@solflare https://t.co/qosOqxG4Vi",
-      "sentiment": "positive",
-      "likes": 6
-    },
-    {
-      "url": "https://x.com/RealGentleMike/status/2125900983880253507",
-      "author_handle": "@RealGentleMike",
-      "text": "Card collecting meets Web3 with @solflare Packs! 🎴\n\nExplore different packs, check their details and odds, then open with USDC to discover your pull.\n\nYour collectible is represented on-chain, with the physical graded card securely stored.\n\nWould you keep your pull or redeem it? https://t.co/vukqMJ1vya",
-      "sentiment": "positive",
-      "likes": 6
-    },
-    {
-      "url": "https://x.com/degenghosty/status/2126045470975766803",
-      "author_handle": "@degenghosty",
-      "text": "@CapinUK @SuperteamUK @solana @SolanaEvents @hackerhouses Got dam!!! I need some collector crypt, meteora and solflare merch!",
+      "url": "https://x.com/Kenny_Tomide/status/2126246377109725498",
+      "author_handle": "@Kenny_Tomide",
+      "text": "The Everything Pack on @solflare is live for a limited time and you should not sleep on it\n\nIt's 99 $USDC per pack, with cards valued up to $50,000\n→ Common: $49.5 to $99, 75%\n→ Uncommon: $99 to $198, 20%\n→ Rare: $198 to $495, 4%\n→ Epic: $495+, 1%\n\n90% instant buyback if you https://t.co/1OHNYB6dsM",
       "sentiment": "neutral",
-      "likes": 1
+      "likes": 9
+    },
+    {
+      "url": "https://x.com/GetVigFox/status/2126338690263691298",
+      "author_handle": "@GetVigFox",
+      "text": "the everything pack is on the board now 🦊\n\n$99 usdc, sold only on solflare packs, 90% instant buyback. live value-back right now: ~90.3% if you sell every pull back, ~$89 per $99, 4,174 cards left in the pool.\n\nlive, minute by minute: https://t.co/hlDCcNKqoY\n\npacks are random, https://t.co/F1ePlsoPxx",
+      "sentiment": "neutral",
+      "likes": 2
     }
   ],
   "new_creators": [
     {
-      "handle": "@reignonx_",
-      "url": "https://x.com/reignonx_",
-      "followers": 7510,
-      "segment": "Onchain gacha / packs commentator",
+      "handle": "@letjaybuild",
+      "url": "https://x.com/letjaybuild",
+      "followers": 62200,
+      "segment": "Storyteller / first-time One Piece opener",
+      "crypto_friendly": "unknown",
+      "reason": "62k followers, just posted his first ever One Piece box opening. Mainstream reach, new to the hobby."
+    },
+    {
+      "handle": "@XGinsu",
+      "url": "https://x.com/XGinsu",
+      "followers": 5678,
+      "segment": "Solflare Packs ripper",
       "crypto_friendly": "yes",
-      "reason": "Bio: 'onchain gacha obsession'. Posts roundups of new pack projects (Hot Wheels gacha etc). 7.5k followers, high reply counts."
+      "reason": "Rips Solflare packs and runs pull contests for his followers."
     },
     {
-      "handle": "@syncd_collect",
-      "url": "https://x.com/syncd_collect",
-      "followers": 5040,
-      "segment": "Pokémon TCG app / market data",
-      "crypto_friendly": "unknown",
-      "reason": "Card scanning and tracking app for Pokémon, One Piece, MTG. Posts clear market reactions; possible content or data partner."
-    },
-    {
-      "handle": "@RoaringHammy",
-      "url": "https://x.com/RoaringHammy",
-      "followers": 14550,
-      "segment": "Mainstream parent buyer",
-      "crypto_friendly": "unknown",
-      "reason": "Personal finance creator buying Pokémon for his daughter; says it was sold out everywhere and he hopes he wasn't scammed. Exactly the mainstream buyer we want to reach."
-    },
-    {
-      "handle": "@TheCardScience",
-      "url": "https://x.com/TheCardScience",
-      "followers": 4490,
-      "segment": "Pokémon market analyst creator",
-      "crypto_friendly": "unknown",
-      "reason": "Pokémon buying/selling and market analysis, says 75k followers across platforms. Covered the PSA news fast."
-    },
-    {
-      "handle": "@RattlePokemon",
-      "url": "https://x.com/RattlePokemon",
-      "followers": 8552,
-      "segment": "Pokémon news / video creator",
-      "crypto_friendly": "unknown",
-      "reason": "8.5k followers, Pokémon market news videos with discount-code links. Good for explainer collabs."
-    },
-    {
-      "handle": "@GetVigFox",
-      "url": "https://x.com/GetVigFox",
-      "followers": 44,
-      "segment": "Solana packs data tool",
+      "handle": "@baagus_zip",
+      "url": "https://x.com/baagus_zip",
+      "followers": 736,
+      "segment": "Crypto Pokémon ripper",
       "crypto_friendly": "yes",
-      "reason": "Tracks live EV and cheapest storefronts for Collector Crypt and Phygitals packs. Tiny account but very on-topic; watch, not outreach yet."
+      "reason": "Rips Collector Crypt Pokémon packs onchain and writes about it."
+    },
+    {
+      "handle": "@Rizvi_Web3",
+      "url": "https://x.com/Rizvi_Web3",
+      "followers": 11369,
+      "segment": "Web3 Pokémon ripper",
+      "crypto_friendly": "yes",
+      "reason": "Posted his first Trust Wallet gacha rip. Open to in-wallet packs."
+    },
+    {
+      "handle": "@JakeBalchNFT",
+      "url": "https://x.com/JakeBalchNFT",
+      "followers": 20132,
+      "segment": "Pokémon collector (Courtyard)",
+      "crypto_friendly": "yes",
+      "reason": "Daily 'card of the day' posts collecting on Courtyard. 20k followers."
+    },
+    {
+      "handle": "@afbelardi",
+      "url": "https://x.com/afbelardi",
+      "followers": 372,
+      "segment": "Courtyard collector",
+      "crypto_friendly": "yes",
+      "reason": "Posts free-pack pulls on Courtyard. Small but active."
+    },
+    {
+      "handle": "@CatchEmCobain",
+      "url": "https://x.com/CatchEmCobain",
+      "followers": 2292,
+      "segment": "Pokémon collector",
+      "crypto_friendly": "unknown",
+      "reason": "Mewtwo collector trying Arena Club digital packs. Crypto-curious collector profile."
+    },
+    {
+      "handle": "@Alanfalcon",
+      "url": "https://x.com/Alanfalcon",
+      "followers": 11279,
+      "segment": "Digital collectibles builder / Disney Pinnacle",
+      "crypto_friendly": "yes",
+      "reason": "Builds at CryptoKitties, active Disney Pinnacle trader. 11k followers."
+    },
+    {
+      "handle": "@DietWaterGUY",
+      "url": "https://x.com/DietWaterGUY",
+      "followers": 6768,
+      "segment": "Sports card collector",
+      "crypto_friendly": "unknown",
+      "reason": "Posts simple rules on testing new Topps products. Mainstream sports angle."
+    },
+    {
+      "handle": "@BurlsSports",
+      "url": "https://x.com/BurlsSports",
+      "followers": 9359,
+      "segment": "Vintage sports breaker",
+      "crypto_friendly": "unknown",
+      "reason": "Runs vintage Topps breaks with live broadcasts."
     }
   ],
   "post_ideas": [
     {
-      "idea": "Calm explainer riding the PSA talk: cards in Solflare Packs are already graded and vaulted before you open. No digs at PSA, no value talk.",
-      "draft_copy": "Lots of grading talk this week.\n\nHow it works in Solflare Packs: every card is already graded (PSA or Beckett) and stored in a vault before you open the pack.\n\nKeep it, sell it back within 72h, or ship it home. 18+",
+      "idea": "Black Friday sold-out shelves, light and relatable",
+      "draft_copy": "Stores sold out of Pokémon cards this morning?\nNo line here.\nOpen a pack of real graded cards in Solflare. Keep it, sell it back, or ship it home.",
       "needs_legal_check": false
     },
     {
-      "idea": "Black Friday, no discount: a light 'skip the line' post for people who don't want to camp at stores.",
-      "draft_copy": "Black Friday plan:\n❌ queue outside the store at 6am\n✅ open a pack from your couch\n\nReal graded cards, right in your Solflare wallet. Try the free demo first. 18+",
+      "idea": "Pull of the week: repost community pulls (no prize)",
+      "draft_copy": "Show us your best pull this week 👇\nReal graded cards, opened in your Solflare wallet.",
       "needs_legal_check": false
     },
     {
-      "idea": "Community 'your first pull' thread: ask people to share their first Solflare Packs pull, repost a few with permission.",
-      "draft_copy": "What was your first pull in Solflare Packs? 👀\n\nDrop a screenshot below. We'll share a few favorites this week. 18+",
+      "idea": "Everything Pack in one picture: what's inside, odds shown first, try the demo",
+      "draft_copy": "One pack. Pokémon, One Piece, sports, anime.\nEvery card is real and graded.\nOdds are shown before you open. Try the free demo first. 18+",
       "needs_legal_check": true
     }
   ],
-  "sources_note": "X search via the x connector, 18 queries (25 results each), window 2026-11-26 09:05 UTC to 2026-11-27 ~09:10 UTC. Engagement and follower counts are as returned by the X API at scan time. The payments query (Apple Pay / Google Pay / card + crypto + collectibles) returned only crypto debit card promos, nothing on buying collectibles by card. OKX OpenHype item comes from a third-party post, not OKX. Trust Wallet staff accounts and token-shill accounts were skipped as creators. Creators already in collector-base.csv or earlier digests were skipped."
+  "sources_note": "Built from 14 searches of X recent posts (search_posts_all, relevancy sort) from 2026-11-27 09:05 UTC to about 09:05 UTC on 2026-11-28, max 25 results each. Engagement numbers are copied from the X API at fetch time. Retweets, bots and giveaway farms skipped. New creators checked against collector-base.csv and earlier daily files."
 }
